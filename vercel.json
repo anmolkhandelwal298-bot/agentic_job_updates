@@ -1,25 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "cleanUrls": true,
-  "functions": {
-    "api/*.js": {
-      "includeFiles": "data/**"
-    },
-    "api/site.js": {
-      "includeFiles": "templates/**"
-    }
-  },
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/api/site"
-    }
-  ],
-  "crons": [
-    {
-      "path": "/api/cron-update",
-      "schedule": "30 3 * * *"
-    }
-  ]
+  "outputDirectory": "dist",
+  "cleanUrls": true
 }
