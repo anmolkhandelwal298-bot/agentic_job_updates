@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA IT: +17 NET EMPLOYEES IN 9 MONTHS · GENAI ROLES: 1 QUALIFIED ENGINEER PER 10 OPENINGS (TEAMLEASE)",
+  "ticker_text": "ORACLE: THOUSANDS TO BE CUT · INDIA: 15 LAKH ENGINEERS 'NOT ENOUGH' FOR AI ECONOMY",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "#",
     "button": "Join The Waitlist →"
   },
-  "footer_text": "All data sourced from The Economic Times, Computerworld and other reputed outlets. Compiled for educational awareness · April 2026",
+  "footer_text": "Sources: The Bridge Chronicle, Business Today and other reputed outlets · Compiled for educational awareness · Apr 2026",
   "layoffs": [
+    {
+      "c": "Oracle",
+      "ind": "Technology",
+      "imp": "Thousands",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#F80000",
+      "txt": "The Bridge Chronicle reports Oracle is planning another round of cuts as it continues ramping investment in AI.",
+      "q": "Oracle to cut thousands of jobs amid rising AI investment",
+      "lk": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUs1SU4tTDJxWFFKbjN5X2Q1UW41dU16YkwzQzNockFSSmVxS3liSXVmQkxvUlJFNFFkSTgwSzAtM0xXbktWUEY0QU43S04yb25yd3U2aWdoZW9PcGV2ZVBxaURaVGtacmZUd2dMM0puTGVBOVFqZzBab3RwR0Y5dXFYdzlEYnljVUxXMFo0NmvSAZ4BQVVfeXFMT3NDLXg3U2NPSE9tb3doMnRBb2VoLUZ4NktqNmJDdktXYlZOVFZuT1M5RnFab1lRSHhvSWI2RWpZRGRNZXFiWC1lWVRqVFBFNW1SX2M4cDlWTEV4NTV1ekxnMUswU3NWSkJaUGVJYTRjVDBMTXZYdUpHUVJyaXBhYWFnd3pSUTlMa0hRdEo4ZGlHOXBScWo0THZaVHRweFE?oc=5",
+      "s": "The Bridge Chronicle",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
@@ -262,6 +276,15 @@
   ],
   "india": [
     {
+      "c": "AI Talent Gap",
+      "role": "Workforce Supply",
+      "txt": "Business Today flags an AI workforce shortfall, arguing <em>15 lakh engineers</em> still won’t meet India’s AI-economy demand.",
+      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
+      "s": "Business Today",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "IT Hiring Slowdown",
       "role": "Computerworld Analysis",
       "txt": "Indian IT firms reportedly added just <em>17 net employees</em> over nine months, pointing to a cautious hiring environment even as AI investment rises. The piece flags a disconnect between AI momentum and broad-based headcount growth.",
@@ -277,15 +300,6 @@
       "lk": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWw0TVZ1VVdkTGp2S2tCeFpSY080ZEdZMHVpa19yQ2ZOZ0lJOGdEaVM3N3puWWg5aUZ6WGxrVEVramc0Y21xbTFjaWVyWXpDeUpOODdlRXIwdzEzbTg2VnI2dFNPZDBCOTBIdWlDRGRTN0N0MVNxZk15NkRsM2ZBdzVPNjZMUmpzUU1ROVBxSmNtU29HeHlEQTYzWHAyTENJeG02WHJGVUx4TVhteUlEVHV0YWNzdDI5WURoUjVLYm91MnF5SnZLc2FjOTNwN3JjdG5BYkp5SUlncV9PeE9sbmNaWV80MnRLTzhVcGdTQUE2RGM2S0RXVNIB_gFBVV95cUxQTDFQN3daNEduMHU2SkZXbnVKcTNpUHpYREE5aV9TNVl3UlJlZHBxdEI1RXFCSGVGNDY5MlFQNnZ1LXZ0a0tuTVZqcmxfZnZJdFdZV2FLMTZYckx4MWZNTVdzMHFVRGE1NG9MaU5HRjJQU3kwNEtDaHItZVk3dWRrMGlvWWdjMUg3T3VWOUF6VTBYdWpsT3V4YVdVVDYybG5OY2ZfX2w0X3BmYndEWFE5dzZrdGtsU0lmXzN0dFVjd2JCMTg0bE5aOEpzWWNNUjNFUmYxOGlwZlRNdkMxMTJnOGg0Z3J5a25HR2daT1R5QWZxak9EZnVDQVVWb2U2QQ?oc=5",
       "s": "The Economic Times",
       "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India AI talent gap",
-      "role": "GenAI / AI engineering",
-      "txt": "Business Today flags a demand-supply mismatch: <em>15 lakh engineers</em> still may not meet India’s AI-economy needs—signal to upskill in LLM tooling, data, and applied ML.",
-      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
-      "s": "Business Today",
-      "col": "GREEN",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
