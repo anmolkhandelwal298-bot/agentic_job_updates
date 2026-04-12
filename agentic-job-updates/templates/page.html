@@ -185,11 +185,16 @@ const layoffs=__LAYOFFS_JSON__;
 const india=__INDIA_JSON__;
 const layoffFilters=__LAYOFF_FILTERS_JSON__;
 
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function safeTxt(s){return String(s||'').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/&lt;(\/?)em&gt;/g,'<$1em>');}
+function safeCol(c){return /^[#a-zA-Z0-9(),.\s%]+$/.test(String(c||''))?String(c):'#666';}
+
 function avatarMarkup(item){
+  const init=String(item.c||'').slice(0,2).toUpperCase();
   if(item.logo){
-    return `<img src="${item.logo}" alt="${item.c} logo" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.textContent='${item.c.slice(0,2).toUpperCase()}'; this.remove();">`;
+    return `<img src="${esc(item.logo)}" alt="${esc(item.c)} logo" data-init="${init}" loading="lazy" referrerpolicy="no-referrer" onerror="var p=this.parentElement;p.textContent=this.dataset.init;">`;
   }
-  return item.c.slice(0,2).toUpperCase();
+  return init;
 }
 
 function renderLay(filter){
@@ -199,9 +204,9 @@ function renderLay(filter){
   else if(filter==='10k+')data=layoffs.filter(item=>item.big);
   document.getElementById('lay-cnt').textContent=data.length+' REPORTS';
   document.getElementById('lg').innerHTML=data.map(item=>`
-    <div class="cd"><div class="cd-top"><div class="cd-av" style="background:${item.col}">${avatarMarkup(item)}</div><div class="cd-who"><div class="cd-n">${item.c}</div><div class="cd-r">${item.ind}</div></div><span class="tag tag-r">${item.imp}</span></div>
-    <div class="cd-txt">${item.txt}</div><div class="cd-q">"${item.q}"</div>
-    <div class="cd-bot"><span class="cd-src">📅 ${item.d} · ${item.s}</span><a class="cd-lk" href="${item.lk}" target="_blank" rel="noopener noreferrer">READ ARTICLE →</a></div></div>`).join('');
+    <div class="cd"><div class="cd-top"><div class="cd-av" style="background:${safeCol(item.col)}">${avatarMarkup(item)}</div><div class="cd-who"><div class="cd-n">${esc(item.c)}</div><div class="cd-r">${esc(item.ind)}</div></div><span class="tag tag-r">${esc(item.imp)}</span></div>
+    <div class="cd-txt">${safeTxt(item.txt)}</div><div class="cd-q">"${esc(item.q)}"</div>
+    <div class="cd-bot"><span class="cd-src">📅 ${esc(item.d)} · ${esc(item.s)}</span><a class="cd-lk" href="${esc(item.lk)}" target="_blank" rel="noopener noreferrer">READ ARTICLE →</a></div></div>`).join('');
 }
 
 function setLayoffFilter(filter,button){
@@ -210,12 +215,12 @@ function setLayoffFilter(filter,button){
   renderLay(filter);
 }
 
-document.getElementById('lf').innerHTML=layoffFilters.map((filter,index)=>`<button class="fb${index===0?' on':''}" onclick="setLayoffFilter('${filter.value}',this)">${filter.label}</button>`).join('');
+document.getElementById('lf').innerHTML=layoffFilters.map((filter,index)=>`<button class="fb${index===0?' on':''}" onclick="setLayoffFilter('${esc(filter.value)}',this)">${esc(filter.label)}</button>`).join('');
 
 document.getElementById('ig').innerHTML=india.map(item=>`
-  <div class="cd" style="border-left:3px solid ${item.col}"><div class="cd-top"><div class="cd-av" style="background:${item.col}">${avatarMarkup(item)}</div><div class="cd-who"><div class="cd-n">${item.c}</div><div class="cd-r">${item.role}</div></div><span class="tag tag-g">INDIA</span></div>
-  <div class="cd-txt">${item.txt}</div>
-  <div class="cd-bot"><span class="cd-src">📎 ${item.s}</span><a class="cd-lk cd-lk-g" href="${item.lk}" target="_blank" rel="noopener noreferrer">READ →</a></div></div>`).join('');
+  <div class="cd" style="border-left:3px solid ${safeCol(item.col)}"><div class="cd-top"><div class="cd-av" style="background:${safeCol(item.col)}">${avatarMarkup(item)}</div><div class="cd-who"><div class="cd-n">${esc(item.c)}</div><div class="cd-r">${esc(item.role)}</div></div><span class="tag tag-g">INDIA</span></div>
+  <div class="cd-txt">${safeTxt(item.txt)}</div>
+  <div class="cd-bot"><span class="cd-src">📎 ${esc(item.s)}</span><a class="cd-lk cd-lk-g" href="${esc(item.lk)}" target="_blank" rel="noopener noreferrer">READ →</a></div></div>`).join('');
 
 renderLay('all');
 </script>
