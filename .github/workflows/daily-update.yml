@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install openai
+
       - name: Run daily update
         working-directory: agentic-job-updates/scripts
         env:

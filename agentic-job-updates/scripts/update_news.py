@@ -19,7 +19,7 @@ from logo_utils import enrich_collection
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_PATH = ROOT / "data" / "content.json"
 
-DEFAULT_MODEL = "gpt-5-mini"
+DEFAULT_MODEL = "gpt-5.2"
 GOOGLE_NEWS = "https://news.google.com/rss/search"
 
 LAYOFF_QUERIES = [
@@ -178,11 +178,18 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
         "today": datetime.now().strftime("%Y-%m-%d"),
     }
 
-    body = {
-        "model": model,
-        "instructions": instructions,
-        "input": json.dumps(user_input, ensure_ascii=False),
-        "text": {
+    from openai import OpenAI
+    client = OpenAI(api_key=api_key)
+
+    response = client.responses.create(
+        model=model,
+        reasoning={"effort": "medium"},
+        instructions=instructions,
+        input=[{
+            "role": "user",
+            "content": json.dumps(user_input, ensure_ascii=False),
+        }],
+        text={
             "format": {
                 "type": "json_schema",
                 "name": schema["name"],
@@ -190,21 +197,9 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
                 "strict": True,
             }
         },
-    }
-    request = urllib.request.Request(
-        "https://api.openai.com/v1/responses",
-        data=json.dumps(body).encode("utf-8"),
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
-        method="POST",
     )
 
-    with urllib.request.urlopen(request, timeout=90) as response:
-        payload = json.loads(response.read().decode("utf-8"))
-
-    return json.loads(extract_response_text(payload))
+    return json.loads(response.output_text)
 
 
 def merge_items(existing: list[dict], incoming: list[dict], key: str, limit: int):
