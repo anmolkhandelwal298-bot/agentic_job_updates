@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add agentic-job-updates/data/content.json agentic-job-updates/dist/index.html agentic-job-updates/dist/ai-layoffs-and-jobs.html
+          git add agentic-job-updates/data/content.json agentic-job-updates/dist/index.html
           git diff --cached --quiet || git commit -m "chore: daily news update $(date -u '+%Y-%m-%d')"
           git push
