@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "⚡ 91,739 TECH WORKERS LAID OFF IN Q1 2026 — 908/DAY · 48% ATTRIBUTED TO AI · ORACLE CUTTING UP TO 30,000 · BLOCK CUT WORKFORCE IN HALF — \"AI CHANGED EVERYTHING\" · INDIA: 3.8 LAKH AI JOBS PROJECTED FOR 2026 (+32% YoY) · HIRING INTENT UP 11% · ⚡ 91,739 TECH WORKERS LAID OFF IN Q1 2026 — 908/DAY · 48% ATTRIBUTED TO AI · ORACLE CUTTING UP TO 30,000 · BLOCK CUT WORKFORCE IN HALF — \"AI CHANGED EVERYTHING\" · INDIA: 3.8 LAKH AI JOBS PROJECTED FOR 2026 (+32% YoY) · HIRING INTENT UP 11% ·",
+  "ticker_text": "AI JOBS & LAYOFFS — INDIA SOFTWARE ENGINEERS",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,36 @@
     "link": "#",
     "button": "Join The Waitlist →"
   },
-  "footer_text": "All data sourced from CNBC, CNN, Al Jazeera, Tom's Hardware, Fortune, Anthropic Research, IEEE, WEF, foundit, Adecco India, Taggd-CII & reputed outlets. Compiled for educational awareness · April 2026",
+  "footer_text": "All data sourced from Nikkei Asia, The New York Times, The Indian Express, Business Today, Business Standard & other reputed outlets. Compiled for educational awareness · April 2026",
   "layoffs": [
+    {
+      "c": "Tech industry (Q1 2026)",
+      "ind": "Global tech",
+      "imp": "Nikkei Asia reports ~80,000 tech jobs cut in Q1 2026; AI-driven restructuring may not be fully reflected yet.",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "RED",
+      "txt": "Q1 tally points to sustained cuts even as firms reallocate budgets toward AI infra and automation.",
+      "q": "“Nearly 80,000 tech jobs cut in Q1, but AI's full impact may be yet to come.”",
+      "lk": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS3BtTm9PcnRDQ3dGVTB2Y2tCUHUyTnpEOU1nNlA1Y3ZUb3FlTWJDdE9sWXBmQ19Sbmg1YUV1NXlFb3Rtd2M2QVJjQlZYRXRjdE5EMElmZi1pX0RkSGRCRkQzX1NqN1o0VXI1SEo2UmMwSm1FdHJJaDcyWDNNc3NlMzVkVGFpYXVEOHVuV1F2OUxxa0RuRWpkdFdQbnR3ZnF3MzJOdFQtZ0FRUHJHeW1GVlhFSDZzeHNMZzd3VzJKaTBqd2U0UE9LU0pLaHRYWXp3ZVo4MmN5Z2I?oc=5",
+      "s": "Nikkei Asia",
+      "logo": "nikkei"
+    },
+    {
+      "c": "Silicon Valley (trend)",
+      "ind": "Big Tech",
+      "imp": "NYT documents how AI adoption is changing team structures, with roles being consolidated as companies chase productivity gains.",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "RED",
+      "txt": "Hiring signals are shifting: fewer “do-everything” generalist roles, more AI-adjacent engineers and platform builders.",
+      "q": "“A.I. Could Change the World. But First It Is Changing Silicon Valley.”",
+      "lk": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVrbXEzcjg3QkI0b3Y4TDNyaXVQd2VSZl9BX0VscldyN1RXLXl1WGI4b0QyZ0pvZGdOMzdBYzBMVmtpNHhKRW0ycjFydGhoby1WOHo0LURJaTZERHRDT05Ub1FCbUV2ZFhlSzdJMEplY0hTRm40cEdiODdFN0g4cTU4MWI?oc=5",
+      "s": "The New York Times",
+      "logo": "nyt"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
@@ -130,7 +158,8 @@
       "txt": "Reallocating savings to AI data center investments. Stock down 25% YTD.",
       "q": "Layoff email signed 'Oracle Leadership'. Expected to save up to $10B.",
       "lk": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
-      "s": "CNBC"
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
     },
     {
       "c": "Block (Square)",
@@ -143,7 +172,8 @@
       "txt": "Headcount slashed from 10,000 to under 6,000. Largest single AI-attributed reduction in corporate history.",
       "q": "CEO Dorsey: 'Intelligence tools have changed what it means to build and run a company.'",
       "lk": "https://tech-insider.org/tech-layoffs-2026-ai-workforce-impact/",
-      "s": "Tech Insider"
+      "s": "Tech Insider",
+      "logo": "https://www.google.com/s2/favicons?domain=block.xyz&sz=128"
     },
     {
       "c": "Atlassian",
@@ -156,20 +186,8 @@
       "txt": "10% workforce cut for 'AI era'. Employees with transferable skills were spared.",
       "q": "CEO Cannon-Brookes: changes needed for the AI era.",
       "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "Ocado",
-      "ind": "E-commerce",
-      "imp": "~1,000",
-      "d": "Mar 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#6e2b8b",
-      "txt": "Completed major robotics/automation investment. Cutting from 20K workforce.",
-      "q": "CEO Steiner: 'Completed significant phase of investment in robotics.'",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
+      "s": "Programs.com",
+      "logo": "https://www.google.com/s2/favicons?domain=atlassian.com&sz=128"
     },
     {
       "c": "Dell",
@@ -182,7 +200,8 @@
       "txt": "Primary driver of March 2026 tech cuts per Challenger Report.",
       "q": "AI led all reasons for job cuts in March 2026 with 15,341 announced.",
       "lk": "https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/",
-      "s": "Challenger Gray"
+      "s": "Challenger Gray",
+      "logo": "https://www.google.com/s2/favicons?domain=dell.com&sz=128"
     },
     {
       "c": "Meta (Reality Labs)",
@@ -195,20 +214,8 @@
       "txt": "Pivoting from Metaverse to AI. Lost $60B+ on Metaverse since 2020.",
       "q": "CTO Bosworth: redirect investment toward AI products.",
       "lk": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
-      "s": "InformationWeek"
-    },
-    {
-      "c": "Baker McKenzie",
-      "ind": "Law",
-      "imp": "600–1,000",
-      "d": "Feb 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#333",
-      "txt": "Global law firm cutting up to 10%. Research, marketing, secretarial roles replaced by AI.",
-      "q": "Improving efficiency through AI, refocusing on client-serving roles.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
+      "s": "InformationWeek",
+      "logo": "https://www.google.com/s2/favicons?domain=meta.com&sz=128"
     },
     {
       "c": "Amazon",
@@ -221,98 +228,8 @@
       "txt": "Second wave in 3 months. Affecting Prime Video, AWS, HR divisions.",
       "q": "Aimed at reducing red tape and speeding decision-making.",
       "lk": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push",
-      "s": "Al Jazeera"
-    },
-    {
-      "c": "Autodesk",
-      "ind": "Software",
-      "imp": "~1,000",
-      "d": "Jan 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#0696D7",
-      "txt": "7% workforce cut — 'strategic shifts' toward AI.",
-      "q": "CEO Anagnost: 'Not driven by effort to replace people with AI.'",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "UPS",
-      "ind": "Logistics",
-      "imp": "30,000+",
-      "d": "Jan 2026",
-      "y": "2026",
-      "big": 1,
-      "col": "#351C15",
-      "txt": "30K jobs cut, 24 facilities closed. AI/ML handling pricing, scheduling, tracking.",
-      "q": "CEO Tomé: ML enabling cuts. 66% volume through automated facilities.",
-      "lk": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push",
-      "s": "Al Jazeera"
-    },
-    {
-      "c": "Dow",
-      "ind": "Manufacturing",
-      "imp": "~4,500",
-      "d": "Jan 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#E2001A",
-      "txt": "Chemical giant shifting to AI across manufacturing and operations.",
-      "q": "Part of industry-wide shift to AI-driven manufacturing.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "ASML",
-      "ind": "Semiconductor",
-      "imp": "~3,000",
-      "d": "Jan 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#00A3E0",
-      "txt": "3.8% cut despite record AI-driven orders. Citing efficiency.",
-      "q": "CFO Dassen: efficiency despite AI boom driving record orders.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "Accenture",
-      "ind": "Consulting",
-      "imp": "~11,000",
-      "d": "Dec 2025",
-      "y": "2025",
-      "big": 1,
-      "col": "#A100FF",
-      "txt": "Restructuring tied to AI changing how work is done inside the firm.",
-      "q": "Shift from execution roles to AI integration consulting.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "Omnicom",
-      "ind": "Media/Ads",
-      "imp": "~4,000",
-      "d": "Dec 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#1E3264",
-      "txt": "Major layoffs following Interpublic Group acquisition.",
-      "q": "CEO Wren: generative AI giving 'fresh agility and scale'.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "McKinsey",
-      "ind": "Consulting",
-      "imp": "~200",
-      "d": "Nov 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#051C2C",
-      "txt": "Automated non-client-facing work with AI. Offered retraining.",
-      "q": "Human oversight remains critical in complex projects.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
+      "s": "Al Jazeera",
+      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
     },
     {
       "c": "Amazon",
@@ -325,20 +242,8 @@
       "txt": "Flattened management. SVP Galetti cited AI enabling fewer people.",
       "q": "CEO Jassy: run company like 'world's largest startup'.",
       "lk": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-      "s": "CNBC"
-    },
-    {
-      "c": "C.H. Robinson",
-      "ind": "Logistics",
-      "imp": "~1,400",
-      "d": "Oct 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#003DA5",
-      "txt": "AI-driven tools for pricing, scheduling, tracking replaced humans.",
-      "q": "Direct automation of logistics operations.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
     },
     {
       "c": "Fiverr",
@@ -351,20 +256,8 @@
       "txt": "CEO: 'We implemented AI projects that replaced human work.' AI-first.",
       "q": "CEO Kaufman: hit profit target a year early thanks to AI.",
       "lk": "https://tech.co/news/fiverr-layoffs-ai-first",
-      "s": "Tech.co"
-    },
-    {
-      "c": "Salesforce",
-      "ind": "CRM/Tech",
-      "imp": "~4,000",
-      "d": "Sep 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#00A1E0",
-      "txt": "Cut support roles. CEO said AI does 50% of work. Stopped hiring engineers.",
-      "q": "Benioff openly vocal about AI replacing engineering roles.",
-      "lk": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-      "s": "CNBC"
+      "s": "Tech.co",
+      "logo": "https://www.google.com/s2/favicons?domain=fiverr.com&sz=128"
     },
     {
       "c": "IBM",
@@ -377,33 +270,8 @@
       "txt": "CEO Krishna replaced HR employees with AI. ~8K back-office roles cut.",
       "q": "Note: IBM tripled entry-level hiring in 2026 — bucking the trend.",
       "lk": "https://gulfnews.com/technology/ai-job-cuts-the-8-major-companies-replacing-humans-with-bots-1.500450587",
-      "s": "Gulf News"
-    },
-    {
-      "c": "BlackRock",
-      "ind": "Finance",
-      "imp": "~500",
-      "d": "Jun 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#000",
-      "txt": "AI expanding across investment analysis. Traditional support reduced.",
-      "q": "Shifting toward technology and data-driven systems.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com"
-    },
-    {
-      "c": "Klarna",
-      "ind": "Fintech",
-      "imp": "~40% workforce",
-      "d": "2024–2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#FFB3C7",
-      "txt": "AI chatbot does work of 700 agents. Shrank headcount ~40%.",
-      "q": "CEO Siemiatkowski: most transparent about AI replacing workers.",
-      "lk": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-      "s": "CNBC"
+      "s": "Gulf News",
+      "logo": "https://www.google.com/s2/favicons?domain=ibm.com&sz=128"
     },
     {
       "c": "Duolingo",
@@ -416,17 +284,46 @@
       "txt": "Declared AI-first. Stopped using contractors for AI-handleable work.",
       "q": "CEO von Ahn: 'Similar call to our mobile-first bet — now it's AI.'",
       "lk": "https://www.hcamag.com/us/specialization/hr-technology/ai-first-duolingo-plans-to-cut-contractor-roles/533895",
-      "s": "HRD America"
+      "s": "HRD America",
+      "logo": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=128"
     }
   ],
   "india": [
+    {
+      "c": "India AI talent gap",
+      "role": "GenAI / AI engineering",
+      "txt": "Business Today flags a demand-supply mismatch: <em>15 lakh engineers</em> still may not meet India’s AI-economy needs—signal to upskill in LLM tooling, data, and applied ML.",
+      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
+      "s": "Business Today",
+      "col": "GREEN",
+      "logo": "businesstoday"
+    },
+    {
+      "c": "India IT (GenAI adoption)",
+      "role": "Software / platform engineering",
+      "txt": "The Indian Express cites a study arguing GenAI is <em>redefining</em> tech work more than replacing it—good news for engineers who can pair domain knowledge with AI-assisted delivery.",
+      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
+      "s": "The Indian Express",
+      "col": "GREEN",
+      "logo": "indianexpress"
+    },
+    {
+      "c": "Fast-growing roles",
+      "role": "AI-era career map",
+      "txt": "Business Standard lists roles expected to grow despite rapid AI adoption—use it as a shortlist for 2026 transitions (security, data, cloud, AI product delivery).",
+      "lk": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2xLYjg0UmJBU0VsM0d3eExZMFduX0ptZVRsNjN3TDhVMXExUTRXUTRsRUFjNUlpbUVaOTRHSkJpTlRVbnZrMjJOQzVXaHlBRXJXVWlTeXVBS1kyZXJ5SjlOa0RzNjFjNGJpcF9qVkU4TjV6MnMtMHZLZmpmcUJ5WFdHMTVqYi1uRlpDRkx6TEVpaWlFc29rYW9QSERUeGhTR2tWaXRQcVBUQ1JuTk1vR3dfT09yam5NdHlFM2dOdXVGS19yVV8zV9IBzgFBVV95cUxNTDBBUGxaUnlqcGhINWVPUmZLWjF1Wm1iZDRZa1pXWk1FWFJfdExPcEtNdlpEMHpmQWNUdGF5TDBlTjZHXzJjVDJrSlg2RVdhQ0NndFp3SjM5cVZZdnRpUGFDWHUyUjUxRUZNSHdrS0U2VlBOMGI5ZTRfUzUzMDdlRi1vSzJKazAzaVV1M18wS1YxcU9IenRfU1g2dWhESDllZ0VycUpVRkl3cS00b3E4ZXNNQVFNTl9VN1g0TEVvaHA5NXl5YzRYME9yUXJJZw?oc=5",
+      "s": "Business Standard",
+      "col": "GREEN",
+      "logo": "businessstandard"
+    },
     {
       "c": "AI Hiring Surge",
       "role": "foundit Report",
       "txt": "India posted <em>290,256 AI-linked roles in 2025</em>. Projected to grow 32% in 2026 to nearly <em>380,000 positions</em>. Generative AI & LLM skills demand jumped 60% YoY.",
       "lk": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
       "s": "SiliconIndia",
-      "col": "#2dd4a0"
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=foundit.in&sz=128"
     },
     {
       "c": "Tech Hiring +12-15%",
@@ -434,7 +331,8 @@
       "txt": "Overall tech job market expected to see <em>12-15% uptick in 2026</em>, adding ~1.25 lakh new roles. AI, data & cybersecurity demand grew 51%.",
       "lk": "https://www.ibtimes.co.in/ai-tech-jobs-india-drive-1215-pc-growth-tech-hiring-2026-896221",
       "s": "IBTimes India",
-      "col": "#34d399"
+      "col": "#34d399",
+      "logo": "https://www.google.com/s2/favicons?domain=adecco.co.in&sz=128"
     },
     {
       "c": "ML Engineer Demand",
@@ -442,7 +340,8 @@
       "txt": "Demand rose <em>45% for ML engineers, data engineers & full-stack developers</em> with AI integration skills. Specialist pay up 15%. GCC hiring +20%.",
       "lk": "https://www.gopher.security/news/tech-hiring-growth-12-15-increase-in-ai-and-data-jobs-by-2026",
       "s": "Quantum Safe News",
-      "col": "#5b9cf6"
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=adecco.co.in&sz=128"
     },
     {
       "c": "Hiring Intent +11%",
@@ -450,15 +349,8 @@
       "txt": "India's hiring intent rose to <em>11% in 2026</em> (from 9.75%). 60% of recruiters now use AI for screening. Tier-2 cities account for 32% of openings.",
       "lk": "https://news.outsourceaccelerator.com/indias-hiring-2026-by-ai/",
       "s": "Outsource Accelerator",
-      "col": "#2dd4a0"
-    },
-    {
-      "c": "Bengaluru Leads",
-      "role": "foundit Report",
-      "txt": "Bengaluru retained leadership with <em>26% of AI roles</em>. Hyderabad fastest-growing Tier-1 city. Jaipur, Indore, Mysuru emerging as Tier-2 AI hubs.",
-      "lk": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
-      "s": "SiliconIndia",
-      "col": "#5b9cf6"
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=taggd.in&sz=128"
     },
     {
       "c": "Semiconductor Boom",
@@ -466,7 +358,8 @@
       "txt": "<em>10 lakh semiconductor jobs projected by 2026</em> — chip design, VLSI, embedded systems, AI-hardware optimization. Biggest wealth creation since IT services.",
       "lk": "https://taggd.in/blogs/it-hiring-trends/",
       "s": "Taggd",
-      "col": "#fbbf24"
+      "col": "#fbbf24",
+      "logo": "https://www.google.com/s2/favicons?domain=taggd.in&sz=128"
     },
     {
       "c": "GCC Expansion",
@@ -474,39 +367,8 @@
       "txt": "<em>500,000+ new GCC positions</em>. AI talent shortage shows no signs of abating. Skills-based hiring: 80% of employers prioritize skills over degrees.",
       "lk": "https://www.zyoin.com/post/indias-2026-job-predictions",
       "s": "Zyoin Group",
-      "col": "#2dd4a0"
-    },
-    {
-      "c": "BFSI AI Surge",
-      "role": "foundit Report",
-      "txt": "Banking & financial services saw <em>41% YoY growth in AI roles</em>. Healthcare +38%, Retail +31%, Logistics +30%, Telecom +29%.",
-      "lk": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
-      "s": "SiliconIndia",
-      "col": "#34d399"
-    },
-    {
-      "c": "Global Offshoring to India",
-      "role": "Industry Trend",
-      "txt": "Big Tech companies <em>offshoring more jobs to India in 2026</em> amid US mass layoffs. India positioned as global AI talent powerhouse.",
-      "lk": "https://www.ibtimes.co.in/ai-tech-jobs-india-drive-1215-pc-growth-tech-hiring-2026-896221",
-      "s": "IBTimes India",
-      "col": "#5b9cf6"
-    },
-    {
-      "c": "170M Global Tech Jobs",
-      "role": "World Economic Forum",
-      "txt": "<em>170 million new technology jobs globally by 2030</em> (net gain 78M). But 40% of current tech skills may become obsolete within years.",
-      "lk": "https://taggd.in/blogs/it-hiring-trends/",
-      "s": "Taggd/WEF",
-      "col": "#fbbf24"
-    },
-    {
-      "c": "Pay Premium",
-      "role": "Adecco India",
-      "txt": "Talent gap soared to 44% in 2025, pushing <em>median tech packages 18% higher</em> than 2024. AI-skilled engineers command significant premium.",
-      "lk": "https://www.gopher.security/news/tech-hiring-growth-12-15-increase-in-ai-and-data-jobs-by-2026",
-      "s": "Quantum Safe News",
-      "col": "#2dd4a0"
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
     },
     {
       "c": "IndiaAI Mission",
@@ -514,7 +376,8 @@
       "txt": "<em>₹10,000 crore government initiative</em> for sovereign AI. Sarvam AI (India's first sovereign LLM), Krishrim (AI for agriculture) creating new ecosystem.",
       "lk": "https://www.technote360.in/2026/03/top-tech-jobs-india-2026-ai-cant-replace.html",
       "s": "Technote360",
-      "col": "#ff9933"
+      "col": "#ff9933",
+      "logo": "https://www.google.com/s2/favicons?domain=indiaai.gov.in&sz=128"
     }
   ]
 }
