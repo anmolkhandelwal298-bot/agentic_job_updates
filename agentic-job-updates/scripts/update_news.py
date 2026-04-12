@@ -8,7 +8,7 @@ import textwrap
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -80,17 +80,6 @@ def gather_candidates():
         groups[key] = deduped[:15]
     return groups
 
-def extract_response_text(payload: dict) -> str:
-    if payload.get("output_text"):
-        return payload["output_text"]
-
-    texts = []
-    for item in payload.get("output", []):
-        for content in item.get("content", []):
-            if content.get("type") in {"output_text", "text"} and content.get("text"):
-                texts.append(content["text"])
-    return "\n".join(texts).strip()
-
 
 def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> dict:
     schema = {
@@ -122,7 +111,7 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
                             "s": {"type": "string"},
                             "logo": {"type": "string"},
                         },
-                        "required": ["c", "ind", "imp", "d", "y", "big", "col", "txt", "q", "lk", "s"],
+                        "required": ["c", "ind", "imp", "d", "y", "big", "col", "txt", "q", "lk", "s", "logo"],
                     },
                 },
                 "india": {
@@ -140,7 +129,7 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
                             "col": {"type": "string"},
                             "logo": {"type": "string"},
                         },
-                        "required": ["c", "role", "txt", "lk", "s", "col"],
+                        "required": ["c", "role", "txt", "lk", "s", "col", "logo"],
                     },
                 },
             },
@@ -220,7 +209,7 @@ def sort_by_date(items: list[dict], field: str):
         try:
             return parsedate_to_datetime(item[field])
         except Exception:
-            return datetime.min
+            return datetime.min.replace(tzinfo=timezone.utc)
 
     return sorted(items, key=parse, reverse=True)
 
@@ -264,9 +253,11 @@ def main() -> None:
     updated_content = apply_update(content, update)
     content_path.write_text(json.dumps(updated_content, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     if not args.skip_build:
-        output_path = ROOT / "dist" / "ai-layoffs-and-jobs.html"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(build_site.build_html(updated_content), encoding="utf-8")
+        html_output = build_site.build_html(updated_content)
+        dist = ROOT / "dist"
+        dist.mkdir(parents=True, exist_ok=True)
+        (dist / "ai-layoffs-and-jobs.html").write_text(html_output, encoding="utf-8")
+        (dist / "index.html").write_text(html_output, encoding="utf-8")
 
 
 if __name__ == "__main__":
