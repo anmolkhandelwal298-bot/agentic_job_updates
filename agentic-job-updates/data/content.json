@@ -120,34 +120,6 @@
   "footer_text": "All data sourced from Nikkei Asia, The New York Times, The Indian Express, Business Today, Business Standard & other reputed outlets. Compiled for educational awareness · April 2026",
   "layoffs": [
     {
-      "c": "Tech industry (Q1 2026)",
-      "ind": "Global tech",
-      "imp": "Nikkei Asia reports ~80,000 tech jobs cut in Q1 2026; AI-driven restructuring may not be fully reflected yet.",
-      "d": "Apr 2026",
-      "y": "2026",
-      "big": 1,
-      "col": "RED",
-      "txt": "Q1 tally points to sustained cuts even as firms reallocate budgets toward AI infra and automation.",
-      "q": "“Nearly 80,000 tech jobs cut in Q1, but AI's full impact may be yet to come.”",
-      "lk": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS3BtTm9PcnRDQ3dGVTB2Y2tCUHUyTnpEOU1nNlA1Y3ZUb3FlTWJDdE9sWXBmQ19Sbmg1YUV1NXlFb3Rtd2M2QVJjQlZYRXRjdE5EMElmZi1pX0RkSGRCRkQzX1NqN1o0VXI1SEo2UmMwSm1FdHJJaDcyWDNNc3NlMzVkVGFpYXVEOHVuV1F2OUxxa0RuRWpkdFdQbnR3ZnF3MzJOdFQtZ0FRUHJHeW1GVlhFSDZzeHNMZzd3VzJKaTBqd2U0UE9LU0pLaHRYWXp3ZVo4MmN5Z2I?oc=5",
-      "s": "Nikkei Asia",
-      "logo": "nikkei"
-    },
-    {
-      "c": "Silicon Valley (trend)",
-      "ind": "Big Tech",
-      "imp": "NYT documents how AI adoption is changing team structures, with roles being consolidated as companies chase productivity gains.",
-      "d": "Apr 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "RED",
-      "txt": "Hiring signals are shifting: fewer “do-everything” generalist roles, more AI-adjacent engineers and platform builders.",
-      "q": "“A.I. Could Change the World. But First It Is Changing Silicon Valley.”",
-      "lk": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVrbXEzcjg3QkI0b3Y4TDNyaXVQd2VSZl9BX0VscldyN1RXLXl1WGI4b0QyZ0pvZGdOMzdBYzBMVmtpNHhKRW0ycjFydGhoby1WOHo0LURJaTZERHRDT05Ub1FCbUV2ZFhlSzdJMEplY0hTRm40cEdiODdFN0g4cTU4MWI?oc=5",
-      "s": "The New York Times",
-      "logo": "nyt"
-    },
-    {
       "c": "Oracle",
       "ind": "Technology",
       "imp": "10,000–30,000",

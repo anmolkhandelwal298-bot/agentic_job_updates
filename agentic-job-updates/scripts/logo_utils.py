@@ -59,7 +59,8 @@ def attach_logo(item: dict) -> dict:
     domain = COMPANY_DOMAINS.get(enriched.get("c", ""))
     if not domain:
         domain = source_domain_from_link(enriched.get("lk", ""))
-    if domain and not enriched.get("logo"):
+    existing = enriched.get("logo", "")
+    if domain and (not existing or not existing.startswith("http")):
         enriched["logo"] = logo_url_for_domain(domain)
     return enriched
 

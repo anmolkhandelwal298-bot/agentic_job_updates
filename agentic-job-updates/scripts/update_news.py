@@ -139,20 +139,42 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
 
     instructions = textwrap.dedent(
         """
-        You update a static news page for Indian software engineers.
-        Keep the tone sharp, evidence-backed, and concise.
-        Use only the provided candidate articles.
-        Preserve the existing schema and formatting conventions:
-        - layoffs items: company-focused, short impact summary, short quote, source link
-        - india items: opportunity/data-point focused, optimistic but factual, source link
-        - use dates like "Apr 2026"
-        - `big` must be 1 only when the impact is 10,000+ or clearly a very large workforce cut, else 0
-        - keep HTML emphasis tags in txt only when useful, and only use <em>..</em>
-        - prefer reputable outlets and avoid duplicates
-        - return only fresh items not already present by link unless a better replacement is clearly warranted
-        - keep ticker_text in the same uppercase ticker style as the current site
-        - hero_badge should look like "EVIDENCE TRACKER — APRIL 2026"
-        - footer_text should mention sources and current month/year
+        You update a static news page for Indian software engineers about AI-driven layoffs and India hiring.
+        Use ONLY the provided candidate articles. Never hallucinate data.
+
+        FIELD RULES — follow exactly:
+
+        layoffs array items:
+        - c: SHORT company name only (e.g. "Oracle", "Amazon", "Meta"). NEVER a trend, topic, or industry name. If the article is not about a specific named company, skip it.
+        - ind: short industry label, 1-3 words (e.g. "Technology", "Fintech", "E-commerce")
+        - imp: ONLY the layoff count or range (e.g. "10,000–30,000", "~4,000", "Major cuts"). Max 20 characters. Never a sentence.
+        - d: date as "Mon YYYY" (e.g. "Apr 2026")
+        - y: year string "2026" or "2025"
+        - big: integer 1 if impact is 10,000+ workers, else 0
+        - col: a valid CSS hex color string (e.g. "#ff3b30", "#007DB8"). Never a color name like "RED".
+        - txt: 1-2 sentence summary. May use <em>…</em> for emphasis only. No other HTML.
+        - q: a SHORT direct quote or key fact (max 120 chars). Plain text only, no HTML.
+        - lk: full https:// article URL
+        - s: short source name (e.g. "CNBC", "Bloomberg")
+        - logo: leave as empty string "" — it will be filled automatically
+
+        india array items:
+        - c: short label (e.g. "Infosys Hiring", "GCC Expansion")
+        - role: short sub-label (e.g. "TechGig Report")
+        - txt: 1-2 sentence summary. May use <em>…</em> only.
+        - lk: full https:// article URL
+        - s: short source name
+        - col: a valid CSS hex color string (e.g. "#2dd4a0", "#5b9cf6")
+        - logo: leave as empty string "" — it will be filled automatically
+
+        Other rules:
+        - Return only items with a specific named company (layoffs) or clear data point (india)
+        - Skip vague trend articles with no named company or no specific numbers
+        - Prefer reputable outlets (CNBC, Bloomberg, Reuters, TechCrunch, NYT, Al Jazeera)
+        - Return only fresh items not already in existing_layoff_links / existing_india_links
+        - ticker_text: all-caps ticker style, facts separated by ·
+        - hero_badge: e.g. "EVIDENCE TRACKER — APRIL 2026"
+        - footer_text: mention sources and current month/year
         """
     ).strip()
 
@@ -189,6 +211,65 @@ def call_openai(api_key: str, model: str, content: dict, candidates: dict) -> di
     )
 
     return json.loads(response.output_text)
+
+
+import re as _re
+
+_HEX_RE = _re.compile(r'^#[0-9a-fA-F]{3,6}$')
+_DEFAULT_LAYOFF_COLORS = ["#ff3b30", "#ff6b35", "#e84393", "#8b5cf6", "#333333"]
+_DEFAULT_INDIA_COLORS = ["#2dd4a0", "#34d399", "#5b9cf6", "#fbbf24"]
+
+def _sanitize_layoff(item: dict, idx: int) -> dict | None:
+    """Return a cleaned item or None to discard it."""
+    c = str(item.get("c", "")).strip()
+    lk = str(item.get("lk", "")).strip()
+    imp = str(item.get("imp", "")).strip()
+
+    # Must be a named company (not a trend/industry topic)
+    if not c or len(c) > 40 or not lk.startswith("http"):
+        return None
+    # imp should be short — if it's a full sentence, discard
+    if len(imp) > 30:
+        item["imp"] = imp[:30]
+
+    # Fix col if not a valid hex color
+    col = str(item.get("col", "")).strip()
+    if not _HEX_RE.match(col):
+        item["col"] = _DEFAULT_LAYOFF_COLORS[idx % len(_DEFAULT_LAYOFF_COLORS)]
+
+    # Clear logo — logo_utils will fill it properly from the article link
+    item["logo"] = ""
+
+    # Truncate q if too long
+    q = str(item.get("q", "")).strip()
+    if len(q) > 150:
+        item["q"] = q[:147] + "…"
+
+    return item
+
+
+def _sanitize_india(item: dict, idx: int) -> dict | None:
+    c = str(item.get("c", "")).strip()
+    lk = str(item.get("lk", "")).strip()
+    if not c or not lk.startswith("http"):
+        return None
+    col = str(item.get("col", "")).strip()
+    if not _HEX_RE.match(col):
+        item["col"] = _DEFAULT_INDIA_COLORS[idx % len(_DEFAULT_INDIA_COLORS)]
+    item["logo"] = ""
+    return item
+
+
+def sanitize_update(update: dict) -> dict:
+    update["layoffs"] = [
+        s for i, item in enumerate(update.get("layoffs", []))
+        if (s := _sanitize_layoff(item, i)) is not None
+    ]
+    update["india"] = [
+        s for i, item in enumerate(update.get("india", []))
+        if (s := _sanitize_india(item, i)) is not None
+    ]
+    return update
 
 
 def merge_items(existing: list[dict], incoming: list[dict], key: str, limit: int):
@@ -245,7 +326,7 @@ def main() -> None:
     candidates["layoffs"] = sort_by_date(candidates["layoffs"], "published_at")
     candidates["india"] = sort_by_date(candidates["india"], "published_at")
 
-    update = call_openai(api_key=api_key, model=args.model, content=content, candidates=candidates)
+    update = sanitize_update(call_openai(api_key=api_key, model=args.model, content=content, candidates=candidates))
     if args.dry_run:
         print(json.dumps(update, indent=2, ensure_ascii=False))
         return
