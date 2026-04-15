@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "APR 2026 · NILEKANI: AI ENDING 4 IT JOBS · CREATING 5 NEW ROLES",
+  "ticker_text": "ATLASSIAN -1,600 (10% WORKFORCE) · INDIA: NO NEW VERIFIED HIRING ITEMS",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Provided candidate feed (duplicates/vague items skipped per rules) · Compiled for educational awareness · Apr 2026",
+  "footer_text": "Sources: Provided candidate feed (duplicates/vague items skipped per rules) · Moneycontrol · Apr 2026",
   "layoffs": [
+    {
+      "c": "Atlassian",
+      "ind": "Technology",
+      "imp": "1,600",
+      "d": "Mar 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Atlassian reportedly cut <em>1,600 employees</em> (about 10% of its workforce) as it shifts spending toward AI.",
+      "q": "1,600 employees laid off (about 10% of workforce).",
+      "lk": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbW51a1ZoVlJqbUhqSl9laUJGRW5pY1VaZjdmRDBiLXYyRmtiMEN0SF9VeklxX1hwY0JVZnVpbnppMGNhdFFVYXhHaFY1Z09hcVVPaHAweERDc3NDVFIyeldUR0xZRlNRNHN4b004YU1zMjlVWHBwd3BmV0Y1T0FyclRiSkt6dV9DMVpMd2p3SF8yRXo5aHItZGludEp0M3VIenZwS1VQaUxPMjNXWUEtZy1SY3VwVlRKTHJxR1pMdlYwOWVzekxSUVpVN3ZlbGhnLXJzTXFiNlczc0k1WUV1djJVeEZWdmlvUG1pRVJfODNhc1lTNXfSAfsBQVVfeXFMUFJ5MnQteW82dHRnbm1VYU9ibzFSMmhfUzhmbkQ4bm1UblFsQkNZVVNqQlZTNk9Na0dMU3g1bjZlNkQtQ1Nzek5HNmoxbHEtMm1RZkVvU29iU0l3b1QyYVB1bDlYWmxlMlY2M3NZTHdrVk5hSDZJS0NSbm8yUEtUSUQtakVITlJPOWdWaXlQS09VTjJOSzQxekxQTHBaR0w4SVNXZWxYbVlMa3lERkQ2SFloZ1pRSEhaUUhBTy1YMjlXQVd3cWM1elZhM3Fobm8yY2ttSERtdmx0czJmb0JiRHJMUTU4dVJlNXNESkhLYmRVNHNNTURTZk9xeWM?oc=5",
+      "s": "Moneycontrol",
+      "logo": "https://www.google.com/s2/favicons?domain=atlassian.com&sz=128"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
