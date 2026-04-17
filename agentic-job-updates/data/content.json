@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "APR 2026 · NO NEW COMPANY-SPECIFIC LAYOFF COUNTS IN CANDIDATE FEED · INDIA ITEMS WERE DUPLICATES OR TOO VAGUE",
+  "ticker_text": "INDIA AI TALENT GAP: 15 LAKH ENGINEERS ‘AREN’T ENOUGH’ · AGENTIC AI SKILLS: SUPPLY FALLS SHORT BY 50%+",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -290,20 +290,29 @@
   ],
   "india": [
     {
+      "c": "AI Talent Gap",
+      "role": "Business Today",
+      "txt": "Business Today flags that <em>15 lakh engineers</em> still aren’t enough to meet India’s AI-economy demand, pointing to a widening talent-supply mismatch.",
+      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
+      "s": "Business Today",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Agentic AI Skills Crunch",
+      "role": "Skills Report",
+      "txt": "The Economic Times reports demand for agentic AI skills is rising, while talent supply <em>falls short by over 50%</em>.",
+      "lk": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbFlWdm5zaHBSenhrZGlCWFc1S21pVF9jaW1DWlVIZXdpWXMzY3VIYWRVOUI0azlLd09OdDBGVmpEM0swWjFWaXB2Z3lDQWZveWlUN3hFSDBFM29EYnBqWW1nUUwybklJdXI0TVFLQ3o0RS1EemxKN0NnaENpVEtzNnJPblNtT2FaTVFYR0h5elZsMWdlTEo1bHg1LWhwblp0amItQVppUWFqWWJPZW5zUkJia3FSR2JNQzVnRDdhWGlGTnpSVmtzTHlSRUpESDhjNGFwNlI0MnpnXzJLT3pTOUVUWEZFRnhS0gHuAUFVX3lxTFBMamJieG9MX252Y014T2ZSUDRROUdaRnhQR25QZDBkeU1jVEN3QTRDVkJMTjg3dmx5TmFyaXFBRjRlZmZNNWZKWk9QOEpLYmpWQXdrZndJbXJjQXJtYm5oZXRXQlVzYTJkdzZfY19aa1dKS3J5NVRBNTRnWENDUDdmQ3VQS2laNk94YXVyMmFPVDc1LTVkSngzNjVGRUZwclhBaUcxaHEzR0FpTE5hbGNvVlFaekpyMml4N1RNVkVaTVZ0em5xZkxjTDA3cGJtYy1maEtpRFh3MHQyYjc3d255bUhIdVYwN29uYTE3SlE?oc=5",
+      "s": "The Economic Times",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "Nilekani AI Roles",
       "role": "The Times of India",
       "txt": "Nandan Nilekani says AI is ending <em>4 IT jobs</em>—and creating <em>5 new roles</em> in the near term, highlighting how hiring may shift rather than simply shrink.",
       "lk": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOUljekFOVjV3YTdETFBPb3h1MlZkOVNmOU1wU2ZzRzV0TDhZMVU5M2JIQ0dleVByU3dMVEhJUXFlMFYwOFJ6MHdTVFdKYTAzUkpqYjNLQUw3eldGZzlCdm1wdDNPYUxrQTBiUjVSY0FaNHlNSUZJdktVb29DMzdES0xSaDVGc2dlam5yS0tkUUVxSk1uOWREUW1SS2NlY1NWRktWaGNBSU9YLUl2MVJ2ZjV0aDBWbXJ1OWoyY2thYkdyMHlrQV84NC1MU1pNVTRicXZMYUN2TTJjX3l0bW90T1A3NWcyd1l0TzRR0gHwAUFVX3lxTE85Tm8tTV9CQXg2b3l4Ni1YdXpTUUI0Qk1HdmtxWVY4ckd4ckFwMlFPdHJQQlFRRENXQ3R1b0kwb0xyc1RuYnNlU2JTR0lDRlNWNklkem13X2tDVjVJblV3S1lxWXVxcEVaMDdNT05SZmllRnhXcTJqbkJzaU45ZHo1YW9BcDYzaFZrUWk1bUhhZV9RZm94RTVPNUpQZWg0MHNIQzlYSzBPMUNWZlFvZ1F6NDZDd2tWY2NaNG9SejRhQmxJWDF0OF9kWmtweWFVTEZQMlBJejdrRHlVZGVZMGttQ0c0ZnJNOXk4eFVFdTZwZw?oc=5",
       "s": "The Times of India",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Talent Gap",
-      "role": "Workforce Supply",
-      "txt": "Business Today flags an AI workforce shortfall, arguing <em>15 lakh engineers</em> still won’t meet India’s AI-economy demand.",
-      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
-      "s": "Business Today",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
