@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI TALENT GAP: 15 LAKH ENGINEERS ‘AREN’T ENOUGH’ · AGENTIC AI SKILLS: SUPPLY FALLS SHORT BY 50%+",
+  "ticker_text": "LAYOFFS: NO FRESH COMPANY-SPECIFIC ITEMS · INDIA: 15 LAKH ENGINEERS ‘NOT ENOUGH’ FOR AI ECONOMY",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -291,8 +291,8 @@
   "india": [
     {
       "c": "AI Talent Gap",
-      "role": "Business Today",
-      "txt": "Business Today flags that <em>15 lakh engineers</em> still aren’t enough to meet India’s AI-economy demand, pointing to a widening talent-supply mismatch.",
+      "role": "Business Today Report",
+      "txt": "A Business Today report flags a supply gap for AI talent, arguing <em>15 lakh engineers</em> won’t meet India’s AI-economy needs. The piece frames the shortfall as a near-term constraint for companies scaling GenAI work.",
       "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
       "s": "Business Today",
       "col": "#2dd4a0",
