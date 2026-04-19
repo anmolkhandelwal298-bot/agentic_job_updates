@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "LAYOFFS: NO FRESH COMPANY-SPECIFIC ITEMS · INDIA: 15 LAKH ENGINEERS ‘NOT ENOUGH’ FOR AI ECONOMY",
+  "ticker_text": "META PLANS 16,000 LAYOFFS · AI + AUTOMATION CITED · APR 2026",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Provided candidate feed (duplicates/vague items skipped per rules) · Apr 2026",
+  "footer_text": "Sources: zoomnews.in (via Google News RSS candidates) · Apr 2026",
   "layoffs": [
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "16,000",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "#ff3b30",
+      "txt": "Meta is reported to be laying off 16,000 employees as AI and automation reshape parts of its workforce. The move is framed as part of ongoing restructuring toward AI-focused priorities.",
+      "q": "Meta to lay off 16,000 employees",
+      "lk": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWdrdHVjTDg5dTdnamlxTk9KZ3E3Wm9ac2tNa05lS2ZRYUJTZ3ByM01hYi1mZ0xocWh5YmdKaE9rRmxtejhoMzhNTUZ6Mk5XV3dIaE1NMmdNOUNhRndsdkZhZkJtbHZyR29YaUdVVU41NWVtXzBwOU5mclljbnJvYlFTb2g3NVJVRnhPa3docDZLNHBsV29BcUFPVlgyTWlIdkpLS1k1N0gweHlnenNQWTBEMkhLbXfSAbwBQVVfeXFMTnNnNFQxc2V2OEF4eEk1ZWhYREh5QlJEUFlFVTF3ZHI5WTNuam5yLS1KYy1kLU1hM250WUFnbHdjVlFodm16QTd3eWtaUnEzM1FZVkVMNlVTbm16ZjcyTVR1MjQtOU96TVNNT2RlU0RBc1RlWi1EOUtmeEEwaFdlU2VWdmZrcno3RHpBOEFXZ2xlSEFMa2pFeWFZYVFOa01kMEhtb3l3T0lZdmdPMVBGMjRyNGdOZDU1WUY0VXg?oc=5",
+      "s": "zoomnews.in",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Atlassian",
       "ind": "Technology",
