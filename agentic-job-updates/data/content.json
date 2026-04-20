@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "META PLANS 16,000 LAYOFFS · AI + AUTOMATION CITED · APR 2026",
+  "ticker_text": "INDIA TECH JOB OPENINGS -8% IN APRIL · AI HEADCOUNT REPLACEMENT CITED",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: zoomnews.in (via Google News RSS candidates) · Apr 2026",
+  "footer_text": "Sources: The Economic Times (via Google News RSS candidates) · Apr 2026",
   "layoffs": [
     {
       "c": "Meta",
@@ -303,6 +303,15 @@
     }
   ],
   "india": [
+    {
+      "c": "India Tech Hiring",
+      "role": "Economic Times Report",
+      "txt": "India tech job openings reportedly fell <em>8% in April</em>, with AI adoption cited as a factor replacing some headcount. Signal for engineers: fewer open reqs even as AI skills demand grows.",
+      "lk": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnlGeUYwaDIzakZlZnR2OFVhN051RXFMYVE0OWl5Z2tpOVdjTTVoLTJJQVdyTW9Bc09lbGl3N2E5enk0Z0JVYTlsTTBsampkUTVkaE1Odlc2d0lMdDJPQ2VJZ29PaWl5S0tCM1R0dTk5NEtzN3llaFdXSjlTZDZlZ2tHMXVJczEwWldLWHdrZWhQMURSNU51bWxzYjI4aU9xZjU0M3hCZDJiUzUyNVRSaHdaU3Bid2tla09hdzVweXkxSFM3Ukh4QkcwOU3SAdIBQVVfeXFMUDZjVWs2cFlzVEhaVGYwQnZGUGdVS214SDRzM0hVVWlvYzhyRHNYRERObXlWYnJvZEpFeFU5ZmNyTEttVGpVeHFya1ZiZHhPX1B4OUppbm9lWWFDMDJDOVJ5VXptVlN3N2xRUVg1RVZ6WFpzNXF6eWdIQ1NDdnBVeGxEUGt2V3d2SlV6bldBSUNjRkdFeW1CSXpQYk1LajVtelJKN0NxUnIySXJya3N4dnJSY041bS11ZGVPeDhuOGlNWEZxbE9jS1BwT211Z2dSbWZR?oc=5",
+      "s": "The Economic Times",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "AI Talent Gap",
       "role": "Business Today Report",
