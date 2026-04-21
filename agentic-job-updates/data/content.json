@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA TECH JOB OPENINGS -8% IN APRIL · AI HEADCOUNT REPLACEMENT CITED",
+  "ticker_text": "INDIA TECH JOB OPENINGS -8% IN APRIL · OPENAI HIRING: AI DEPLOYMENT ENGINEER IN BENGALURU",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: The Economic Times (via Google News RSS candidates) · Apr 2026",
+  "footer_text": "Sources: ETHRWorld.com · Analytics India Magazine (via Google News RSS candidates) · Apr 2026",
   "layoffs": [
     {
       "c": "Meta",
@@ -303,6 +303,24 @@
     }
   ],
   "india": [
+    {
+      "c": "India Tech Openings",
+      "role": "ETHRWorld Report",
+      "txt": "ETHRWorld reports tech job openings fell <em>8%</em> in April, linking the drop to AI-driven headcount substitution trends.",
+      "lk": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0FuaDdnX0tIZktKaWJxUDZFWGxBbkg1ZkhOVzVsWFZvN3J4UlhhZU5DaEprczdxN1JQT09SeVVkLWMzM3huNDdtQjNmRlJNU2Ntd1hzZnlneEJDMjA0UWZ4UFg5aDZQV3pJdkVJQzlQUlAtXzNEMGlvV1pFYWhIbTRJajdrT09vMzMwSll2SjdZVnNlbE93MC1IZE9YOUtBOTJnUm5TMmpENU9VbF96ZjJtaTFSRl9ESldnb9IBwgFBVV95cUxOV1gwZElERjZRRHltLU91ZzFHbzY2UkVhbGRCTXRPMzBTRFZsYUFIa0xSYk1od09taXl0clpqdGEzOE9HZnFKWURjdFc0Ul9IWUlkbW5hUE9qSDlaelhoYjduV0FMZWdIZTZVekpvamdjb0tmYlVYM3hLYzUyZlpxbC1wZWRMNll5bTRaNFJqWnR5d0hrdVFrRnVCa2RhbHU2cGlMN3dHaVJhYU5fVTJJVzlnV0tMam5vSWxTTTlJUl9hUQ?oc=5",
+      "s": "ETHRWorld.com",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "OpenAI Bengaluru Hiring",
+      "role": "AI Deployment Engineer",
+      "txt": "OpenAI is hiring in Bengaluru for an AI Deployment Engineer role, per Analytics India Magazine.",
+      "lk": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYlMzelFCcTZvMExnZk9OQXNZeEd3ZG5RSGgxVGNFVzFDMFpXQ09lNUpHVnBFN0tIN3JDTEF2UmNnY094ckYxaHpFZWpXSzBSUnlWX001NUVZVzMycnItVUN6U0hBaFRWYkQ5bTZwbHg5cVRnOWc?oc=5",
+      "s": "Analytics India Magazine",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "India Tech Hiring",
       "role": "Economic Times Report",
