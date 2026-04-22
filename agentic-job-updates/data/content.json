@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA TECH JOB OPENINGS -8% IN APRIL · OPENAI HIRING: AI DEPLOYMENT ENGINEER IN BENGALURU",
+  "ticker_text": "INDIA TECH OPENINGS -8% IN APR · AI TALENT GAP: 15 LAKH ENGINEERS 'AREN’T ENOUGH'",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: ETHRWorld.com · Analytics India Magazine (via Google News RSS candidates) · Apr 2026",
+  "footer_text": "Sources: Business Today · The Economic Times (Google News RSS candidates) · Apr 2026",
   "layoffs": [
     {
       "c": "Meta",
@@ -304,6 +304,24 @@
   ],
   "india": [
     {
+      "c": "AI Talent Gap (India)",
+      "role": "Business Today",
+      "txt": "A Business Today report flags a widening talent crunch for India’s AI economy, arguing that <em>15 lakh engineers aren’t enough</em> to meet demand.",
+      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
+      "s": "Business Today",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "India Tech Hiring Pulse",
+      "role": "The Economic Times",
+      "txt": "The Economic Times reports tech job openings in India fell <em>8%</em> in April, tying the slowdown to AI-driven headcount changes.",
+      "lk": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnlGeUYwaDIzakZlZnR2OFVhN051RXFMYVE0OWl5Z2tpOVdjTTVoLTJJQVdyTW9Bc09lbGl3N2E5enk0Z0JVYTlsTTBsampkUTVkaE1Odlc2d0lMdDJPQ2VJZ29PaWl5S0tCM1R0dTk5NEtzN3llaFdXSjlTZDZlZ2tHMXVJczEwWldLWHdrZWhQMURSNU51bWxzYjI4aU9xZjU0M3hCZDJiUzUyNVRSaHdaU3Bid2tla09hdzVweXkxSFM3Ukh4QkcwOU3SAdIBQVVfeXFMUDZjVWs2cFlzVEhaVGYwQnZGUGdVS214SDRzM0hVVWlvYzhyRHNYRERObXlWYnJvZEpFeFU5ZmNyTEttVGpVeHFya1ZiZHhPX1B4OUppbm9lWWFDMDJDOVJ5VXptVlN3N2xRUVg1RVZ6WFpzNXF6eWdIQ1NDdnBVeGxEUGt2V3d2SlV6bldBSUNjRkdFeW1CSXpQYk1LajVtelJKN0NxUnIySXJya3N4dnJSY041bS11ZGVPeDhuOGlNWEZxbE9jS1BwT211Z2dSbWZR?oc=5",
+      "s": "The Economic Times",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "India Tech Openings",
       "role": "ETHRWorld Report",
       "txt": "ETHRWorld reports tech job openings fell <em>8%</em> in April, linking the drop to AI-driven headcount substitution trends.",
@@ -319,24 +337,6 @@
       "lk": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYlMzelFCcTZvMExnZk9OQXNZeEd3ZG5RSGgxVGNFVzFDMFpXQ09lNUpHVnBFN0tIN3JDTEF2UmNnY094ckYxaHpFZWpXSzBSUnlWX001NUVZVzMycnItVUN6U0hBaFRWYkQ5bTZwbHg5cVRnOWc?oc=5",
       "s": "Analytics India Magazine",
       "col": "#5b9cf6",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India Tech Hiring",
-      "role": "Economic Times Report",
-      "txt": "India tech job openings reportedly fell <em>8% in April</em>, with AI adoption cited as a factor replacing some headcount. Signal for engineers: fewer open reqs even as AI skills demand grows.",
-      "lk": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYnlGeUYwaDIzakZlZnR2OFVhN051RXFMYVE0OWl5Z2tpOVdjTTVoLTJJQVdyTW9Bc09lbGl3N2E5enk0Z0JVYTlsTTBsampkUTVkaE1Odlc2d0lMdDJPQ2VJZ29PaWl5S0tCM1R0dTk5NEtzN3llaFdXSjlTZDZlZ2tHMXVJczEwWldLWHdrZWhQMURSNU51bWxzYjI4aU9xZjU0M3hCZDJiUzUyNVRSaHdaU3Bid2tla09hdzVweXkxSFM3Ukh4QkcwOU3SAdIBQVVfeXFMUDZjVWs2cFlzVEhaVGYwQnZGUGdVS214SDRzM0hVVWlvYzhyRHNYRERObXlWYnJvZEpFeFU5ZmNyTEttVGpVeHFya1ZiZHhPX1B4OUppbm9lWWFDMDJDOVJ5VXptVlN3N2xRUVg1RVZ6WFpzNXF6eWdIQ1NDdnBVeGxEUGt2V3d2SlV6bldBSUNjRkdFeW1CSXpQYk1LajVtelJKN0NxUnIySXJya3N4dnJSY041bS11ZGVPeDhuOGlNWEZxbE9jS1BwT211Z2dSbWZR?oc=5",
-      "s": "The Economic Times",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Talent Gap",
-      "role": "Business Today Report",
-      "txt": "A Business Today report flags a supply gap for AI talent, arguing <em>15 lakh engineers</em> won’t meet India’s AI-economy needs. The piece frames the shortfall as a near-term constraint for companies scaling GenAI work.",
-      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
-      "s": "Business Today",
-      "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
