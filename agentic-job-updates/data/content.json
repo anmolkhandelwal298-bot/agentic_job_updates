@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "APR 2026 · NO NEW COMPANY-SPECIFIC LAYOFF LINKS ADDED · NO NEW INDIA HIRING DATA LINKS ADDED",
+  "ticker_text": "META TO CUT 10% OF WORKFORCE · AI PUSH DRIVES REORG",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources monitored: CNBC · Mint · The Economic Times · Business Today · Apr 2026",
+  "footer_text": "Sources monitored: CNBC · Google News RSS · Apr 2026",
   "layoffs": [
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "10%",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#0866ff",
+      "txt": "Meta says it will cut 10% of its workforce as it pushes deeper into AI.",
+      "q": "Meta will cut 10% of its workforce.",
+      "lk": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNGbEZGWnZFVWhPZjFRbXFCeFpnV2FkY1VsUmgxbGZOQldqRnhCUFQwNEtab24yRTlPYkxFNmtYYnJpaWx4NkZfWkpJY3hRc1dsZTRwX0VjSFN0MnVlY3hSRGpKc3B6dzhxaW84ZFlvT2d1b1U0eDJNaFc3V3N5RXlxQUxjZEtsS3dUSHpfUjcwdFVGOTFzb2pUejg1U3dy0gGmAUFVX3lxTFBMai1HczNjYzFVbUEyY3Jrb3c2MkNjazd1dEFCbzk3OHE0Ykg4ZDVhNThGcG55TzRoaU9YOF9SVEtObzBVampsdmdaZnJzM05lMHZlTWVSczZGWENRZDdZR0FudzNmTmd5cGE3ekRELVN5eTZRbHY1NEYteEpFZmR1RHUzM0VOdUV1am1teW43OEdGM0lRY0Vub3plcVBoWUJfNVZqVGc?oc=5",
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Meta",
       "ind": "Technology",
