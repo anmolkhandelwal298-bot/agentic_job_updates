@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI ENGINEERING HIRING +59.5% (LINKEDIN)",
+  "ticker_text": "APR 2026 · NO FRESH VERIFIED BIG-TECH LAYOFF ITEM IN TODAY’S CANDIDATES · INDIA AI ENGINEERING HIRING +59.5% (LINKEDIN)",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -317,6 +317,15 @@
     }
   ],
   "india": [
+    {
+      "c": "AI Engineering Hiring",
+      "role": "LinkedIn Report",
+      "txt": "LinkedIn data cited in the report says India’s AI engineering hiring jumped <em>59.5%</em>, signaling strong demand for AI-focused software roles.",
+      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZDaG9PVGFRQTVhSUs2OVJSTVpZQ1NVSGpxUmhDYTBHWlozdk5GekJrZ3BxcjBSZ0dUWlZ1NTFtZVlmejNoa3V3OTF3bllKTGF4UlJrc2JmV1R5RXVlWk0ybnl2Y1VwWjNjelpsazE1QTM3dU04dnpMRnJqLWMwa1plYkNIVXdqc0RPYlVxNFFvOTMtOXFTQ0Z0SDM5cDRoNzBhbUZMS0NPN3lJRDZqbHI2OWw1WWR2R2F0blNILUFKX20xY3hoWFhlWVhOQkRl?oc=5",
+      "s": "indiaherald.com",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "LinkedIn Hiring Pulse",
       "role": "LinkedIn Report",
