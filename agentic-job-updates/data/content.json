@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "OPENAI PLANS TO DOUBLE WORKFORCE",
+  "ticker_text": "APR 2026 · INDIA AI TALENT GAP: 15 LAKH ENGINEERS",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources monitored: CNBC · Google News RSS · Computerworld · Apr 2026",
+  "footer_text": "Sources monitored: CNBC · Google News RSS · Computerworld · Business Today · Apr 2026",
   "layoffs": [
     {
       "c": "Meta",
@@ -318,6 +318,15 @@
   ],
   "india": [
     {
+      "c": "AI Talent Gap",
+      "role": "15 lakh engineers",
+      "txt": "Business Today flags a widening AI talent crunch, arguing India’s AI economy needs more skilled engineers than the current pipeline. The piece highlights the scale of demand and the urgency to upskill toward <em>AI-native</em> roles.",
+      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
+      "s": "Business Today",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "OpenAI Hiring",
       "role": "Headcount Expansion",
       "txt": "Computerworld reports OpenAI plans to <em>double its workforce</em>, signaling continued demand for enterprise AI talent even as parts of tech slow hiring.",
@@ -341,15 +350,6 @@
       "txt": "A LinkedIn-based report says India’s AI engineering hiring rose <em>59.5%</em>, pointing to continued demand for AI-focused roles.",
       "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnpWQWptcFkyQ0pLOUNrMlNDX09mNkhCREZMdjVfZTVlMC1YSjhtZW9PTnNhU2FpTGFDTVhzWFlUS1EtUVF3c3pZVTRXa2xFa3c3YmVMWU1DR0hySG5YOWhvcDZKRUh1VC10TGpSekdCNFJfTENQNXZzV3lLdHk4cTBKRk1vbm52UGJxbEVTNEdLWmtRSkt6NmZEWnhfc0ZuaXp3c2Zvd1Z2S3lOUEY5Y19oOFJpd3EzMnNCaWVnM1lhcUJaS0dzYTc4aldaOUhi0gHWAUFVX3lxTE9zb0RTSy1WWWdTaGdwaVZwejFRelpCVHZOTGhFeVhKc1FMUHpLOUZDekNka1d2ODViSVNBQWhsaTF0RGF5N21YcGduV0NBajAyQ215UUdxT1ZhcmVJTE9kTmVsTG9CblVaX2dpT18zdzB6RXY0Tk1DYUdhaGZGRnU5OTBHNm0tSDVmeVhRS0FZejRoeng4anJGYUtSTzhfbUdRbG8tMVZZM0FSM1dEZzRpU1BoNW1qeFZiaVhWS3BWQTBUb2NsRUxzZjQybmZWWnE5Rm1YZlE?oc=5",
       "s": "News9live",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Talent Gap (India)",
-      "role": "Business Today",
-      "txt": "A Business Today report flags a widening talent crunch for India’s AI economy, arguing that <em>15 lakh engineers aren’t enough</em> to meet demand.",
-      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
-      "s": "Business Today",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
