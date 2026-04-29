@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "APR 2026 · INDIA AI TALENT GAP: 15 LAKH ENGINEERS",
+  "ticker_text": "META: 8,000 JOB CUTS REPORTED · APR 2026",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources monitored: CNBC · Google News RSS · Computerworld · Business Today · Apr 2026",
+  "footer_text": "Sources monitored: The Logical Indian · Google News RSS · Apr 2026",
   "layoffs": [
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "8,000",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#0866FF",
+      "txt": "Meta is reported to be cutting about <em>8,000 jobs</em> amid a broader push to prioritize AI efforts and efficiency.",
+      "q": "Meta to cut 8,000 jobs",
+      "lk": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYk90bTFub3JDX2MyZUlQU085MFV2aTV4SW94RWtaTHpBVS12LVRmZmdSaExTa2lhOWdHeGE2azcwTmJfZkhoOHJrZnhRVWNwTGZWZVhfUDF4ZVM1UDk3SFJNMkk1ekRCRWx4aUozSVlLTElmV2FDMV9LMlJrdDh6czVneXpEdkdBRlAtblIzeE92WTVHZURSQ1NYYU10aldIc0ZSeV9EZXc5VXFJSFE?oc=5",
+      "s": "The Logical Indian",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Meta",
       "ind": "Technology",
