@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "META: 8,000 JOB CUTS REPORTED · APR 2026",
+  "ticker_text": "ORACLE CUTS 20,000+ JOBS · AI INVESTMENT SHIFT IN FOCUS",
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources monitored: The Logical Indian · Google News RSS · Apr 2026",
+  "footer_text": "Sources: Moneycontrol · Updated Apr 2026",
   "layoffs": [
+    {
+      "c": "Oracle",
+      "ind": "Technology",
+      "imp": "20,000+",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "#E4002B",
+      "txt": "Moneycontrol reports Oracle cut <em>over 20,000</em> jobs globally, as the company pushes deeper into AI-related spending and priorities. The piece highlights concerns that higher-paid, experienced workers could be disproportionately affected.",
+      "q": "Oracle cuts over 20,000 jobs worldwide",
+      "lk": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaTRTVDFPWkxVVVBHOUU3VlpOMDVDOFZpT0ZyT0hjNE42Ukl6X1gwZ1hVUmdZNWZpbF9oOEk0VnVYUjFPY3g5enp2VWpITW1TQ3YxbDNkbE1nTUR0by1DV1l1QU9xbW9QM3FEZ3gxZlhteVYtTzlMV2Z6R3lWdG1ycXhBVEdjcGFzYlBtOFp4RlRjM2FZTjJFdUVPbmp1VFVjRWlISDZMQVRjU2xJUWJTUkQzN09qZTZvYi1vbm9FZ2ZwMWMza1V1NWlnaHJjajAxbDhWQWRsUHBtcnZmNmt4MW1JeWNXTFNXUkY00gHwAUFVX3lxTFBKX3dEMTdqVWJZeE1XdHVrNnA5bDJ1SjVrX3BtdmNxVDZiYng1VGVhUldmS3Z4Nm1ONW1CeXZxd1k0aHhTWFVuNUg3aGhEQXp2SkN0RjB3Z3ZaN09waGYxZndmcnhkdk4tdnR3bXhYM0RkeE1WaFRyb0RTT3RHRGRCVm91elFTNVBDdEg3ZVBJRTRuUHAtZHVjcE50ZUhGNXdEb0c4VGZJa214aWlZb3VHUnVqeTNLNnVEZ2JKdlZWeFlvVnZoVUVFcElRS19JeU1LajRUcXhPUXdUaDFyM1k5NmtVN211MG11bmlyX3F5UA?oc=5",
+      "s": "Moneycontrol",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+    },
     {
       "c": "Meta",
       "ind": "Technology",
