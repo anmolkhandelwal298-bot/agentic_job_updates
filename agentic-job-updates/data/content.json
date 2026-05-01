@@ -1,9 +1,9 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "ORACLE CUTS 20,000+ JOBS · AI INVESTMENT SHIFT IN FOCUS",
+  "ticker_text": "AMAZON: 30,000 CUTS · COGNIZANT: 4,000 CUTS · INDIA: ICRIER SAYS GENAI IS REDEFINING (NOT REPLACING) TECH JOBS",
   "hero": {
-    "badge": "EVIDENCE TRACKER — APRIL 2026",
+    "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
     "description": "Every layoff. Every hiring data point. Backed by Anthropic's Economic Index research and real news sources — for Indian software engineers navigating the shift."
   },
@@ -117,8 +117,36 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Moneycontrol · Updated Apr 2026",
+  "footer_text": "Sources: BW People · CNBC TV18 · t2ONLINE · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Amazon",
+      "ind": "E-commerce",
+      "imp": "30,000",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "#ff3b30",
+      "txt": "Amazon is reported to be cutting 30,000 roles as it reshapes its workforce strategy around AI, while also planning new hiring.",
+      "q": "Amazon cuts 30,000 jobs; plans 11,000 hires.",
+      "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbllHdzFHVWVjbXh3Z2laUlJGMm9QUzNSM2JjbE5ueTlVcDVfYjViOVBJT1U0ODFndm53RDVPbjlZS1hKMXJBMVFKX2F3UW1KTVh5ekdCWmc3eW9jTnRXaFZSeEdaU3l4TV9wbndneGQ0OFFYSEFZekNWRXdXNS1wR0hMTjBndFgwN1FHbURaLS1US1ROQV9VdWxuZDZaOURiOC1IODFzbk1Ec05uUktMbUtPeFVFZw?oc=5",
+      "s": "BW People",
+      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
+    },
+    {
+      "c": "Cognizant",
+      "ind": "IT Services",
+      "imp": "4,000",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff9500",
+      "txt": "Cognizant is set to cut 4,000 jobs as its \"Project Leap\" ramps up AI and automation and reshapes global work allocation.",
+      "q": "Cognizant to cut 4,000 jobs under Project Leap.",
+      "lk": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmdqdnUyRDFQanlCNDFJM21qbzVJNGFJb1B2R0xSU2hmcndlNTk0eERHc25MVHVCaWFkODlEbUs5X1VsWklpclNJdk9LUXRqY2YxelRwSzEySzBQVU5LT3ZEMzNSQVl0ckxRMGtldWxRamFFdFIwZS0wR2NJakI0ZXl6Skw2djNHc0U4SnZydThza2pUNVctZ0pWcTF4LTEwc19pV3hpUjdBNzNBc29NSTUwdDBJcmct0gG-AUFVX3lxTE5IQzVxTFptMlNXaUJQZ2t6VXFpbmNHcjJPZk8xR3ZPSk9vTUdMQ0w5QTAweVh4WUl6TEJkRE9fSHRyVUhDTkpNMXFoOW9tODhqX3EyS1YzclFsQkpmTUtwZlU3UFg2Mnkza2lISGpnT2toazd4ZGxVZWhHRm56ZmtOSko0RFNxWDRDR3VpOGt3ZlI4X2RqWUFrNnFoeDJCUWZkV0kxT3hPTF80SHNnRlZXSXlOUWIwRl9RZTc3amc?oc=5",
+      "s": "CNBC TV18",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
@@ -346,6 +374,15 @@
   ],
   "india": [
     {
+      "c": "ICRIER Study",
+      "role": "GenAI & IT Jobs",
+      "txt": "An ICRIER study says generative AI is <em>redefining</em> tech jobs rather than replacing them, pointing to task shifts over mass displacement.",
+      "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXBzX0k4TTRQd0E2NGhXeno1eURLcDFVT2JzTFR0eFlDQ0FDTmFnb2huMDRkRklvU0hXcGs3N3M2Tm13emdWWlNXQmN4eEN1VnpwelB6VHRGX0FXT2l1TEMtdjFuY3lqZ1FpMmtyQjhGLUJaSWxRUUxCOS13TFJDNGViSWtMZlRyU1FZdWNlZzJZSDZfSDNVZGxCdWxORUZSS3B5NHRyWURub2ZlTzBWVnJWeVNGZw?oc=5",
+      "s": "t2ONLINE",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Talent Gap",
       "role": "15 lakh engineers",
       "txt": "Business Today flags a widening AI talent crunch, arguing India’s AI economy needs more skilled engineers than the current pipeline. The piece highlights the scale of demand and the urgency to upskill toward <em>AI-native</em> roles.",
@@ -515,15 +552,6 @@
       "s": "Zyoin Group",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
-    },
-    {
-      "c": "IndiaAI Mission",
-      "role": "Government of India",
-      "txt": "<em>₹10,000 crore government initiative</em> for sovereign AI. Sarvam AI (India's first sovereign LLM), Krishrim (AI for agriculture) creating new ecosystem.",
-      "lk": "https://www.technote360.in/2026/03/top-tech-jobs-india-2026-ai-cant-replace.html",
-      "s": "Technote360",
-      "col": "#ff9933",
-      "logo": "https://www.google.com/s2/favicons?domain=indiaai.gov.in&sz=128"
     }
   ]
 }
