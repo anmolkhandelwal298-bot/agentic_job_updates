@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MAY 2026 UPDATE · NO NEW COMPANY-SPECIFIC LAYOFF LINKS IN TODAY’S CANDIDATES · NO NEW INDIA HIRING DATA POINTS NOT ALREADY LISTED",
+  "ticker_text": "DOW PLANS 4,500 CUTS · AI + AUTOMATION CITED",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: CNBC · CNBC TV18 · BW People · Updated May 2026",
+  "footer_text": "Sources: People Matters · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Dow",
+      "ind": "Chemicals",
+      "imp": "4,500",
+      "d": "Jan 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Dow said it will cut 4,500 jobs as it expands the use of <em>AI and automation</em>, adding to pressure on operations and support roles.",
+      "q": "Dow to cut 4,500 jobs as AI and automation expand",
+      "lk": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV090SWR6c2dpaE9tRW9oYW16QUlLR2Y3eURoaW5NR2pZdHBMVEQ3TVJmd3hDaGxqNlJ3OWZldnRKTlZLb3NwNFRTZnpNVjU5X3FBZlVTam5kOFoxZTJJaTk4Ty1uNEFwZHA4OFBCZmNnN2liWWpBdzVUaHl1T1RZYzFkejgzUFBpR1lNcUZrWkcxa1Z1RkFxMEJuRUZveUw5WUR3allfMGhCaDFCbS12eTJTeGYwbTA?oc=5",
+      "s": "People Matters",
+      "logo": "https://www.google.com/s2/favicons?domain=dow.com&sz=128"
+    },
     {
       "c": "Amazon",
       "ind": "E-commerce",
