@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MAY 2026 · 0 NEW COMPANY LAYOFF ITEMS (FRESH LINKS) · 0 NEW INDIA HIRING DATA POINTS (FRESH LINKS)",
+  "ticker_text": "FRESHWORKS CUTS 500 · COGNIZANT PROJECT LEAP: 12K–15K AT RISK · ORACLE LAYOFFS SPARK WORKER PUSHBACK",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,50 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: CNBC · Computerworld · People Matters · Updated May 2026",
+  "footer_text": "Sources: People Matters · TIME · CIO.com · TalentSprint · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Freshworks",
+      "ind": "SaaS",
+      "imp": "500",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#0ea5e9",
+      "txt": "Freshworks announced layoffs tied to an AI-led transformation, cutting roles as it reshapes teams and priorities.",
+      "q": "Freshworks ... cuts 500 jobs",
+      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakF4S1JWQjdzdTVkLTdRNVlPelZHTmR3X2ZuVDZQVGpEVktFX283SWVjLUJmYUxUcl9EVnJpR3RkNUJrYmFRYVBWdTRjWFlkZEF1d2xfeDlUT2FDRmhiVFpmYi00OGNGTk1jbksyLVN0MWFMMnNLRllESTRkT1p5dmk3Mkl3ZjN3cklYQWw2T3YyTVVJUEduWE5aeUFrV09VOWNRX25kVUNNWUxIUjRSS0FuYTYzUUVFS2tTMEpnT0ZlYkI1TENkbHlVMmVYRmR2?oc=5",
+      "s": "People Matters",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Cognizant",
+      "ind": "IT Services",
+      "imp": "12,000–15,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "#1d4ed8",
+      "txt": "Cognizant may cut 12,000–15,000 jobs globally under “Project Leap” as it accelerates an AI-driven operating shift.",
+      "q": "May cut 12,000 to 15,000 jobs globally under Project Leap",
+      "lk": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY09MS2xramU2Wm5jSks2RXEtbFZkbTVycUIxQWJZV2R2NGlyOGN5bHRKR3gxVGRJbXJRc1p5WG4yQW0xQy03T1pjTGNGbGswQ3Y1UGpMR2k3X3VlVmtVRGRuNjRzekoySHh1aVM0R2xKR3dTSkg2NXpSdTM0Y0F1WjJNSmNOcGZPTGhib21OYVIxcWFSalB5Zmt4Xy1FSWFjMEJMb1FGanlCMlNwMHRzVTNMZG1GejZqcWc?oc=5",
+      "s": "People Matters",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Oracle",
+      "ind": "Technology",
+      "imp": "Major cuts",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#f97316",
+      "txt": "A new account details how Oracle’s layoffs have affected teams and how some workers are organizing and pushing back internally.",
+      "q": "“Everyone’s a line on a spreadsheet”",
+      "lk": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VMTVoOEpaSF9fcl9aVng0bGlVUWRrS2t4Tm1hS2R0VWlab2I3WkVSYmxsUGtZVlloZjhQZ3B0d1JKbGpWMHR1cnlmTE5Lc0xZUlB5endMeGd0M3dwdTcxZUhOTzl4bVozaUZrRWNndFBOQQ?oc=5",
+      "s": "TIME",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+    },
     {
       "c": "Dow",
       "ind": "Chemicals",
@@ -388,6 +430,24 @@
   ],
   "india": [
     {
+      "c": "India IT Roles List",
+      "role": "TalentSprint Guide",
+      "txt": "A curated list of <em>10</em> in-demand IT job tracks in India for 2026, with a skills-focused view aimed at job seekers and switchers.",
+      "lk": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1FIMmg5WjFJZmh3cE5GSEZDWW1BZFlqVHBlcjNCenI2SFpvZVYwV3RxNDUwRXdZQnhTWXVUMVZMSi1VZGltR2ZYS25zTFNiVEl1d2NEOWtOdDBKUEZqeWhOM0loM1hWcVhSQlN6bUdWSEFyVU1Sa29Ebzc0V3FPWlZR?oc=5",
+      "s": "TalentSprint",
+      "col": "#22c55e",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Tech Hiring Playbook",
+      "role": "CIO.com Hiring List",
+      "txt": "CIO.com highlights <em>10</em> in-demand tech roles for 2026 and offers guidance on how employers hire for them—useful signals for interview prep.",
+      "lk": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVBmbjNLa28ydHloWGpBQnhlVmQ4YWR0QmNSTDJPUk8wdE1RcDM5NU96RlJKbGxsMUM4Qm1aems2eWo4T2RlSkhiUTRIcTBYbGdfbG9FazdzLWFIa2VJZlFxZXRGbTZJLXMxalh2R0U2N2xtZldkRmRPZVRPLXJuN2VsWGNHV2hZNzdnUQ?oc=5",
+      "s": "CIO.com",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "ICRIER Study",
       "role": "GenAI & IT Jobs",
       "txt": "An ICRIER study says generative AI is <em>redefining</em> tech jobs rather than replacing them, pointing to task shifts over mass displacement.",
@@ -548,24 +608,6 @@
       "s": "Outsource Accelerator",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=taggd.in&sz=128"
-    },
-    {
-      "c": "Semiconductor Boom",
-      "role": "India Decoding Jobs 2026",
-      "txt": "<em>10 lakh semiconductor jobs projected by 2026</em> — chip design, VLSI, embedded systems, AI-hardware optimization. Biggest wealth creation since IT services.",
-      "lk": "https://taggd.in/blogs/it-hiring-trends/",
-      "s": "Taggd",
-      "col": "#fbbf24",
-      "logo": "https://www.google.com/s2/favicons?domain=taggd.in&sz=128"
-    },
-    {
-      "c": "GCC Expansion",
-      "role": "Zyoin Group",
-      "txt": "<em>500,000+ new GCC positions</em>. AI talent shortage shows no signs of abating. Skills-based hiring: 80% of employers prioritize skills over degrees.",
-      "lk": "https://www.zyoin.com/post/indias-2026-job-predictions",
-      "s": "Zyoin Group",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
     }
   ]
 }
