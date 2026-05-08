@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "FRESHWORKS CUTS 500 · COGNIZANT PROJECT LEAP: 12K–15K AT RISK · ORACLE LAYOFFS SPARK WORKER PUSHBACK",
+  "ticker_text": "FRESHWORKS CUTS 500 ROLES AS AI WRITES “OVER HALF” ITS CODE · INDIAN IT FIRMS ADDED JUST 17 NET EMPLOYEES IN 9 MONTHS · INDIA IT ADAPTING TO GENAI WITHOUT MASS JOB LOSSES—STUDY",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: People Matters · TIME · CIO.com · TalentSprint · Updated May 2026",
+  "footer_text": "Sources: ABP News · Computerworld · The Indian Express · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Freshworks",
+      "ind": "Technology",
+      "imp": "500",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Freshworks announced 500 job cuts as it restructures around AI-led productivity changes. Leadership said AI is already responsible for a large share of code output.",
+      "q": "“Over half our code is written by AI” — Freshworks (ABP News)",
+      "lk": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYklOTzBBNGdXQ05rUjE0QW83c2luX19BMF9LOVVsOTl5Y1JhMFBRUWl0eVc2MzU3NThHVXV6QU1keTdfb3JzaHBSZnZCTERyUHNGRDR1Q2VYYV8wREp1Mm10TlYwOWlwTXZZSWZ2dEdtQmZabTc5RGcxNWlTZVBqR3pHajhUTURZdnpRRzRxQUdvWnh0Y0lkZFpLaW5lSlFjXy1GUkZ3QnlKMXBV0gGyAUFVX3lxTE1JdjZTOGRIQ04ySk5iYzVVLVRBSHhaWWNnSVNOYmlweGJrR2tPdkFndktwUUlrU2J4eE40S2ZleVM5c1RWOVAzMEdSU3p4WFpCZEhiakUzYXNNdldMZG5fd1UyNWhNV0dpQ1dPaFhQNDI5S25qeGw1aHZjM0laZHBOa3p5Ymx5dEJtc3F2MnB5MDRJcEg4ZnFFX1J5Z2k2M0taOVpReFJEMzRxWGFaOFRWWlE?oc=5",
+      "s": "ABP News",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Freshworks",
       "ind": "SaaS",
@@ -430,6 +444,24 @@
   ],
   "india": [
     {
+      "c": "Indian IT Hiring",
+      "role": "Headcount Trend",
+      "txt": "Indian IT firms added just 17 net employees over nine months, pointing to a hiring slowdown amid shifting demand and AI-led productivity changes. The data highlights tougher near-term prospects for fresher and lateral hiring.",
+      "lk": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZaTDNsTjNGekdPaUR4WTJWQmhIOW1JallJc0tacEEwNXViN2s3WkRiZGMxOUlTdmdacWZaN2t0a3NmUE1EZUFNanUwYWpSY3ZjM1U2Z09mbHFlSDB2WnpVZnUzeXh5blRfd2ZLel9hLXc1dk5tU25ZRGhMMnNYLUkwUHNjdlFLMXR3LXBiWWJiakd4M25UX0F1bVRSZ2laVmZmbmFOdEJzNGh5OFBiZWg2OWNaaFBBTThxcV9YSllsa24wMVE?oc=5",
+      "s": "Computerworld",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "India IT Study",
+      "role": "GenAI Adoption",
+      "txt": "A study cited by The Indian Express says India’s IT sector is adapting to generative AI without <em>mass job losses</em>. The findings suggest change in work-mix and skills demand rather than immediate large-scale displacement.",
+      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
+      "s": "The Indian Express",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "India IT Roles List",
       "role": "TalentSprint Guide",
       "txt": "A curated list of <em>10</em> in-demand IT job tracks in India for 2026, with a skills-focused view aimed at job seekers and switchers.",
@@ -538,30 +570,12 @@
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
-      "c": "IT Hiring Slowdown",
-      "role": "Computerworld Analysis",
-      "txt": "Indian IT firms reportedly added just <em>17 net employees</em> over nine months, pointing to a cautious hiring environment even as AI investment rises. The piece flags a disconnect between AI momentum and broad-based headcount growth.",
-      "lk": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZaTDNsTjNGekdPaUR4WTJWQmhIOW1JallJc0tacEEwNXViN2s3WkRiZGMxOUlTdmdacWZaN2t0a3NmUE1EZUFNanUwYWpSY3ZjM1U2Z09mbHFlSDB2WnpVZnUzeXh5blRfd2ZLel9hLXc1dk5tU25ZRGhMMnNYLUkwUHNjdlFLMXR3LXBiWWJiakd4M25UX0F1bVRSZ2laVmZmbmFOdEJzNGh5OFBiZWg2OWNaaFBBTThxcV9YSllsa24wMVE?oc=5",
-      "s": "Computerworld",
-      "col": "#f59e0b",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
       "c": "GenAI Talent Gap",
       "role": "TeamLease Report",
       "txt": "A TeamLease report cited by The Economic Times says India’s GenAI market has a supply crunch: <em>1 qualified engineer for every 10 open GenAI roles</em>. The gap suggests strong demand for GenAI skills despite broader tech hiring caution.",
       "lk": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWw0TVZ1VVdkTGp2S2tCeFpSY080ZEdZMHVpa19yQ2ZOZ0lJOGdEaVM3N3puWWg5aUZ6WGxrVEVramc0Y21xbTFjaWVyWXpDeUpOODdlRXIwdzEzbTg2VnI2dFNPZDBCOTBIdWlDRGRTN0N0MVNxZk15NkRsM2ZBdzVPNjZMUmpzUU1ROVBxSmNtU29HeHlEQTYzWHAyTENJeG02WHJGVUx4TVhteUlEVHV0YWNzdDI5WURoUjVLYm91MnF5SnZLc2FjOTNwN3JjdG5BYkp5SUlncV9PeE9sbmNaWV80MnRLTzhVcGdTQUE2RGM2S0RXVNIB_gFBVV95cUxQTDFQN3daNEduMHU2SkZXbnVKcTNpUHpYREE5aV9TNVl3UlJlZHBxdEI1RXFCSGVGNDY5MlFQNnZ1LXZ0a0tuTVZqcmxfZnZJdFdZV2FLMTZYckx4MWZNTVdzMHFVRGE1NG9MaU5HRjJQU3kwNEtDaHItZVk3dWRrMGlvWWdjMUg3T3VWOUF6VTBYdWpsT3V4YVdVVDYybG5OY2ZfX2w0X3BmYndEWFE5dzZrdGtsU0lmXzN0dFVjd2JCMTg0bE5aOEpzWWNNUjNFUmYxOGlwZlRNdkMxMTJnOGg0Z3J5a25HR2daT1R5QWZxak9EZnVDQVVWb2U2QQ?oc=5",
       "s": "The Economic Times",
       "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India IT (GenAI adoption)",
-      "role": "Software / platform engineering",
-      "txt": "The Indian Express cites a study arguing GenAI is <em>redefining</em> tech work more than replacing it—good news for engineers who can pair domain knowledge with AI-assisted delivery.",
-      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
-      "s": "The Indian Express",
-      "col": "GREEN",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
