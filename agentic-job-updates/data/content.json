@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI HIRING +59.5% (LINKEDIN)",
+  "ticker_text": "CLOUDFLARE TO CUT 20% WORKFORCE · INDIA ACTIVE TECH JOBS DIP TO 110,000",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: The Indian Express · Updated May 2026",
+  "footer_text": "Sources: The Hans India · Storyboard18 · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Cloudflare",
+      "ind": "Technology",
+      "imp": "20% workforce",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Cloudflare is planning a major workforce reduction as it restructures operations with an AI-driven focus. The move signals continued pressure on tech roles as companies shift investment toward AI initiatives.",
+      "q": "Cloudflare to lay off 20% workforce",
+      "lk": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbm5LZ0F0cHZVR1BsUGFuX2RqZDVoTC1XMUZvN01mNFFrbWpkS01nRHM1aU95d1dMN3RKdWNhVml5aEY3ZUdMczRZVGhRbWhzY2c2TmRwOUlHUm1xNG1aX2tGRlR6cUxzblc5dEJITk5lLTI1UXB6bVpySkF1ZUJzZzdPQW1wVHo5WUFRZ0pNX0c4eVJTRDZaNU94NlJvSG5ScDRNUTNxMnllNDk1dUdzci1uendSUG5hUFNuajBOX0F4TlBM0gHKAUFVX3lxTE9jX0s2a1pnTU1qSFZ4dnNrX25lNGNRX3prTGdCYWNJNDdPNVZJNXA2czZfTU5qdEVibEhHTk9yV1FTNllTRUVYM0h6WnJuVmYyNV9HZFpCUzlqOW4ySm53MGhWYmV5LWZXN09WZ0xwNUx6TlcwenNTZFJQR21SOHRMMUs3MUpWeFVoSVd3UUFSbGp2TUZXeE9YcGZNWDFDeXF0YmZRSlNuZGVOOVpGT2VjTk1wYjFUNG5DZ2tSeTdQQ2gzbkdDRjFSSmc?oc=5",
+      "s": "The Hans India",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Cloudflare",
       "ind": "Technology",
@@ -472,6 +486,15 @@
   ],
   "india": [
     {
+      "c": "India Tech Jobs",
+      "role": "Storyboard18 Report",
+      "txt": "A new report pegs active tech job openings in India at <em>110,000</em>, alongside weakening demand in IT services and GCC hiring. The data point suggests a softer market even as AI skilling remains a priority.",
+      "lk": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnpLZG5WbWxoU1VaSEJiMWIxWVZHNlIyX21vNDNjZjJCZFBIU0p0WkxGZDhwVHBNQ2VoalZaWmJlTm0yWE9tQjhTcXY5ZG5tU1VvSmp4NEI4OGJVZzRwSFcyTWZOdmd4d3RfSjNpNmV6NnlLdlI2a3dOX2VTN0dwZG9peW9ZbjJ3OEx5NlM2Z29uXzhua2JRVk1ZeFJZNUk0REtpdVgzblZDX25ZMjNVYnEzZmhLWEpxMDZuNEJCRV96aFE5OWw3bHFzQUE4d9IB0wFBVV95cUxQRUFlWXI4Q3JURDN4Y0F2UmtRb2FqOUUtQ2RaQXgxWDdmWGFrZjJ6aUxsTmRjeE1qVlVTSGxZWXVHbThOVzVHTTVQRGhKYjRHOExzX280SFNhRkE5NGRjUl9waDRqaG1DSkEtUTJRaGU1Ulk3Ui1FMVh4T3kwX0NXUUVQel9WYnVITzdGdTJNN3lUZmoyWXhGOVJSX0M0bnp0QXNQLVlGS0ZTeVhiLTUtcVBZUEdkX0ZQSEhoZl8yNWhLMGVmT2JVZXB0eXhsZlB5QThF?oc=5",
+      "s": "Storyboard18",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Hiring Surge",
       "role": "LinkedIn Report",
       "txt": "LinkedIn data cited in the report says India is seeing the fastest global growth in AI hiring, up <em>59.5%</em>. The signal: demand is rising for AI engineering talent even as companies elsewhere talk about AI-driven restructuring.",
@@ -640,15 +663,6 @@
       "lk": "https://www.ibtimes.co.in/ai-tech-jobs-india-drive-1215-pc-growth-tech-hiring-2026-896221",
       "s": "IBTimes India",
       "col": "#34d399",
-      "logo": "https://www.google.com/s2/favicons?domain=adecco.co.in&sz=128"
-    },
-    {
-      "c": "ML Engineer Demand",
-      "role": "Adecco India",
-      "txt": "Demand rose <em>45% for ML engineers, data engineers & full-stack developers</em> with AI integration skills. Specialist pay up 15%. GCC hiring +20%.",
-      "lk": "https://www.gopher.security/news/tech-hiring-growth-12-15-increase-in-ai-and-data-jobs-by-2026",
-      "s": "Quantum Safe News",
-      "col": "#5b9cf6",
       "logo": "https://www.google.com/s2/favicons?domain=adecco.co.in&sz=128"
     }
   ]
