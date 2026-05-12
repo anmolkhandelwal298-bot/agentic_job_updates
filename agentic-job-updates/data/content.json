@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "CLOUDFLARE TO CUT 20% WORKFORCE · INDIA ACTIVE TECH JOBS DIP TO 110,000",
+  "ticker_text": "META PLANS 10% WORKFORCE CUT AS IT PUSHES DEEPER INTO AI · GOOGLE TO ALLOW GEMINI-ASSISTED CODING ROUNDS IN SOFTWARE ENGINEERING INTERVIEWS",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: The Hans India · Storyboard18 · Updated May 2026",
+  "footer_text": "Sources: CNBC · The Hans India · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "10%",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Meta said it will cut 10% of its workforce as it intensifies its push into AI, signaling ongoing restructuring even as AI investment ramps up.",
+      "q": "Meta will cut 10% of workforce as company pushes deeper into AI",
+      "lk": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHNGbEZGWnZFVWhPZjFRbXFCeFpnV2FkY1VsUmgxbGZOQldqRnhCUFQwNEtab24yRTlPYkxFNmtYYnJpaWx4NkZfWkpJY3hRc1dsZTRwX0VjSFN0MnVlY3hSRGpKc3B6dzhxaW84ZFlvT2d1b1U0eDJNaFc3V3N5RXlxQUxjZEtsS3dUSHpfUjcwdFVGOTFzb2pUejg1U3dy?oc=5",
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Cloudflare",
       "ind": "Technology",
@@ -486,6 +500,15 @@
   ],
   "india": [
     {
+      "c": "Google Interviews",
+      "role": "Gemini-assisted rounds",
+      "txt": "Google will allow AI tools in software engineering interviews, starting with Gemini-assisted coding rounds—an early signal that hiring processes are adapting to AI-native workflows.",
+      "lk": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZE5Ldk51eUx0eC1hMlVXVWc0VDNiNGs1MUEwUGU1eWt6MEp4UllabHVGYTd4dnpJZVhHQlVvYk43dXNBc0w2U041Mjc3NDNsTkgxSWdKNFAxQnJqcWRvcFFfMmtkc0pHSG5VTWsxNzNyN1E0QmY0emR3OWtVVkFmWFpWZnNJZnBEajBZV0RYN2R1U3c2clhCVGFqU29JMFBCY2wySU81NElYRkhYOHdWV0lUTnV1Q2JfVkYwMDR4NWcwSlVVanFXOU1OV0N2ajRyUFRUUGlOc1ZuUGU2Y0xDdC1MT1lCekgtNEk1WVJmeWR6b2_SAfgBQVVfeXFMTnVKX1ZMRGZ5Q0RZS2RtOHluNVZHdHBsWWtBcFlUYkc4aHBFWUtFT2pjUkhTcV9hbDItcUhxc3RIVlZPUzlUcFlEZ05hY1VGd0FiS2RGeEVhU1pOUC1kU2FqZ0thRDJJLW5jcGpncWJrZktYR0RsbGZmUTZJTWRmZzF5SzNWdEZaX3FCVVVFQ1o4NGhBaGp2TUlfemtKS04wQ2lQZ1hpdUgzQTI4Y3JBVWtiazI1ajc2QVBYNUp1MXBOWmFJYlU1MVVZZk9taGJILVo1aGxXSjJUR1hLbms5SjJqb1laWVhkUDBaNXY2SWdZbW1mcGVGVnU?oc=5",
+      "s": "The Hans India",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "India Tech Jobs",
       "role": "Storyboard18 Report",
       "txt": "A new report pegs active tech job openings in India at <em>110,000</em>, alongside weakening demand in IT services and GCC hiring. The data point suggests a softer market even as AI skilling remains a priority.",
@@ -655,15 +678,6 @@
       "s": "SiliconIndia",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=foundit.in&sz=128"
-    },
-    {
-      "c": "Tech Hiring +12-15%",
-      "role": "Adecco India",
-      "txt": "Overall tech job market expected to see <em>12-15% uptick in 2026</em>, adding ~1.25 lakh new roles. AI, data & cybersecurity demand grew 51%.",
-      "lk": "https://www.ibtimes.co.in/ai-tech-jobs-india-drive-1215-pc-growth-tech-hiring-2026-896221",
-      "s": "IBTimes India",
-      "col": "#34d399",
-      "logo": "https://www.google.com/s2/favicons?domain=adecco.co.in&sz=128"
     }
   ]
 }
