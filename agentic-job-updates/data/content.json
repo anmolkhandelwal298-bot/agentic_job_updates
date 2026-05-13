@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "META PLANS 10% WORKFORCE CUT AS IT PUSHES DEEPER INTO AI · GOOGLE TO ALLOW GEMINI-ASSISTED CODING ROUNDS IN SOFTWARE ENGINEERING INTERVIEWS",
+  "ticker_text": "INDIA SIGNALS: GCC HIRING +20% · AI ENGINEERING ROLES +59.5% (LINKEDIN)",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: CNBC · The Hans India · Updated May 2026",
+  "footer_text": "Sources: Analytics India Magazine · Telangana Today · Updated May 2026",
   "layoffs": [
     {
       "c": "Meta",
@@ -500,6 +500,24 @@
   ],
   "india": [
     {
+      "c": "GCC Hiring",
+      "role": "AIM Report",
+      "txt": "India’s monthly tech hiring slowed, but GCC expansion was reported at <em>20% growth</em>, keeping demand resilient for product and platform roles.",
+      "lk": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVJ6dXNrQnVMbFh1NlQzUGQ4Y0FTOTlHc0hodjZjUndHS0NHeFcwaXM4YjFfaV9aLXF2bFl3SFJUZld1VWFDWm5uay1MMm5BSTJUb2lWaGRHdEtHQk9vQkcwMlQxTFd6MGNmd1g2c1R2TUZVNWxoQzRTckxBOE1rc3lZV1VLSS01eTRfR0JuWUdUMHVI?oc=5",
+      "s": "Analytics India Magazine",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "AI Engineering Demand",
+      "role": "LinkedIn Report",
+      "txt": "A LinkedIn report cited <em>59.5%</em> growth in AI engineering jobs in India, outpacing the US and Europe—supporting continued hiring for ML/AI engineering skills.",
+      "lk": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHBFMGtrNlpGMXJIalMtQjRNX095U2tocmU2b2tFZGo5SFBlMzEwZDRFd25VWkczV0Npa3Z1VnNVY3JoMzIzV0ctYTYzNEJJT19qamdrWl91ZVEzNzk4aHRfUGtwb0tabktyUjVwdk5sMDVxQXFHT0RoUi02UXNKSjA3cG9raUlQSGd1bExPOFZIRlBjMDVMMFo5cUo1UG1aeUh4bjBxVF84YzRRUlE?oc=5",
+      "s": "Telangana Today",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "Google Interviews",
       "role": "Gemini-assisted rounds",
       "txt": "Google will allow AI tools in software engineering interviews, starting with Gemini-assisted coding rounds—an early signal that hiring processes are adapting to AI-native workflows.",
@@ -660,24 +678,6 @@
       "s": "The Economic Times",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "Fast-growing roles",
-      "role": "AI-era career map",
-      "txt": "Business Standard lists roles expected to grow despite rapid AI adoption—use it as a shortlist for 2026 transitions (security, data, cloud, AI product delivery).",
-      "lk": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2xLYjg0UmJBU0VsM0d3eExZMFduX0ptZVRsNjN3TDhVMXExUTRXUTRsRUFjNUlpbUVaOTRHSkJpTlRVbnZrMjJOQzVXaHlBRXJXVWlTeXVBS1kyZXJ5SjlOa0RzNjFjNGJpcF9qVkU4TjV6MnMtMHZLZmpmcUJ5WFdHMTVqYi1uRlpDRkx6TEVpaWlFc29rYW9QSERUeGhTR2tWaXRQcVBUQ1JuTk1vR3dfT09yam5NdHlFM2dOdXVGS19yVV8zV9IBzgFBVV95cUxNTDBBUGxaUnlqcGhINWVPUmZLWjF1Wm1iZDRZa1pXWk1FWFJfdExPcEtNdlpEMHpmQWNUdGF5TDBlTjZHXzJjVDJrSlg2RVdhQ0NndFp3SjM5cVZZdnRpUGFDWHUyUjUxRUZNSHdrS0U2VlBOMGI5ZTRfUzUzMDdlRi1vSzJKazAzaVV1M18wS1YxcU9IenRfU1g2dWhESDllZ0VycUpVRkl3cS00b3E4ZXNNQVFNTl9VN1g0TEVvaHA5NXl5YzRYME9yUXJJZw?oc=5",
-      "s": "Business Standard",
-      "col": "GREEN",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Hiring Surge",
-      "role": "foundit Report",
-      "txt": "India posted <em>290,256 AI-linked roles in 2025</em>. Projected to grow 32% in 2026 to nearly <em>380,000 positions</em>. Generative AI & LLM skills demand jumped 60% YoY.",
-      "lk": "https://www.siliconindia.com/news/ai-hiring-surges-in-india-with-32-percent-growth-expected-in-2026-nwid-53129.html",
-      "s": "SiliconIndia",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=foundit.in&sz=128"
     }
   ]
 }
