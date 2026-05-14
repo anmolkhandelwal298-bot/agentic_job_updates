@@ -5,7 +5,11 @@
   "hero": {
     "badge": "EVIDENCE TRACKER — APRIL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
-    "description": "Every layoff. Every hiring data point. Backed by Anthropic's Economic Index research and real news sources — for Indian software engineers navigating the shift."
+    "description": "Every layoff. Every hiring data point. Backed by Anthropic's Economic Index research and real news sources — for Indian software engineers navigating the shift.",
+    "urgency": "⚠ 908 engineers displaced by AI — today alone. The window to upskill is closing fast.",
+    "cta_button": "Secure Your Career Now →",
+    "social_proof": "2,400+ engineers already enrolled · Cohort filling fast",
+    "trust": "Free to join · 30 seconds · No spam"
   },
   "stats": [
     {
