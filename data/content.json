@@ -122,7 +122,7 @@
     "button": "Join The Waitlist →"
   },
   "integrations": {
-    "sheet_webhook_url": ""
+    "sheet_webhook_url": "https://script.google.com/a/macros/newtonschool.co/s/AKfycbyL0Q_aplrr8kCBxSgd2lc2p5gGgIktGhmU0OFvkKPnpcvBk9fmVGjlim-wEFyMIVSm/exec"
   },
   "footer_text": "All data sourced from CNBC, CNN, Al Jazeera, Tom's Hardware, Fortune, Anthropic Research, IEEE, WEF, foundit, Adecco India, Taggd-CII & reputed outlets. Compiled for educational awareness · April 2026",
   "layoffs": [
