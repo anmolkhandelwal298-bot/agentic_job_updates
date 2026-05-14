@@ -6,12 +6,14 @@ module.exports = async function handler(_request, response) {
   try {
     let content;
 
+    // Always use local content.json (current deploy) as primary source.
+    // Blob is only used if local load fails.
     try {
+      content = await loadLocalContent();
+    } catch {
       const result = await get(CONTENT_BLOB_PATH, { access: 'private' });
       const raw = await new Response(result.stream).text();
       content = JSON.parse(raw);
-    } catch {
-      content = await loadLocalContent();
     }
 
     const html = await buildHtml(content, { assetBase: '/assets' });
