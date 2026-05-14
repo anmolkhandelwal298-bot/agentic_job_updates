@@ -82,6 +82,7 @@ def build_html(content: dict) -> str:
         "__CTA_DESCRIPTION__": content["cta"]["description"],
         "__CTA_LINK__": content["cta"]["link"],
         "__CTA_BUTTON__": content["cta"]["button"],
+        "__SHEET_WEBHOOK_URL__": content.get("integrations", {}).get("sheet_webhook_url", ""),
         "__FOOTER_TEXT__": content["footer_text"],
         "__LAYOFFS_JSON__": json.dumps(content["layoffs"], ensure_ascii=False),
         "__INDIA_JSON__": json.dumps(content["india"], ensure_ascii=False),

@@ -301,8 +301,13 @@ document.getElementById('leadModal').addEventListener('click',function(e){
 });
 document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
 
-function submitLead(e){
+async function submitLead(e){
   e.preventDefault();
+  const btn=e.target.querySelector('.form-submit');
+  const orig=btn.textContent;
+  btn.textContent='Submitting…';
+  btn.disabled=true;
+
   const fd=new FormData(e.target);
   const payload={
     name:fd.get('name'),
@@ -312,7 +317,24 @@ function submitLead(e){
     yoe:fd.get('yoe'),
     ts:new Date().toISOString()
   };
-  console.log('Lead captured:', payload);
+
+  const SHEET_URL='';
+  if(SHEET_URL){
+    try{
+      await fetch(SHEET_URL,{
+        method:'POST',
+        mode:'no-cors',
+        headers:{'Content-Type':'application/json'},
+        body:JSON.stringify(payload)
+      });
+    }catch(err){
+      console.error('Sheet submit error:',err);
+      btn.textContent=orig;
+      btn.disabled=false;
+      return;
+    }
+  }
+
   document.getElementById('leadForm').style.display='none';
   document.getElementById('leadSuccess').style.display='block';
 }
