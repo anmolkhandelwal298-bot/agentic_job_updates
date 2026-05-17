@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "AMAZON CUTS SELLING PARTNER SERVICES STAFF AS IT SHIFTS TO AI AUTOMATION · INDIA IT NET HEADCOUNT +17 IN 9 MONTHS: REPORT",
+  "ticker_text": "FRESHWORKS CUTS 500 · LINKEDIN PLANS ~5% WORKFORCE CUT · INDIA GCCS GROW 20%",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,36 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Analytics Insight · Computerworld · Updated May 2026",
+  "footer_text": "Sources: People Matters Media · Morocco World News · Analytics India Magazine · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Freshworks",
+      "ind": "Software",
+      "imp": "500",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Freshworks announced layoffs as part of an AI transformation push, cutting roles as it restructures operations.",
+      "q": "Freshworks… cuts 500 jobs",
+      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakF4S1JWQjdzdTVkLTdRNVlPelZHTmR3X2ZuVDZQVGpEVktFX283SWVjLUJmYUxUcl9EVnJpR3RkNUJrYmFRYVBWdTRjWFlkZEF1d2xfeDlUT2FDRmhiVFpmYi00OGNGTk1jbksyLVN0MWFMMnNLRllESTRkT1p5dmk3Mkl3ZjN3cklYQWw2T3YyTVVJUEduWE5aeUFrV09VOWNRX25kVUNNWUxIUjRSS0FuYTYzUUVFS2tTMEpnT0ZlYkI1TENkbHlVMmVYRmR2?oc=5",
+      "s": "People Matters Media",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "LinkedIn",
+      "ind": "Technology",
+      "imp": "~5%",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff5a3c",
+      "txt": "LinkedIn is reported to be planning job cuts of about 5% of its workforce amid broader AI- and automation-linked restructuring.",
+      "q": "LinkedIn to cut about 5% of workforce",
+      "lk": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXNnRE9VZXI1NEljU1ktS1M1SUlQamJmMW9ZRlJLQ001ckYySXB2SkltVzlyMVlDbjU3UzRtQXNHZW85azJ6SlZIRkVJY1dFdXROU3JFYndEVEVxRjNEYkMwNDcwMXJWdENyVGZJNG9ONmU5MmltZE9MbUYyTHdzVG1qX043cFRuSUNXd2UwQnQ3UGozVXZPZGo5VEp6U05UU01zVlpPb3g?oc=5",
+      "s": "Morocco World News",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Amazon",
       "ind": "E-commerce",
@@ -201,20 +229,6 @@
       "q": "“Over half our code is written by AI” — Freshworks (ABP News)",
       "lk": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYklOTzBBNGdXQ05rUjE0QW83c2luX19BMF9LOVVsOTl5Y1JhMFBRUWl0eVc2MzU3NThHVXV6QU1keTdfb3JzaHBSZnZCTERyUHNGRDR1Q2VYYV8wREp1Mm10TlYwOWlwTXZZSWZ2dEdtQmZabTc5RGcxNWlTZVBqR3pHajhUTURZdnpRRzRxQUdvWnh0Y0lkZFpLaW5lSlFjXy1GUkZ3QnlKMXBV0gGyAUFVX3lxTE1JdjZTOGRIQ04ySk5iYzVVLVRBSHhaWWNnSVNOYmlweGJrR2tPdkFndktwUUlrU2J4eE40S2ZleVM5c1RWOVAzMEdSU3p4WFpCZEhiakUzYXNNdldMZG5fd1UyNWhNV0dpQ1dPaFhQNDI5S25qeGw1aHZjM0laZHBOa3p5Ymx5dEJtc3F2MnB5MDRJcEg4ZnFFX1J5Z2k2M0taOVpReFJEMzRxWGFaOFRWWlE?oc=5",
       "s": "ABP News",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "Freshworks",
-      "ind": "SaaS",
-      "imp": "500",
-      "d": "May 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#0ea5e9",
-      "txt": "Freshworks announced layoffs tied to an AI-led transformation, cutting roles as it reshapes teams and priorities.",
-      "q": "Freshworks ... cuts 500 jobs",
-      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakF4S1JWQjdzdTVkLTdRNVlPelZHTmR3X2ZuVDZQVGpEVktFX283SWVjLUJmYUxUcl9EVnJpR3RkNUJrYmFRYVBWdTRjWFlkZEF1d2xfeDlUT2FDRmhiVFpmYi00OGNGTk1jbksyLVN0MWFMMnNLRllESTRkT1p5dmk3Mkl3ZjN3cklYQWw2T3YyTVVJUEduWE5aeUFrV09VOWNRX25kVUNNWUxIUjRSS0FuYTYzUUVFS2tTMEpnT0ZlYkI1TENkbHlVMmVYRmR2?oc=5",
-      "s": "People Matters",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
@@ -514,6 +528,15 @@
   ],
   "india": [
     {
+      "c": "GCC Expansion",
+      "role": "Analytics India Magazine",
+      "txt": "A report flags a pause in monthly tech hiring momentum, even as India’s global capability centres (GCCs) <em>grow 20%</em>. The shift suggests demand is concentrating in in-house engineering hubs.",
+      "lk": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVJ6dXNrQnVMbFh1NlQzUGQ4Y0FTOTlHc0hodjZjUndHS0NHeFcwaXM4YjFfaV9aLXF2bFl3SFJUZld1VWFDWm5uay1MMm5BSTJUb2lWaGRHdEtHQk9vQkcwMlQxTFd6MGNmd1g2c1R2TUZVNWxoQzRTckxBOE1rc3lZV1VLSS01eTRfR0JuWUdUMHVI?oc=5",
+      "s": "Analytics India Magazine",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
+    },
+    {
       "c": "India IT Hiring",
       "role": "Computerworld Report",
       "txt": "A Computerworld report says Indian IT firms added just <em>17 net employees</em> over nine months, despite the AI boom. The data point suggests slower net hiring even as AI investment accelerates.",
@@ -537,15 +560,6 @@
       "txt": "A News9live report citing LinkedIn says India’s AI engineering hiring rose <em>59.5%</em>, signaling strong demand for AI-focused roles.",
       "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnpWQWptcFkyQ0pLOUNrMlNDX09mNkhCREZMdjVfZTVlMC1YSjhtZW9PTnNhU2FpTGFDTVhzWFlUS1EtUVF3c3pZVTRXa2xFa3c3YmVMWU1DR0hySG5YOWhvcDZKRUh1VC10TGpSekdCNFJfTENQNXZzV3lLdHk4cTBKRk1vbm52UGJxbEVTNEdLWmtRSkt6NmZEWnhfc0ZuaXp3c2Zvd1Z2S3lOUEY5Y19oOFJpd3EzMnNCaWVnM1lhcUJaS0dzYTc4aldaOUhi0gHWAUFVX3lxTE9zb0RTSy1WWWdTaGdwaVZwejFRelpCVHZOTGhFeVhKc1FMUHpLOUZDekNka1d2ODViSVNBQWhsaTF0RGF5N21YcGduV0NBajAyQ215UUdxT1ZhcmVJTE9kTmVsTG9CblVaX2dpT18zdzB6RXY0Tk1DYUdhaGZGRnU5OTBHNm0tSDVmeVhRS0FZejRoeng4anJGYUtSTzhfbUdRbG8tMVZZM0FSM1dEZzRpU1BoNW1qeFZiaVhWS3BWQTBUb2NsRUxzZjQybmZWWnE5Rm1YZlE?oc=5",
       "s": "News9live",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "GCC Hiring",
-      "role": "AIM Report",
-      "txt": "India’s monthly tech hiring slowed, but GCC expansion was reported at <em>20% growth</em>, keeping demand resilient for product and platform roles.",
-      "lk": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVJ6dXNrQnVMbFh1NlQzUGQ4Y0FTOTlHc0hodjZjUndHS0NHeFcwaXM4YjFfaV9aLXF2bFl3SFJUZld1VWFDWm5uay1MMm5BSTJUb2lWaGRHdEtHQk9vQkcwMlQxTFd6MGNmd1g2c1R2TUZVNWxoQzRTckxBOE1rc3lZV1VLSS01eTRfR0JuWUdUMHVI?oc=5",
-      "s": "Analytics India Magazine",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
