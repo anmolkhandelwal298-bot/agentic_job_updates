@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "AI LAYOFF WAVE: 90,000+ JOBS THIS YEAR · INDIA AI HIRING +59.5% (LINKEDIN)",
+  "ticker_text": "INTUIT CUTS 3,000 · META CUTS 8,000",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,36 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Reuters · Moneycontrol · The Indian Express · Updated May 2026",
+  "footer_text": "Sources: NPR · TradingView · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Intuit",
+      "ind": "Technology",
+      "imp": "3,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#2CA01C",
+      "txt": "Intuit is set to cut 3,000 jobs as it expands AI across products, according to the report. The news surfaced ahead of earnings, with the stock moving lower in early trading.",
+      "q": "Intuit to cut 3,000 jobs, Reuters reports.",
+      "lk": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON000US1odlN1aDNZZ2ktRmJvbXdYZkVfbkRlbkw0cEg5UEhWNEZkb0VXNUhlQ3dZMG9TV1JpdTBxNk8tSFFzSWdPWm1ldENFclBvTzNvY1lCcXBNOUp3c0czeGNjLTQ4eXEwQTdTUy01MEIyTGc2c2ZKSHFtQmpSdDNDa3FqdVNNa1VnOVZOd1NZc2IxRXZGRlNweHo3MWdWbUh1bG9CX3JRTWRrck9jT3NuWWRKRDlyQ3VoTmhmVzItcjZqWmIwNHlB?oc=5",
+      "s": "TradingView",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "8,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#1877F2",
+      "txt": "Meta is cutting 8,000 jobs as it pivots toward AI investments, per the report. The move underscores ongoing workforce reshaping tied to AI priorities.",
+      "q": "Meta slashes 8,000 jobs as it pivots towards AI.",
+      "lk": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01alVaazVtTjl4WEphSEpXbmpsUmlnZHJMUlFTOEdOQ0hUeWdnZkNpVzRIVU9NSjVjNFV4Z3phNUczSmNoVTJIXzhwNjhDLXAyM0ktMUo3UXVNS0Z1dmZkN2cwMXRhT3ZrZFZFbk9TTkpkQnc?oc=5",
+      "s": "NPR",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Atlassian",
       "ind": "Technology",
@@ -510,20 +538,6 @@
       "lk": "https://gulfnews.com/technology/ai-job-cuts-the-8-major-companies-replacing-humans-with-bots-1.500450587",
       "s": "Gulf News",
       "logo": "https://www.google.com/s2/favicons?domain=ibm.com&sz=128"
-    },
-    {
-      "c": "Duolingo",
-      "ind": "EdTech",
-      "imp": "10% contractors",
-      "d": "2024–2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#58CC02",
-      "txt": "Declared AI-first. Stopped using contractors for AI-handleable work.",
-      "q": "CEO von Ahn: 'Similar call to our mobile-first bet — now it's AI.'",
-      "lk": "https://www.hcamag.com/us/specialization/hr-technology/ai-first-duolingo-plans-to-cut-contractor-roles/533895",
-      "s": "HRD America",
-      "logo": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=128"
     }
   ],
   "india": [
