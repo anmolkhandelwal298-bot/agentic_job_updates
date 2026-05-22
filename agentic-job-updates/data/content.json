@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INTUIT CUTS 3,000 · META CUTS 8,000",
+  "ticker_text": "INTUIT CUTS 3,000 (17%) · AWS CEO SAYS ‘TONS AND TONS’ OF SOFTWARE DEVELOPERS STILL NEEDED",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: NPR · TradingView · Updated May 2026",
+  "footer_text": "Sources: CNBC · The Times of India · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Intuit",
+      "ind": "Fintech",
+      "imp": "3,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Intuit is cutting about 3,000 roles (around 17% of its workforce) while pushing deeper into AI across products. The CEO said the workforce reduction had <em>nothing to do with AI</em>, even as the company ramps AI initiatives.",
+      "q": "Intuit cut about 3,000 jobs, or 17% of its workforce.",
+      "lk": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlFJc2dJZXJaUnpmc0VabUtjMlF4U3ZBcG1sVzczWjQtclhVMExKdDhRRWVjR00yTGlfSGhPNHgzeTVFODBpQVFCMWhPVTd1RXh5MnBRMXp6QU1PN1Fjb1d3eUtvQlZCZzJUTzZLb2JpMXNrUnpQazF0R3QyNjU4VzBJRXBseDE4WUlfMWUxdGpnNDFTM05TX0V4TFktY2RMUVlIQjJndjJDTk51dWhnddIBtgFBVV95cUxQS3IyQXVoM2NBWEZkRnBwbUltU2JkUTBQczVfMUNQMXNqV0N4YTB3dExiRFBXYnZkOW9jU0FEM0dKRUNIZW1RR3FRdkNGT1JnSFJVNTNtZWYtNmdXWUk5a1VPZF9ZaVZ3aVdSa3JWQTdTUG5lTXBEdGdrejNteVd5Z092bXNtS0NNeFRnQUlNOXFaajFZQmEwQUR4T3RxVFFRZVo4d2hlMjdLMFJWOGIyaXNQSGFhQQ?oc=5",
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Intuit",
       "ind": "Technology",
@@ -524,23 +538,18 @@
       "lk": "https://tech.co/news/fiverr-layoffs-ai-first",
       "s": "Tech.co",
       "logo": "https://www.google.com/s2/favicons?domain=fiverr.com&sz=128"
-    },
-    {
-      "c": "IBM",
-      "ind": "Technology",
-      "imp": "~8,000",
-      "d": "2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#054ADA",
-      "txt": "CEO Krishna replaced HR employees with AI. ~8K back-office roles cut.",
-      "q": "Note: IBM tripled entry-level hiring in 2026 — bucking the trend.",
-      "lk": "https://gulfnews.com/technology/ai-job-cuts-the-8-major-companies-replacing-humans-with-bots-1.500450587",
-      "s": "Gulf News",
-      "logo": "https://www.google.com/s2/favicons?domain=ibm.com&sz=128"
     }
   ],
   "india": [
+    {
+      "c": "AWS Hiring Signal",
+      "role": "CEO comments",
+      "txt": "AWS CEO Matt Garman told engineers the company will still need “tons and tons” of software developers, even as AI coding tools spread. The comments signal continued demand for engineers alongside AI adoption.",
+      "lk": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbU9KRFJmckJnbTAtdXY5cDhSeXlSM2FpNXBQVzcwVGNwcWVUUHRiWkpFNUhpOHFRa2UzdlpITlpBa0R4N0VJUkczamJPNTNXczd3SGRrb2xVQzR5QVh5LU0xNGVUT3ZfQmkxdlNIM0VFczRzNzFfYkdMQ2RGN1QzMmh0ZmtpaXJWY2E0ZGxpVTBsZm5udVoxNW1PYjZyWk1DS2I1c0JXU0pxWHFQNjJkMnpmcmlXZ1VkbzVyT0VqSmxSbm54aDhSbVVVWGoyTF9xZXo5VGxmaDlGWVJJamRSQ0g3SHRQdjhWWkxXU1ZURTdBdkEwZ3lfUHdrTGpjSE1qNXNBX1F4TDIyZ1E1Mm8wQ0VqS0ZyZ2dE0gGeAkFVX3lxTE5yM3Q0UUIxZHNhY3dMdy1rbjl4cHpIX25SNk9mS2hWakZBLVBWZksyckRYNWsxMUpUZTdqYmlfb25PTlk2ZzgxbUFxLTlUQmppZTBjUHl0TG1valdGWUhtQS1xSnpUeVY0bnQ1QnhKN0c0SGI0cGxGckZZWDB2dzNPRFUwS0loUTc3bld4bk9wNjczR0V0NEE1WUFzczZ3T2RlRVZyTk5kNE1kWlBldEI5Vi1MY1pPX3NESGhDOG9ZU2c0NlRLQ1k0V1dOTnhYY2N2NFRPbGFmX3NSTlVWSzlFS3o2eE42N1RZT3ZHNmRhbUFHcEYtbWZ3OWt2ZUZrcXIyR3JJa09heFRENDlzVFJzR2ZmSE5SWlY4UG5UZ1E?oc=5",
+      "s": "The Times of India",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "GenAI Talent Crunch",
       "role": "Teamlease Report",
@@ -709,15 +718,6 @@
       "txt": "OpenAI is hiring in Bengaluru for an AI Deployment Engineer role, per Analytics India Magazine.",
       "lk": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYlMzelFCcTZvMExnZk9OQXNZeEd3ZG5RSGgxVGNFVzFDMFpXQ09lNUpHVnBFN0tIN3JDTEF2UmNnY094ckYxaHpFZWpXSzBSUnlWX001NUVZVzMycnItVUN6U0hBaFRWYkQ5bTZwbHg5cVRnOWc?oc=5",
       "s": "Analytics India Magazine",
-      "col": "#5b9cf6",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "Agentic AI Skills Crunch",
-      "role": "Skills Report",
-      "txt": "The Economic Times reports demand for agentic AI skills is rising, while talent supply <em>falls short by over 50%</em>.",
-      "lk": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbFlWdm5zaHBSenhrZGlCWFc1S21pVF9jaW1DWlVIZXdpWXMzY3VIYWRVOUI0azlLd09OdDBGVmpEM0swWjFWaXB2Z3lDQWZveWlUN3hFSDBFM29EYnBqWW1nUUwybklJdXI0TVFLQ3o0RS1EemxKN0NnaENpVEtzNnJPblNtT2FaTVFYR0h5elZsMWdlTEo1bHg1LWhwblp0amItQVppUWFqWWJPZW5zUkJia3FSR2JNQzVnRDdhWGlGTnpSVmtzTHlSRUpESDhjNGFwNlI0MnpnXzJLT3pTOUVUWEZFRnhS0gHuAUFVX3lxTFBMamJieG9MX252Y014T2ZSUDRROUdaRnhQR25QZDBkeU1jVEN3QTRDVkJMTjg3dmx5TmFyaXFBRjRlZmZNNWZKWk9QOEpLYmpWQXdrZndJbXJjQXJtYm5oZXRXQlVzYTJkdzZfY19aa1dKS3J5NVRBNTRnWENDUDdmQ3VQS2laNk94YXVyMmFPVDc1LTVkSngzNjVGRUZwclhBaUcxaHEzR0FpTE5hbGNvVlFaekpyMml4N1RNVkVaTVZ0em5xZkxjTDA3cGJtYy1maEtpRFh3MHQyYjc3d255bUhIdVYwN29uYTE3SlE?oc=5",
-      "s": "The Economic Times",
       "col": "#5b9cf6",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
