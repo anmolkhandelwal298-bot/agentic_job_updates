@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INTUIT CUTS 3,000 (17%) · AWS CEO SAYS ‘TONS AND TONS’ OF SOFTWARE DEVELOPERS STILL NEEDED",
+  "ticker_text": "INTUIT TO CUT 3,000 JOBS AS IT REFOCUSES ON AI · META SLASHES 8,000 JOBS IN AI PIVOT · INDIA AI HIRING +59.5% (LINKEDIN)",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: CNBC · The Times of India · Updated May 2026",
+  "footer_text": "Sources: TechSpot · CNBC · NPR · The Indian Express · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Intuit",
+      "ind": "Fintech",
+      "imp": "3,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Intuit is cutting 3,000 roles while refocusing operations around AI initiatives, while publicly pushing back on the idea that the layoffs are purely AI-driven.",
+      "q": "Intuit says layoffs are “not about AI.”",
+      "lk": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2RENTBNaFR6cTJhaHRDODgxcmxGLW91S21XS2FsYVBpa1NlYjIxT3JpbGdZMjFjaGdYYTVobUV4OWRvQVVxSWNVcENwX0lqRzJRak9TT1pLU0VRdHVZVjlGeFNGSldKdndpNDN3SjFBbzFiOEZOV1hBVkZYQU90NUp4UHBubDVUdU1iQUVGZFJVZw?oc=5",
+      "s": "TechSpot",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Intuit",
       "ind": "Fintech",
@@ -524,20 +538,6 @@
       "lk": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
       "s": "CNBC",
       "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
-    },
-    {
-      "c": "Fiverr",
-      "ind": "Marketplace",
-      "imp": "~250 (30%)",
-      "d": "Sep 2025",
-      "y": "2025",
-      "big": 0,
-      "col": "#1DBF73",
-      "txt": "CEO: 'We implemented AI projects that replaced human work.' AI-first.",
-      "q": "CEO Kaufman: hit profit target a year early thanks to AI.",
-      "lk": "https://tech.co/news/fiverr-layoffs-ai-first",
-      "s": "Tech.co",
-      "logo": "https://www.google.com/s2/favicons?domain=fiverr.com&sz=128"
     }
   ],
   "india": [
