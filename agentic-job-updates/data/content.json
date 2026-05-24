@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INTUIT TO CUT 3,000 JOBS AS IT REFOCUSES ON AI · META SLASHES 8,000 JOBS IN AI PIVOT · INDIA AI HIRING +59.5% (LINKEDIN)",
+  "ticker_text": "INTUIT CUTS 3,000 JOBS · INDIA AI ENGINEERING HIRING +59.5% (LINKEDIN)",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: TechSpot · CNBC · NPR · The Indian Express · Updated May 2026",
+  "footer_text": "Sources: AIM Media House · Dailyhunt · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Intuit",
+      "ind": "Software",
+      "imp": "3,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Intuit is cutting 3,000 jobs as it reshapes operations while increasing investment in AI.",
+      "q": "Intuit cuts 3,000 jobs",
+      "lk": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEE2YzVkMlNhdDI2M1JRSVBMM3NTTmU3U1hKX3VSUVY0UUttQndZRXVDMzZSVms4X2gxSWllekdlX2NJVlUwcFVERFdYb2gtanpvMHd4WmhBenZJcERVdUZuZGYzekRLYXdJOUFZLVREVUFDdVlvTkV4akxRYkpUT0h0dU1NTDRsbHZObUZKSGo2OHlCbTVVOGI5TGdEZVNzYl9CbjQzNVZMbzg?oc=5",
+      "s": "AIM Media House",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Intuit",
       "ind": "Fintech",
@@ -524,23 +538,18 @@
       "lk": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push",
       "s": "Al Jazeera",
       "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
-    },
-    {
-      "c": "Amazon",
-      "ind": "E-commerce/Tech",
-      "imp": "14,000",
-      "d": "Oct 2025",
-      "y": "2025",
-      "big": 1,
-      "col": "#FF9900",
-      "txt": "Flattened management. SVP Galetti cited AI enabling fewer people.",
-      "q": "CEO Jassy: run company like 'world's largest startup'.",
-      "lk": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-      "s": "CNBC",
-      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
     }
   ],
   "india": [
+    {
+      "c": "India AI Hiring",
+      "role": "LinkedIn Report",
+      "txt": "A LinkedIn report says India’s AI engineering hiring rose 59.5%, highlighting continued demand for AI talent.",
+      "lk": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeURRTjFQbkVwVUpXY1dYODZGY0NVYlZ5SlFaYXpycG1HNE04cnZGbXRtNGNNQ3YyMU9md1NUc1JjSmRxSFVOTE9rQnhYMmdTR0d6RkRaVTVxVnhUTENmUF9ENE1QdjhPMmtrTnNremhjcUQ4UlJjUEVMazlRaklHVkhmXzlVbUpMVlRhZEVYVDRxZkVIZEVUNXU5WVFVSVlIMzlFSTdZV2FYeWlvdGd6TzBDaE02QzlkUkFBZ0gwdzlWU0tFV0xxX0NpQ2UxMUM2X2lha0ktMTRHQnJKaVVfZHBKWllMbXljenJqUGFhVjJodU80Q1FHS3JRLVlCZG1I?oc=5",
+      "s": "Dailyhunt",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "AWS Hiring Signal",
       "role": "CEO comments",
@@ -574,15 +583,6 @@
       "txt": "A Computerworld report says Indian IT firms added just <em>17 net employees</em> over nine months, despite the AI boom. The data point suggests slower net hiring even as AI investment accelerates.",
       "lk": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZaTDNsTjNGekdPaUR4WTJWQmhIOW1JallJc0tacEEwNXViN2s3WkRiZGMxOUlTdmdacWZaN2t0a3NmUE1EZUFNanUwYWpSY3ZjM1U2Z09mbHFlSDB2WnpVZnUzeXh5blRfd2ZLel9hLXc1dk5tU25ZRGhMMnNYLUkwUHNjdlFLMXR3LXBiWWJiakd4M25UX0F1bVRSZ2laVmZmbmFOdEJzNGh5OFBiZWg2OWNaaFBBTThxcV9YSllsa24wMVE?oc=5",
       "s": "Computerworld",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Engineering Hiring",
-      "role": "LinkedIn Report",
-      "txt": "A LinkedIn report says AI engineering hiring in India jumped <em>59.5%</em>, pointing to strong demand for AI-focused talent.",
-      "lk": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeURRTjFQbkVwVUpXY1dYODZGY0NVYlZ5SlFaYXpycG1HNE04cnZGbXRtNGNNQ3YyMU9md1NUc1JjSmRxSFVOTE9rQnhYMmdTR0d6RkRaVTVxVnhUTENmUF9ENE1QdjhPMmtrTnNremhjcUQ4UlJjUEVMazlRaklHVkhmXzlVbUpMVlRhZEVYVDRxZkVIZEVUNXU5WVFVSVlIMzlFSTdZV2FYeWlvdGd6TzBDaE02QzlkUkFBZ0gwdzlWU0tFV0xxX0NpQ2UxMUM2X2lha0ktMTRHQnJKaVVfZHBKWllMbXljenJqUGFhVjJodU80Q1FHS3JRLVlCZG1I?oc=5",
-      "s": "Dailyhunt",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
