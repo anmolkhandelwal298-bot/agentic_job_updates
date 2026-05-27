@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "NO NEW VERIFIED COMPANY LAYOFF COUNTS TODAY · NO NEW INDIA AI-HIRING DATA POINTS TODAY",
+  "ticker_text": "WIX CUTS 1,000 · FRESHWORKS CUTS 500",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,36 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Computerworld · Updated May 2026",
+  "footer_text": "Sources: The American Bazaar · ABP News · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Wix",
+      "ind": "Software",
+      "imp": "1,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#0B5FFF",
+      "txt": "Wix reported a 1,000-job reduction as it navigates an AI-driven transition and reorganizes teams.",
+      "q": "Wix cuts 1,000 jobs amid AI transition",
+      "lk": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORmhzekNLVldBTjk2NWZCMlBmbXJKOEM1aVE2NnF6bmZhQmh0RVRkbmplRG5kR25pbkpHWDFlX2N6UmdpQlhiTWgtYUxUNkMwb2J2cXVSbkFzV3NoWVotRUpMdXFQZjZCT1VLeEVWS1ZaT1hWM1VEblo5YWVoZzJNM0E0T01VSlRHQ0E?oc=5",
+      "s": "The American Bazaar",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Freshworks",
+      "ind": "SaaS",
+      "imp": "500",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#FF3B30",
+      "txt": "Freshworks cut 500 jobs, with the company framing the move around its AI shift and changing execution needs.",
+      "q": "Freshworks Cuts 500 Jobs",
+      "lk": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYklOTzBBNGdXQ05rUjE0QW83c2luX19BMF9LOVVsOTl5Y1JhMFBRUWl0eVc2MzU3NThHVXV6QU1keTdfb3JzaHBSZnZCTERyUHNGRDR1Q2VYYV8wREp1Mm10TlYwOWlwTXZZSWZ2dEdtQmZabTc5RGcxNWlTZVBqR3pHajhUTURZdnpRRzRxQUdvWnh0Y0lkZFpLaW5lSlFjXy1GUkZ3QnlKMXBV0gGyAUFVX3lxTE1JdjZTOGRIQ04ySk5iYzVVLVRBSHhaWWNnSVNOYmlweGJrR2tPdkFndktwUUlrU2J4eE40S2ZleVM5c1RWOVAzMEdSU3p4WFpCZEhiakUzYXNNdldMZG5fd1UyNWhNV0dpQ1dPaFhQNDI5S25qeGw1aHZjM0laZHBOa3p5Ymx5dEJtc3F2MnB5MDRJcEg4ZnFFX1J5Z2k2M0taOVpReFJEMzRxWGFaOFRWWlE?oc=5",
+      "s": "ABP News",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Intuit",
       "ind": "Software",
@@ -300,20 +328,6 @@
       "lk": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd29KN3QxWVhXYzhzbHJIYVZENUk4ejFqck43N1RneEVhQUp2cWwxLVlOZURtbEwzcG0zT1l0NThGVVBRYTJiV2VXRTczRlRrNEhGeU9aNzJSNTMtaUpRZkFPSjFadTA5dEVWSVBjc0FENGdlZTM1aGRMd3Vha3lsYVlKb045cUVWbFRiTWU0Rmt5UVVEdGJnN3doZjhvdFlldTdyX2t1eW5kS0xMTmNKLVpxcEZwTHRwV0FkOA?oc=5",
       "s": "The Guardian",
       "logo": "https://www.google.com/s2/favicons?domain=atlassian.com&sz=128"
-    },
-    {
-      "c": "Freshworks",
-      "ind": "Technology",
-      "imp": "500",
-      "d": "May 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#ff3b30",
-      "txt": "Freshworks announced 500 job cuts as it restructures around AI-led productivity changes. Leadership said AI is already responsible for a large share of code output.",
-      "q": "“Over half our code is written by AI” — Freshworks (ABP News)",
-      "lk": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYklOTzBBNGdXQ05rUjE0QW83c2luX19BMF9LOVVsOTl5Y1JhMFBRUWl0eVc2MzU3NThHVXV6QU1keTdfb3JzaHBSZnZCTERyUHNGRDR1Q2VYYV8wREp1Mm10TlYwOWlwTXZZSWZ2dEdtQmZabTc5RGcxNWlTZVBqR3pHajhUTURZdnpRRzRxQUdvWnh0Y0lkZFpLaW5lSlFjXy1GUkZ3QnlKMXBV0gGyAUFVX3lxTE1JdjZTOGRIQ04ySk5iYzVVLVRBSHhaWWNnSVNOYmlweGJrR2tPdkFndktwUUlrU2J4eE40S2ZleVM5c1RWOVAzMEdSU3p4WFpCZEhiakUzYXNNdldMZG5fd1UyNWhNV0dpQ1dPaFhQNDI5S25qeGw1aHZjM0laZHBOa3p5Ymx5dEJtc3F2MnB5MDRJcEg4ZnFFX1J5Z2k2M0taOVpReFJEMzRxWGFaOFRWWlE?oc=5",
-      "s": "ABP News",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
       "c": "Cognizant",
@@ -524,20 +538,6 @@
       "lk": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
       "s": "InformationWeek",
       "logo": "https://www.google.com/s2/favicons?domain=meta.com&sz=128"
-    },
-    {
-      "c": "Amazon",
-      "ind": "E-commerce/Tech",
-      "imp": "16,000",
-      "d": "Jan 2026",
-      "y": "2026",
-      "big": 1,
-      "col": "#FF9900",
-      "txt": "Second wave in 3 months. Affecting Prime Video, AWS, HR divisions.",
-      "q": "Aimed at reducing red tape and speeding decision-making.",
-      "lk": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push",
-      "s": "Al Jazeera",
-      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
     }
   ],
   "india": [
