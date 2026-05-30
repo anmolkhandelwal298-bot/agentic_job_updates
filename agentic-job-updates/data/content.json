@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MAY 2026 CHECK · NO NEW VERIFIED COMPANY-SPECIFIC LAYOFF LINKS · NO NEW INDIA AI-HIRING DATA POINTS",
+  "ticker_text": "WIX AXES 20% WORKFORCE",
   "hero": {
     "badge": "EVIDENCE TRACKER — MAY 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: The American Bazaar · ABP News · Updated May 2026",
+  "footer_text": "Sources: HCAMAG · Updated May 2026",
   "layoffs": [
+    {
+      "c": "Wix",
+      "ind": "SaaS",
+      "imp": "20%",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Wix is cutting 20% of its workforce, with the report framing the move as part of an AI-driven reshaping of roles and costs in tech.",
+      "q": "Wix axes 20% of its workforce",
+      "lk": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXU3Z1Vwa0plbTJabVJaMGpxaU1sMW1LQlpnS3UyZXp3ZzFXcXdMMnFPOXU1bUUyYXFUTTl4eXV1X0VBa2NXWXRXTWZXTDJUVHZxOWlaQWxUbVNfUTVsemlPTnlUS2lLN09abHBXblE5YW9qMGk5SGJKbTN4VEtmVHZIWnV3S0J1QWlJdU5pZUFGNm5zVjZhdzhWTlhnVHhhX1RTUVlPM1QyUUNr?oc=5",
+      "s": "HCAMAG",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Wix",
       "ind": "Software",
@@ -524,20 +538,6 @@
       "lk": "https://www.challengergray.com/blog/challenger-report-march-cuts-rise-25-from-february-ai-leads-reasons/",
       "s": "Challenger Gray",
       "logo": "https://www.google.com/s2/favicons?domain=dell.com&sz=128"
-    },
-    {
-      "c": "Meta (Reality Labs)",
-      "ind": "Technology",
-      "imp": "~1,500",
-      "d": "Feb 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#0668E1",
-      "txt": "Pivoting from Metaverse to AI. Lost $60B+ on Metaverse since 2020.",
-      "q": "CTO Bosworth: redirect investment toward AI products.",
-      "lk": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
-      "s": "InformationWeek",
-      "logo": "https://www.google.com/s2/favicons?domain=meta.com&sz=128"
     }
   ],
   "india": [
