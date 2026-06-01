@@ -1,9 +1,9 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MAY 2026 · NO NEW VERIFIED COMPANY-LAYOFF LINKS TO ADD · NO NEW INDIA HIRING DATA LINKS TO ADD",
+  "ticker_text": "NO NEW VERIFIED COMPANY LAYOFFS · NO NEW INDIA HIRING DATA POINTS",
   "hero": {
-    "badge": "EVIDENCE TRACKER — MAY 2026",
+    "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
     "description": "Every layoff. Every hiring data point. Backed by Anthropic's Economic Index research and real news sources — for Indian software engineers navigating the shift."
   },
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Google News RSS (candidate scan) · Updated May 2026",
+  "footer_text": "Sources: Google News RSS (candidate scan) · Updated Jun 2026",
   "layoffs": [
     {
       "c": "Wix",
