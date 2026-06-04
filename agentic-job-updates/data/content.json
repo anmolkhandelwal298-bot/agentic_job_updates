@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUN 2026 SCAN · NO NEW COMPANY-SPECIFIC LAYOFF LINKS · NO NEW INDIA HIRING DATA POINTS",
+  "ticker_text": "JUN 2026 SCAN · NO NEW COMPANY-SPECIFIC LAYOFF ITEMS CLEAR OF DUPLICATES · INDIA: STUDY SAYS GENAI ADOPTION WITHOUT MASS IT JOB LOSSES",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Google News RSS (candidate scan) · Updated Jun 2026",
+  "footer_text": "Sources: Google News RSS candidate scan (The Indian Express) · Updated Jun 2026",
   "layoffs": [
     {
       "c": "Wix",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "India IT Study",
+      "role": "New study",
+      "txt": "A new study reports India’s IT sector is adopting generative AI with roles being reshaped, <em>without mass job losses</em>. The focus is on adaptation and reskilling rather than large-scale displacement.",
+      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
+      "s": "The Indian Express",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "OpenAI Hiring",
       "role": "Workforce Doubling",
       "txt": "OpenAI plans to <em>double its workforce</em>, pointing to growing demand for enterprise AI talent.",
@@ -646,15 +655,6 @@
       "txt": "Business Today reports that <em>15 lakh</em> engineers still aren’t enough for India’s AI economy, pointing to continued demand for AI-ready talent across industry. The shortage highlights hiring pressure even as some firms slow overall headcount growth.",
       "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
       "s": "Business Today",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India IT Study",
-      "role": "GenAI Adoption",
-      "txt": "A study cited by The Indian Express says India’s IT sector is adapting to generative AI without <em>mass job losses</em>. The findings suggest change in work-mix and skills demand rather than immediate large-scale displacement.",
-      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
-      "s": "The Indian Express",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
