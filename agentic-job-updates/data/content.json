@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUN 2026 SCAN · NO FRESH COMPANY-SPECIFIC LAYOFF COUNTS IN PROVIDED CANDIDATES · NO NEW INDIA HIRING DATA LINKS",
+  "ticker_text": "INDIA AI ROLES +27% (HIGH-PAYING) · NO NEW VERIFIED COMPANY LAYOFF COUNTS IN TODAY’S CANDIDATES",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Google News RSS candidate scan (Reuters, CNBC, NPR, The Indian Express, The Times of India) · Updated Jun 2026",
+  "footer_text": "Sources: Google News RSS candidate scan (CNBC, NPR, Reuters, The Indian Express, The Times of India, MSN) · Updated Jun 2026",
   "layoffs": [
     {
       "c": "Wix",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "AI Hiring Pulse (India)",
+      "role": "High-paying roles",
+      "txt": "A report highlights a <em>27% surge</em> in high-paying AI roles, signaling continued demand for specialized AI skills despite broader tech cost-cutting.",
+      "lk": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd19MZ2owS0NYUVdjR3R6cWNrWHRhQzZQdTdMVktfMkNtTkhDU1BweXQ1ajNkbGZsVDc5OXZ0Um1yRjRteldpZ2pNQTljS0dMRXdQY0FfNzZyV2lkSVJ4OVZiY3ozVlRhVTdrMVVVOVVlb1BwTmJkd2NXMHNmM2xvRldYdjFxSFJWTmg1RlVma0VXY2hzR1VDQlIxNEhTM2FrXzZCS0xNZjB3ckpycFh6bV9CZlM2c09pOGx6ekJiS0tKZXFZV0dsdVk2bnRJNURWb2pfemJlZTdLc3VqcTJCS3pLVTM?oc=5",
+      "s": "MSN",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "India IT Study",
       "role": "New study",
       "txt": "A new study reports India’s IT sector is adopting generative AI with roles being reshaped, <em>without mass job losses</em>. The focus is on adaptation and reskilling rather than large-scale displacement.",
@@ -710,15 +719,6 @@
       "lk": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0FuaDdnX0tIZktKaWJxUDZFWGxBbkg1ZkhOVzVsWFZvN3J4UlhhZU5DaEprczdxN1JQT09SeVVkLWMzM3huNDdtQjNmRlJNU2Ntd1hzZnlneEJDMjA0UWZ4UFg5aDZQV3pJdkVJQzlQUlAtXzNEMGlvV1pFYWhIbTRJajdrT09vMzMwSll2SjdZVnNlbE93MC1IZE9YOUtBOTJnUm5TMmpENU9VbF96ZjJtaTFSRl9ESldnb9IBwgFBVV95cUxOV1gwZElERjZRRHltLU91ZzFHbzY2UkVhbGRCTXRPMzBTRFZsYUFIa0xSYk1od09taXl0clpqdGEzOE9HZnFKWURjdFc0Ul9IWUlkbW5hUE9qSDlaelhoYjduV0FMZWdIZTZVekpvamdjb0tmYlVYM3hLYzUyZlpxbC1wZWRMNll5bTRaNFJqWnR5d0hrdVFrRnVCa2RhbHU2cGlMN3dHaVJhYU5fVTJJVzlnV0tMam5vSWxTTTlJUl9hUQ?oc=5",
       "s": "ETHRWorld.com",
       "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "OpenAI Bengaluru Hiring",
-      "role": "AI Deployment Engineer",
-      "txt": "OpenAI is hiring in Bengaluru for an AI Deployment Engineer role, per Analytics India Magazine.",
-      "lk": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYlMzelFCcTZvMExnZk9OQXNZeEd3ZG5RSGgxVGNFVzFDMFpXQ09lNUpHVnBFN0tIN3JDTEF2UmNnY094ckYxaHpFZWpXSzBSUnlWX001NUVZVzMycnItVUN6U0hBaFRWYkQ5bTZwbHg5cVRnOWc?oc=5",
-      "s": "Analytics India Magazine",
-      "col": "#5b9cf6",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ]
