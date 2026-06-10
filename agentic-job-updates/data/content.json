@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI ROLES +27% (HIGH-PAYING) · NO NEW VERIFIED COMPANY LAYOFF COUNTS IN TODAY’S CANDIDATES",
+  "ticker_text": "INDIA AI HIRING +59.5% (LINKEDIN REPORT)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "India AI Hiring",
+      "role": "LinkedIn report",
+      "txt": "A LinkedIn report cited by The Indian Express says India saw the fastest global growth in AI hiring at <em>59.5%</em>. The data point adds evidence of continued AI-talent demand despite broader automation anxiety.",
+      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUW5aM1RsTUdCVmJ0N2cyd0t0bVBuS2Q2cmVtWjk4b0NfeldLVDB6S0czbkxFTXMzNGltQ1BTQ1dldDRCbUt1WVlRUm9udDJOLVFFYTZLNEdPVlVqajRLQjhwZDlJSndkZmV2TnBERU9vNU5ILWtHX0N4Wng1enhrTEVPNkJLSGRaVzNmOVdsQjhtRGVPX2Qta3JCcmtkTHpheE5ZRXl4eXdvYzdZbU43X2VHYTNyVGtuM2VZbUJ4Nzlqb1RRNEp3bTBpZlAtODF5cGhsVnRSWjVEYlRzNURidENR0gHoAUFVX3lxTE90d2RVdV8zS0dUWXRpSmtobm8yWjRWemlEMk9MaXVqS19qZ25UVHNZVmNFSU1rY2xZU180MExIQ2FoTjQtZEM3NThrbWV6QVhSNEhib09jeFdHZUhVT0RlR3lQRTMyaG9oWE8wNHk3SzNBZ0tDVGlKanA3Y2RBaFROcGxwRm5FcXVsNFhlU1dGM19ZZlJ5VVJHUDA2aTBlTXd4TGJNblFNUXJZR3ZlUWdoR3VsdXlrTkd0ZGYweWRTeW9yZUhFNDZPcTlZSXp3VlhranVZeHJzUUljeTRlT25ueElvVTJlNFk?oc=5",
+      "s": "The Indian Express",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Hiring Pulse (India)",
       "role": "High-paying roles",
       "txt": "A report highlights a <em>27% surge</em> in high-paying AI roles, signaling continued demand for specialized AI skills despite broader tech cost-cutting.",
@@ -648,15 +657,6 @@
       "s": "Storyboard18",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Hiring Surge",
-      "role": "LinkedIn Report",
-      "txt": "LinkedIn data cited in the report says India is seeing the fastest global growth in AI hiring, up <em>59.5%</em>. The signal: demand is rising for AI engineering talent even as companies elsewhere talk about AI-driven restructuring.",
-      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUW5aM1RsTUdCVmJ0N2cyd0t0bVBuS2Q2cmVtWjk4b0NfeldLVDB6S0czbkxFTXMzNGltQ1BTQ1dldDRCbUt1WVlRUm9udDJOLVFFYTZLNEdPVlVqajRLQjhwZDlJSndkZmV2TnBERU9vNU5ILWtHX0N4Wng1enhrTEVPNkJLSGRaVzNmOVdsQjhtRGVPX2Qta3JCcmtkTHpheE5ZRXl4eXdvYzdZbU43X2VHYTNyVGtuM2VZbUJ4Nzlqb1RRNEp3bTBpZlAtODF5cGhsVnRSWjVEYlRzNURidENR0gHoAUFVX3lxTE90d2RVdV8zS0dUWXRpSmtobm8yWjRWemlEMk9MaXVqS19qZ25UVHNZVmNFSU1rY2xZU180MExIQ2FoTjQtZEM3NThrbWV6QVhSNEhib09jeFdHZUhVT0RlR3lQRTMyaG9oWE8wNHk3SzNBZ0tDVGlKanA3Y2RBaFROcGxwRm5FcXVsNFhlU1dGM19ZZlJ5VVJHUDA2aTBlTXd4TGJNblFNUXJZR3ZlUWdoR3VsdXlrTkd0ZGYweWRTeW9yZUhFNDZPcTlZSXp3VlhranVZeHJzUUljeTRlT25ueElvVTJlNFk?oc=5",
-      "s": "The Indian Express",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=foundit.in&sz=128"
     },
     {
       "c": "AI Talent Gap",
