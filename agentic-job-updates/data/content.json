@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "NO NEW COMPANY-SPECIFIC LAYOFFS · NO NEW INDIA HIRING DATA",
+  "ticker_text": "ORACLE FLAGS MAJOR LAYOFFS AS AI SPEND SHIFTS BUDGETS · INDIA: NO NEW VERIFIED HIRING DATA POINTS IN TODAY’S CANDIDATES",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Google News RSS candidate scan (TechGig, Indian Express, Reuters, NPR, TOI) · Updated Jun 2026",
+  "footer_text": "Sources: Open Magazine · Updated Jun 2026",
   "layoffs": [
+    {
+      "c": "Oracle",
+      "ind": "Technology",
+      "imp": "Major cuts",
+      "d": "Apr 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#C74634",
+      "txt": "Open Magazine reports on Oracle layoffs in 2026, framing the cuts around shifting priorities and a push toward AI-led investment. The piece focuses on possible drivers rather than detailing a single confirmed global headcount number in the headline.",
+      "q": "Oracle Layoffs 2026: What Is Driving the Biggest Job Cuts Ever?",
+      "lk": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGVBMFdqNzZQUzVFb3N1Tk5iYmVyNVZlRThYSGtQa2RzOXMxUTA2RUxJcmhlbkNfRDVYd2dfZFNLTTVSdXhSNlVoU0tLRUZOeFotdVpoSmVJSmoxb3g1Q284OHBHUUx1WGhacWRGODZTaDk2N3VON2hCS3p5RUVUbkRKdm5ybzVYSHNaSnpXNU9HN0duYXRmMWlOOA?oc=5",
+      "s": "Open Magazine",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+    },
     {
       "c": "Salesforce",
       "ind": "Technology",
@@ -524,20 +538,6 @@
       "lk": "https://tech-insider.org/tech-layoffs-2026-ai-workforce-impact/",
       "s": "Tech Insider",
       "logo": "https://www.google.com/s2/favicons?domain=block.xyz&sz=128"
-    },
-    {
-      "c": "Atlassian",
-      "ind": "Technology",
-      "imp": "1,600",
-      "d": "Mar 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#0052CC",
-      "txt": "10% workforce cut for 'AI era'. Employees with transferable skills were spared.",
-      "q": "CEO Cannon-Brookes: changes needed for the AI era.",
-      "lk": "https://programs.com/resources/ai-layoffs/",
-      "s": "Programs.com",
-      "logo": "https://www.google.com/s2/favicons?domain=atlassian.com&sz=128"
     }
   ],
   "india": [
