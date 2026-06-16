@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUN 2026 UPDATE · NO NEW VERIFIED COMPANY-SPECIFIC LAYOFF LINKS IN TODAY’S CANDIDATE FEED · INDIA HIRING LINKS: NO FRESH REPORTS",
+  "ticker_text": "MINT: AI-RELATED ROLE UP 729% YOY · SALARIES HIT ₹1.7 CRORE",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "AI Role Boom",
+      "role": "Mint Report",
+      "txt": "A Mint report flags one AI-linked tech role growing <em>729%</em> in a year, even as AI-related layoffs continue elsewhere. It says salaries for the role are now reported up to <em>₹1.7 crore</em>.",
+      "lk": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaWZ3TnlEMjhDMVMwR2tQZHlZT05GMWItaWRKMDlfeURKeDlDcGd2VE0zaGZvaXRhQkQ1MWVVZnQ2ck1RZHJ0UlZiSGIwQVdWNnVKV29xVmo0aEZrMXhZT1JpeTE3cVFzaG4wOWhnN3M3STRXQjhVR19aV21tNXNRR1M0dEc5U1dlSlZUaV82UEVLdWxUUWd4U1FTT3M4b2VRM1pxUXhZRTJWenMxZGp6R3ZEWGYzUkg5V3JRcnF5QUhWV2x4aEp1UVJUOUNPRk9Od3ZBTGxrTG1wM2VFR01lUGpfeGFrMXNRQVB2YVZhOTZtS0RoZlHSAfsBQVVfeXFMTUtvaUV2YnE2dUp4clljN2JnQVdkUmI2MzNfbHJaMnRGWW9nTGM3UTJkUTk3QUNTdmxiT3FnbnV0eXVSY2lBODV4bFZUTTdIQWgwRUxzRUhTMExyYWVZV2hJUjBQXzgwdnUwdlpJZ1JaUGhDaTZieDk4Zno1N2JrRjF5c0FEZ1EwTWo4aXR3bzhQVFViWGM4VGh1NWpVWEZRQVYzWkRKbjVLLTdhbGxpYTUwZUVzV3dlZEhUc0dSeW5veERmMTgwSTlSZl9HZ0tQcWxHc3JXZno3TGc0WW10d2l6TEhVcTRvVUlmTER6dmJXbjdweDFNU2M4QWc?oc=5",
+      "s": "Mint",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "OpenAI Hiring",
       "role": "Bengaluru Role",
       "txt": "OpenAI is hiring in Bengaluru for an AI Deployment Engineer role, signaling continued demand for hands-on engineering talent in India’s AI ecosystem.",
@@ -709,15 +718,6 @@
       "txt": "An ICRIER study says generative AI is <em>redefining</em> tech jobs rather than replacing them, pointing to task shifts over mass displacement.",
       "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXBzX0k4TTRQd0E2NGhXeno1eURLcDFVT2JzTFR0eFlDQ0FDTmFnb2huMDRkRklvU0hXcGs3N3M2Tm13emdWWlNXQmN4eEN1VnpwelB6VHRGX0FXT2l1TEMtdjFuY3lqZ1FpMmtyQjhGLUJaSWxRUUxCOS13TFJDNGViSWtMZlRyU1FZdWNlZzJZSDZfSDNVZGxCdWxORUZSS3B5NHRyWURub2ZlTzBWVnJWeVNGZw?oc=5",
       "s": "t2ONLINE",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Engineering Hiring",
-      "role": "LinkedIn Report",
-      "txt": "LinkedIn data cited in the report says India’s AI engineering hiring jumped <em>59.5%</em>, signaling strong demand for AI-focused software roles.",
-      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZDaG9PVGFRQTVhSUs2OVJSTVpZQ1NVSGpxUmhDYTBHWlozdk5GekJrZ3BxcjBSZ0dUWlZ1NTFtZVlmejNoa3V3OTF3bllKTGF4UlJrc2JmV1R5RXVlWk0ybnl2Y1VwWjNjelpsazE1QTM3dU04dnpMRnJqLWMwa1plYkNIVXdqc0RPYlVxNFFvOTMtOXFTQ0Z0SDM5cDRoNzBhbUZMS0NPN3lJRDZqbHI2OWw1WWR2R2F0blNILUFKX20xY3hoWFhlWVhOQkRl?oc=5",
-      "s": "indiaherald.com",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
