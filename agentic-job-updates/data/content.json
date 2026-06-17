@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MINT: AI-RELATED ROLE UP 729% YOY · SALARIES HIT ₹1.7 CRORE",
+  "ticker_text": "AMAZON SHOWCASES NEW WAREHOUSE ROBOT · AI-ERA COST CUTTING CONTINUES (CNBC)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -119,6 +119,20 @@
   },
   "footer_text": "Sources: Google News RSS (candidate links) · Updated Jun 2026",
   "layoffs": [
+    {
+      "c": "Amazon",
+      "ind": "E-commerce",
+      "imp": "Major cuts",
+      "d": "Jun 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#FF9900",
+      "txt": "CNBC reports Amazon unveiled a new warehouse robot as <em>AI-driven efficiency</em> efforts across big tech continue alongside job cuts. The update underscores automation momentum even as workforce reductions remain part of the narrative.",
+      "q": "Amazon unveils latest warehouse robot",
+      "lk": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWttSERubEN5MHdjMEoyazlrNkh4eHhLa1A2eFd4a0NFTVhGNWRrMWFCaXBUNVhqMm0xZldrX0VySl83X2ZvbDJiRXlmeTFlb3prMm9YR2FGZzhkNGJBSGJXblBDZl9vRUFRM25XQk90VWs0MTNmclBpQk1fcXBoZEhEaDTSAYoBQVVfeXFMT0twd3NYUkJVVUdCa0hYMHFOSWw0X0pOYURNdHMwSVJVcmdBZlh0Q2ZoUHhCUVZtMDN4Wi1nMWFoVEh4M2lRM1J1dXRBS2N1WThnMW55WklWVjBTR1NaLTdFOF9fSXJkUU1IeEtXbWUySFVIVmV0UVVkZWFKeHVGM24zLWpiWEVEem5R?oc=5",
+      "s": "CNBC",
+      "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
@@ -524,20 +538,6 @@
       "lk": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
       "s": "CNBC",
       "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
-    },
-    {
-      "c": "Block (Square)",
-      "ind": "Fintech",
-      "imp": "~4,000",
-      "d": "Mar 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#1a1a2e",
-      "txt": "Headcount slashed from 10,000 to under 6,000. Largest single AI-attributed reduction in corporate history.",
-      "q": "CEO Dorsey: 'Intelligence tools have changed what it means to build and run a company.'",
-      "lk": "https://tech-insider.org/tech-layoffs-2026-ai-workforce-impact/",
-      "s": "Tech Insider",
-      "logo": "https://www.google.com/s2/favicons?domain=block.xyz&sz=128"
     }
   ],
   "india": [
