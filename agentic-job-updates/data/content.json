@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "AMAZON SHOWCASES NEW WAREHOUSE ROBOT · AI-ERA COST CUTTING CONTINUES (CNBC)",
+  "ticker_text": "FRESHWORKS CUTS 500 · INDIA AI HIRING: MUMBAI 15% JOB POSTS VS 8% TALENT · BENGALURU 29% SHARE",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -119,6 +119,20 @@
   },
   "footer_text": "Sources: Google News RSS (candidate links) · Updated Jun 2026",
   "layoffs": [
+    {
+      "c": "Freshworks",
+      "ind": "SaaS",
+      "imp": "500",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "Freshworks announced layoffs as part of an AI-driven transformation. The company said it is cutting 500 jobs.",
+      "q": "cuts 500 jobs",
+      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakF4S1JWQjdzdTVkLTdRNVlPelZHTmR3X2ZuVDZQVGpEVktFX283SWVjLUJmYUxUcl9EVnJpR3RkNUJrYmFRYVBWdTRjWFlkZEF1d2xfeDlUT2FDRmhiVFpmYi00OGNGTk1jbksyLVN0MWFMMnNLRllESTRkT1p5dmk3Mkl3ZjN3cklYQWw2T3YyTVVJUEduWE5aeUFrV09VOWNRX25kVUNNWUxIUjRSS0FuYTYzUUVFS2tTMEpnT0ZlYkI1TENkbHlVMmVYRmR2?oc=5",
+      "s": "People Matters Media",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Amazon",
       "ind": "E-commerce",
@@ -286,20 +300,6 @@
       "lk": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbW51a1ZoVlJqbUhqSl9laUJGRW5pY1VaZjdmRDBiLXYyRmtiMEN0SF9VeklxX1hwY0JVZnVpbnppMGNhdFFVYXhHaFY1Z09hcVVPaHAweERDc3NDVFIyeldUR0xZRlNRNHN4b004YU1zMjlVWHBwd3BmV0Y1T0FyclRiSkt6dV9DMVpMd2p3SF8yRXo5aHItZGludEp0M3VIenZwS1VQaUxPMjNXWUEtZy1SY3VwVlRKTHJxR1pMdlYwOWVzekxSUVpVN3ZlbGhnLXJzTXFiNlczc0k1WUV1djJVeEZWdmlvUG1pRVJfODNhc1lTNXfSAfsBQVVfeXFMUFJ5MnQteW82dHRnbm1VYU9ibzFSMmhfUzhmbkQ4bm1UblFsQkNZVVNqQlZTNk9Na0dMU3g1bjZlNkQtQ1Nzek5HNmoxbHEtMm1RZkVvU29iU0l3b1QyYVB1bDlYWmxlMlY2M3NZTHdrVk5hSDZJS0NSbm8yUEtUSUQtakVITlJPOWdWaXlQS09VTjJOSzQxekxQTHBaR0w4SVNXZWxYbVlMa3lERkQ2SFloZ1pRSEhaUUhBTy1YMjlXQVd3cWM1elZhM3Fobm8yY2ttSERtdmx0czJmb0JiRHJMUTU4dVJlNXNESkhLYmRVNHNNTURTZk9xeWM?oc=5",
       "s": "Moneycontrol",
       "logo": "https://www.google.com/s2/favicons?domain=atlassian.com&sz=128"
-    },
-    {
-      "c": "Freshworks",
-      "ind": "Software",
-      "imp": "500",
-      "d": "May 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#ff3b30",
-      "txt": "Freshworks announced layoffs as part of an AI transformation push, cutting roles as it restructures operations.",
-      "q": "Freshworks… cuts 500 jobs",
-      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakF4S1JWQjdzdTVkLTdRNVlPelZHTmR3X2ZuVDZQVGpEVktFX283SWVjLUJmYUxUcl9EVnJpR3RkNUJrYmFRYVBWdTRjWFlkZEF1d2xfeDlUT2FDRmhiVFpmYi00OGNGTk1jbksyLVN0MWFMMnNLRllESTRkT1p5dmk3Mkl3ZjN3cklYQWw2T3YyTVVJUEduWE5aeUFrV09VOWNRX25kVUNNWUxIUjRSS0FuYTYzUUVFS2tTMEpnT0ZlYkI1TENkbHlVMmVYRmR2?oc=5",
-      "s": "People Matters Media",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
       "c": "LinkedIn",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "AI Hiring Snapshot",
+      "role": "Moneycontrol Data",
+      "txt": "Moneycontrol reports Mumbai’s AI hiring demand exceeds supply, with <em>15%</em> of job posts vs <em>8%</em> of talent. Bengaluru leads with a <em>29%</em> share.",
+      "lk": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZTVWc3UtaWJXY0hhSmxDWDg1aUItUUF1UHVYS2tJSzdVR01adVI3Q1FYVUlENVdXcFk0c0lmYzAyNDBMYVFNLXJ5SmYwTTlkeGxTeElySV9wQ25NbkFCUWVZQmEybktXa2xlbklWcU9pS1QyanllQXhFbUwtLTJGQmZwbzdOZDNwcXZ2RDhZUnZMYm93aTM0NVUzaUFrQUlBNEt6aWo5ZUVQOGRnTlNvamhaRjVHVEN1MDRQMWNwcTMwQXpIREpJazBnUktUd2hmaWRWejF3R2cxcDRCTzB6eldVVm5fdEdmYWl4Skkwb3l6Q0tqc3ZGYi1n0gH_AUFVX3lxTE96Z19NdjlKajdxOFE0WDAwdW1DLXBTZTRzOGdxU2Q4RWZVYlZHcXRDWEFpdERwcE4tTnRNUU1tUDc1ZGpXdkxxY1ZOUWROMUxqZzJmRERLVGkyazNPcE0tUFhhcGR3bUxCR1Y2ZVM1SkFoVkdxM2RKVnl4dmNuQXB6RVduRVV2Z3R3Tl91ZDBMNFVDTnVfZ1Rtdy1XZDNpMldIMDFpdWxQQ0FtTWZaWWZCN2ZqQ3oxRjliVndpWDA3R1AzS0lrekhPXzBmMEU5WmF4QnBZQmI5UkVibU1HYVpiRmt0T1QwSHgtRE1IZlVrQ2lnTWZfdDZnUEVpekVwOA?oc=5",
+      "s": "Moneycontrol.com",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Role Boom",
       "role": "Mint Report",
       "txt": "A Mint report flags one AI-linked tech role growing <em>729%</em> in a year, even as AI-related layoffs continue elsewhere. It says salaries for the role are now reported up to <em>₹1.7 crore</em>.",
@@ -710,15 +719,6 @@
       "lk": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVBmbjNLa28ydHloWGpBQnhlVmQ4YWR0QmNSTDJPUk8wdE1RcDM5NU96RlJKbGxsMUM4Qm1aems2eWo4T2RlSkhiUTRIcTBYbGdfbG9FazdzLWFIa2VJZlFxZXRGbTZJLXMxalh2R0U2N2xtZldkRmRPZVRPLXJuN2VsWGNHV2hZNzdnUQ?oc=5",
       "s": "CIO.com",
       "col": "#5b9cf6",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "ICRIER Study",
-      "role": "GenAI & IT Jobs",
-      "txt": "An ICRIER study says generative AI is <em>redefining</em> tech jobs rather than replacing them, pointing to task shifts over mass displacement.",
-      "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXBzX0k4TTRQd0E2NGhXeno1eURLcDFVT2JzTFR0eFlDQ0FDTmFnb2huMDRkRklvU0hXcGs3N3M2Tm13emdWWlNXQmN4eEN1VnpwelB6VHRGX0FXT2l1TEMtdjFuY3lqZ1FpMmtyQjhGLUJaSWxRUUxCOS13TFJDNGViSWtMZlRyU1FZdWNlZzJZSDZfSDNVZGxCdWxORUZSS3B5NHRyWURub2ZlTzBWVnJWeVNGZw?oc=5",
-      "s": "t2ONLINE",
-      "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ]
