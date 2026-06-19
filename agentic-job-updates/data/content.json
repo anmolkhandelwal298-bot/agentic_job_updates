@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "FRESHWORKS CUTS 500 · INDIA AI HIRING: MUMBAI 15% JOB POSTS VS 8% TALENT · BENGALURU 29% SHARE",
+  "ticker_text": "INDIA AI HIRING +59.5% (LINKEDIN)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "LinkedIn AI Hiring",
+      "role": "LinkedIn report",
+      "txt": "A LinkedIn report cited by The Indian Express says India is seeing the fastest global growth in AI hiring at <em>59.5%</em>. Signal for engineers: AI roles demand is rising even as broader tech hiring stays uneven.",
+      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUW5aM1RsTUdCVmJ0N2cyd0t0bVBuS2Q2cmVtWjk4b0NfeldLVDB6S0czbkxFTXMzNGltQ1BTQ1dldDRCbUt1WVlRUm9udDJOLVFFYTZLNEdPVlVqajRLQjhwZDlJSndkZmV2TnBERU9vNU5ILWtHX0N4Wng1enhrTEVPNkJLSGRaVzNmOVdsQjhtRGVPX2Qta3JCcmtkTHpheE5ZRXl4eXdvYzdZbU43X2VHYTNyVGtuM2VZbUJ4Nzlqb1RRNEp3bTBpZlAtODF5cGhsVnRSWjVEYlRzNURidENR0gHoAUFVX3lxTE90d2RVdV8zS0dUWXRpSmtobm8yWjRWemlEMk9MaXVqS19qZ25UVHNZVmNFSU1rY2xZU180MExIQ2FoTjQtZEM3NThrbWV6QVhSNEhib09jeFdHZUhVT0RlR3lQRTMyaG9oWE8wNHk3SzNBZ0tDVGlKanA3Y2RBaFROcGxwRm5FcXVsNFhlU1dGM19ZZlJ5VVJHUDA2aTBlTXd4TGJNblFNUXJZR3ZlUWdoR3VsdXlrTkd0ZGYweWRTeW9yZUhFNDZPcTlZSXp3VlhranVZeHJzUUljeTRlT25ueElvVTJlNFk?oc=5",
+      "s": "The Indian Express",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Hiring Snapshot",
       "role": "Moneycontrol Data",
       "txt": "Moneycontrol reports Mumbai’s AI hiring demand exceeds supply, with <em>15%</em> of job posts vs <em>8%</em> of talent. Bengaluru leads with a <em>29%</em> share.",
@@ -574,15 +583,6 @@
       "txt": "OpenAI is deepening its India presence with <em>Bengaluru hiring</em> focused on startup AI deployment and support. The move signals continued demand for applied AI and developer-facing roles in India.",
       "lk": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnRZeTkyTWdOcXJtQ0RQUm1mN0d3NEE1N0VnZjd0VWFCZXdOSTM5VHlvaEZKLVZCUUtmRkpMWi00dF84TVBNZjBzM0NNWG4tQTFDUjlld2dmeVQ2SnVWZlM2XzVxMzdnNTlSdUs3dEpRWm9UR1Y3d3B6MkFzeDdVdER6eTd0TGNYU3VpWjVfMGrSAZABQVVfeXFMTmZ0WXk5Mk1nTnFybUNEUFJtZjdHdzRBNTdFZ2Y3dFVhQmV3TkkzOVR5b2hGSi1WQlFLZkZKTFotNHRfOE1QTWYwczNDTVhuLUExQ1I5ZXdnZnlUNkp1VmZTNl81cTM3ZzU5UnVLN3RKUVpvVEdWN3dwejJBc3g3VXREenk3dExjWFN1aVo1XzBq?oc=5",
       "s": "CIOL",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India AI Hiring",
-      "role": "LinkedIn report",
-      "txt": "A LinkedIn report cited by The Indian Express says India saw the fastest global growth in AI hiring at <em>59.5%</em>. The data point adds evidence of continued AI-talent demand despite broader automation anxiety.",
-      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUW5aM1RsTUdCVmJ0N2cyd0t0bVBuS2Q2cmVtWjk4b0NfeldLVDB6S0czbkxFTXMzNGltQ1BTQ1dldDRCbUt1WVlRUm9udDJOLVFFYTZLNEdPVlVqajRLQjhwZDlJSndkZmV2TnBERU9vNU5ILWtHX0N4Wng1enhrTEVPNkJLSGRaVzNmOVdsQjhtRGVPX2Qta3JCcmtkTHpheE5ZRXl4eXdvYzdZbU43X2VHYTNyVGtuM2VZbUJ4Nzlqb1RRNEp3bTBpZlAtODF5cGhsVnRSWjVEYlRzNURidENR0gHoAUFVX3lxTE90d2RVdV8zS0dUWXRpSmtobm8yWjRWemlEMk9MaXVqS19qZ25UVHNZVmNFSU1rY2xZU180MExIQ2FoTjQtZEM3NThrbWV6QVhSNEhib09jeFdHZUhVT0RlR3lQRTMyaG9oWE8wNHk3SzNBZ0tDVGlKanA3Y2RBaFROcGxwRm5FcXVsNFhlU1dGM19ZZlJ5VVJHUDA2aTBlTXd4TGJNblFNUXJZR3ZlUWdoR3VsdXlrTkd0ZGYweWRTeW9yZUhFNDZPcTlZSXp3VlhranVZeHJzUUljeTRlT25ueElvVTJlNFk?oc=5",
-      "s": "The Indian Express",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
