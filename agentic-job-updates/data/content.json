@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI HIRING +59.5% (LINKEDIN)",
+  "ticker_text": "INDIAN IT FIRMS ADDED JUST +17 NET EMPLOYEES IN 9 MONTHS",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "Indian IT Hiring",
+      "role": "Net headcount",
+      "txt": "Computerworld reports India’s IT sector saw an AI boom but a hiring bust, with firms adding just <em>17 net employees</em> over nine months.",
+      "lk": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZaTDNsTjNGekdPaUR4WTJWQmhIOW1JallJc0tacEEwNXViN2s3WkRiZGMxOUlTdmdacWZaN2t0a3NmUE1EZUFNanUwYWpSY3ZjM1U2Z09mbHFlSDB2WnpVZnUzeXh5blRfd2ZLel9hLXc1dk5tU25ZRGhMMnNYLUkwUHNjdlFLMXR3LXBiWWJiakd4M25UX0F1bVRSZ2laVmZmbmFOdEJzNGh5OFBiZWg2OWNaaFBBTThxcV9YSllsa24wMVE?oc=5",
+      "s": "Computerworld",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "LinkedIn AI Hiring",
       "role": "LinkedIn report",
       "txt": "A LinkedIn report cited by The Indian Express says India is seeing the fastest global growth in AI hiring at <em>59.5%</em>. Signal for engineers: AI roles demand is rising even as broader tech hiring stays uneven.",
@@ -648,15 +657,6 @@
       "s": "Analytics India Magazine",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
-    },
-    {
-      "c": "India IT Hiring",
-      "role": "Computerworld Report",
-      "txt": "A Computerworld report says Indian IT firms added just <em>17 net employees</em> over nine months, despite the AI boom. The data point suggests slower net hiring even as AI investment accelerates.",
-      "lk": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzZaTDNsTjNGekdPaUR4WTJWQmhIOW1JallJc0tacEEwNXViN2s3WkRiZGMxOUlTdmdacWZaN2t0a3NmUE1EZUFNanUwYWpSY3ZjM1U2Z09mbHFlSDB2WnpVZnUzeXh5blRfd2ZLel9hLXc1dk5tU25ZRGhMMnNYLUkwUHNjdlFLMXR3LXBiWWJiakd4M25UX0F1bVRSZ2laVmZmbmFOdEJzNGh5OFBiZWg2OWNaaFBBTThxcV9YSllsa24wMVE?oc=5",
-      "s": "Computerworld",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
       "c": "LinkedIn Report",
