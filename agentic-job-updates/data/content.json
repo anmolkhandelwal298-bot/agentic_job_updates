@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA ROLE DEMAND +729% YOY · TOP PAY HITS ₹1.7 CRORE · NVIDIA CALLS 2026 GRADS FOR AI/GPU SYSTEM SOFTWARE ROLES",
+  "ticker_text": "JUN 2026 · INDIA: AI STARTUPS DRIVING NEW HIRING DEMAND",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "AI Startups Hiring",
+      "role": "Economic Times Report",
+      "txt": "The Economic Times reports a hiring surge and intensifying talent competition as AI startups expand teams across India. The demand is centered on <em>AI and engineering</em> roles, pushing up competition for experienced candidates.",
+      "lk": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnkyeDZ0X0RmSVdBWDEwTkhIYlRraFFXN1k4bWk3aUJTTXhsa3d0clFuTGVfazJsTGJ6LUt5MGVTdjIxTTB3Tm12bEJtalFKZHg2dnFIbzZ4dFpKTVE3YzBqaTlyYy1qOU94cnpyWmt2NGNpZFlOU3pfQ05iOGs2bExGSmx2MFNsc0ktb3Zad05oV19vTFRYMXFSQlFMSThmSHc0UDRlNkpiSTNEUnRNSV9YRkFRTUpFOGJOemczNmJKVkxJNndObFpIbkZvNXo5WlV0ZzFqQ01kZHd40gHcAUFVX3lxTE42eTJ4NnRfRGZJV0FYMTBOSEhiVGtoUVc3WThtaTdpQlNNeGxrd3RyUW5MZV9rMmxMYnotS3kwZVN2MjFNMHdObXZsQm1qUUpkeDZ2cUhvNnh0WkpNUTdjMGppOXJjLWo5T3hyenJaa3Y0Y2lkWU5Tel9DTmI4azZsTEZKbHYwU2xzSS1vdlp3TmhXX29MVFgxcVJCUUxJOGZIdzRQNGU2SmJJM0RSdE1JX1hGQVFNSkU4Yk56ZzM2YkpWTEk2d05sWkhuRm81ejlaVXRnMWpDTWRkd3g?oc=5",
+      "s": "The Economic Times",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Role Demand Spike",
       "role": "Mint Report",
       "txt": "Mint reports one tech job category grew <em>729%</em> in a year amid AI-related layoffs, with salaries reaching ₹1.7 crore.",
@@ -710,15 +719,6 @@
       "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
       "s": "Business Today",
       "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India IT Roles List",
-      "role": "TalentSprint Guide",
-      "txt": "A curated list of <em>10</em> in-demand IT job tracks in India for 2026, with a skills-focused view aimed at job seekers and switchers.",
-      "lk": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1FIMmg5WjFJZmh3cE5GSEZDWW1BZFlqVHBlcjNCenI2SFpvZVYwV3RxNDUwRXdZQnhTWXVUMVZMSi1VZGltR2ZYS25zTFNiVEl1d2NEOWtOdDBKUEZqeWhOM0loM1hWcVhSQlN6bUdWSEFyVU1Sa29Ebzc0V3FPWlZR?oc=5",
-      "s": "TalentSprint",
-      "col": "#22c55e",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ]
