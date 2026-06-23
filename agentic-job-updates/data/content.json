@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUN 2026 · INDIA: AI STARTUPS DRIVING NEW HIRING DEMAND",
+  "ticker_text": "INDIA: 3.5 LAKH AI JOB OPENINGS IN 90 DAYS (MONEYCONTROL)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Google News RSS (candidate links) · Updated Jun 2026",
+  "footer_text": "Sources: Moneycontrol (candidate links via Google News RSS) · Updated Jun 2026",
   "layoffs": [
     {
       "c": "Freshworks",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "India AI Hiring",
+      "role": "Moneycontrol Data",
+      "txt": "Moneycontrol reports India logged <em>3.5 lakh AI job openings in 90 days</em>, highlighting sustained demand despite disruption concerns.",
+      "lk": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSWwwOFJITW9objJCUHk2TjRwQXpjVmN5b0hNUGNZWTZXU1ViX0syblNKYklrRXlYdnNSZVFjZHJqSVRJS25jVEhnX1JkOFZRUTlrNUxLRGkxdElxZlBKV0w2WkJUbnlldEZ0VmVQMFBPTDNjbHgtRENvLVgtb2I2c2VxRmEtVUhUQmVjeldiOE9XRC1MUnJuWEloNHp4dUhDMlpXNVRTMWRKNE9kYVNIMFBSQmp6dUVKdW11QjRORi0zVUtKeUR5Ul93X0Jta01Qc2JrR21ENm5uaEhISlJvcWM5cGpibFhlV2dWTTdwc1_SAfYBQVVfeXFMUEdZZmV1Sk5abjNmUkZlaVJSX1dOQ0gxM29sRThYeHhHdnVDZUt0Zng5Rk1TUDF3clNmejBaQnJzTkI3ZzE3VDFnQklMSmlDSVhoX3VhY2pfeTdGNjZ3VTRQcVZVVHI5S0t5T0k4SDdETEN2TmVOTFlGNThyZlp0d3RnbVc4aWpyMzM2OXowVUNDNG1xWHQ4V3Rjc1RHVlFlZzJtaS01c3ZnRWV1eDhmRkJFZTM0MndTYkF5VmphSVdVNThwNXBHYzBZWmtVTWpIMkNBVTA3UTdwcHNCNlZlUHdocURDdE1ZSGxsa0t4Q1NwMWpjZndn?oc=5",
+      "s": "Moneycontrol",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Startups Hiring",
       "role": "Economic Times Report",
       "txt": "The Economic Times reports a hiring surge and intensifying talent competition as AI startups expand teams across India. The demand is centered on <em>AI and engineering</em> roles, pushing up competition for experienced candidates.",
@@ -709,15 +718,6 @@
       "txt": "A new report pegs active tech job openings in India at <em>110,000</em>, alongside weakening demand in IT services and GCC hiring. The data point suggests a softer market even as AI skilling remains a priority.",
       "lk": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnpLZG5WbWxoU1VaSEJiMWIxWVZHNlIyX21vNDNjZjJCZFBIU0p0WkxGZDhwVHBNQ2VoalZaWmJlTm0yWE9tQjhTcXY5ZG5tU1VvSmp4NEI4OGJVZzRwSFcyTWZOdmd4d3RfSjNpNmV6NnlLdlI2a3dOX2VTN0dwZG9peW9ZbjJ3OEx5NlM2Z29uXzhua2JRVk1ZeFJZNUk0REtpdVgzblZDX25ZMjNVYnEzZmhLWEpxMDZuNEJCRV96aFE5OWw3bHFzQUE4d9IB0wFBVV95cUxQRUFlWXI4Q3JURDN4Y0F2UmtRb2FqOUUtQ2RaQXgxWDdmWGFrZjJ6aUxsTmRjeE1qVlVTSGxZWXVHbThOVzVHTTVQRGhKYjRHOExzX280SFNhRkE5NGRjUl9waDRqaG1DSkEtUTJRaGU1Ulk3Ui1FMVh4T3kwX0NXUUVQel9WYnVITzdGdTJNN3lUZmoyWXhGOVJSX0M0bnp0QXNQLVlGS0ZTeVhiLTUtcVBZUEdkX0ZQSEhoZl8yNWhLMGVmT2JVZXB0eXhsZlB5QThF?oc=5",
       "s": "Storyboard18",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Talent Gap",
-      "role": "Business Today",
-      "txt": "Business Today reports that <em>15 lakh</em> engineers still aren’t enough for India’s AI economy, pointing to continued demand for AI-ready talent across industry. The shortage highlights hiring pressure even as some firms slow overall headcount growth.",
-      "lk": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWxDQjJWcVA5ZTREZW9ROHc5UkhrWktLNVJ2Q3haMlF5UXdKd3QyUVRlaXpWMlp3MjM0Z1VaVGtlVFRKQ1NtMzBWaGxDR0xWN1Q3aDdFbG9nSHcyc0s3OS1HRWZYNG4zNU50ZFhScF9wM0VLdXFWVlJkRXJVUFNOdlhOT0lrNUtnZzRPN2xhZnRoNE5PczVwRmFUSTI3aVVEZlVRMGkxd2V0NUdySXkwbVZMcjBRQV8zTlQyQTRtX2NCbHfSAcgBQVVfeXFMTzEtZjhqMWxPTl9weEpCUFp5VzhzdllQSHRnaGIwNDk3c29kV0tDQWo5R3R4bjB1eEN4TFhHNGZBNnZlTGtwYktsQm1QODJsM3NLY2N3c0dMWWRWdXRGNVBtZFhUSWd2b0ItZXh1cWNuWWl6MVVjMHp3Y1NhbUhsTXU3ekpEb1ExaXZUVzZNQ2pXaEdRWWFaOTcwc0s3QzU4eUtSSjB2TVlJYlBfbTNLMnF4WWs0Z25qbkZJM1liYmIyMnVXeUlwNWE?oc=5",
-      "s": "Business Today",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
