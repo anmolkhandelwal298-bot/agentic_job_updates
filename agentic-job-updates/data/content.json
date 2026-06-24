@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA: 3.5 LAKH AI JOB OPENINGS IN 90 DAYS (MONEYCONTROL)",
+  "ticker_text": "ORACLE CUTS 21,000 JOBS · BENGALURU+DELHI-NCR HOLD ~50% OF INDIA'S AI OPENINGS (CBRE)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUN 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources: Moneycontrol (candidate links via Google News RSS) · Updated Jun 2026",
+  "footer_text": "Sources: Indiatimes · ANI News · Updated Jun 2026",
   "layoffs": [
+    {
+      "c": "Oracle",
+      "ind": "Technology",
+      "imp": "21,000",
+      "d": "Jun 2026",
+      "y": "2026",
+      "big": 1,
+      "col": "#ff3b30",
+      "txt": "Oracle reportedly cut 21,000 roles over the past year, with the story framed around AI-driven automation reshaping headcount needs.",
+      "q": "Oracle cuts 21,000 jobs in a year",
+      "lk": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU2RTaEUycGo2OGh5SnF1R0tULTRubEZWNFpSZkNsZHdWcGJnb29ucWdzbGlXdldqaU16S3d3N1prQVlMVXFPWWlMbnpPOEt2TGljM1pXZ0xPdGdiZEdQS1FXUTNKVm9KTUVOZU1VUHVzRGs5UXlOalMxaDNiaXp6WDhmOHJWOXRVWFZKVzZESnpJTXFsMzNPZ3R1RWVObDJFWWdlSE5aX0s1UnhhRGJ5aXpFeU1OUkJSUFNkQUl0SklpTmQ3QkNJbGNfLUFGeV9oTDRGenJR0gHbAUFVX3lxTFBMTDN4YjJ6aG1jb1FTenBFTUU4Y1UwcENRYm5BZFZXTm1FQUZqNHlacC1sREhWVDhKRzV4MWhmMk5fUHhLQjNuV3FaNzYwNWZVUzZjMmRRSFhzR29Jc3R0aWNRWFFLSFQ1ZTJuOHdpRHg0a2lRREpLV3p6a2RoMUFfQ3lkek9hR2hLSVlESWNDQXl4enZ1TlN4dkU0dWhMY2V1NURyajVCZXphNlM2Y2hJQlIwVXN2N3NCUXV0SVJRalBmT1hKaURzeVprSk0weGw1bnJJY19HdXBLaw?oc=5",
+      "s": "Indiatimes",
+      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
+    },
     {
       "c": "Freshworks",
       "ind": "SaaS",
@@ -524,23 +538,18 @@
       "lk": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUs1SU4tTDJxWFFKbjN5X2Q1UW41dU16YkwzQzNockFSSmVxS3liSXVmQkxvUlJFNFFkSTgwSzAtM0xXbktWUEY0QU43S04yb25yd3U2aWdoZW9PcGV2ZVBxaURaVGtacmZUd2dMM0puTGVBOVFqZzBab3RwR0Y5dXFYdzlEYnljVUxXMFo0NmvSAZ4BQVVfeXFMT3NDLXg3U2NPSE9tb3doMnRBb2VoLUZ4NktqNmJDdktXYlZOVFZuT1M5RnFab1lRSHhvSWI2RWpZRGRNZXFiWC1lWVRqVFBFNW1SX2M4cDlWTEV4NTV1ekxnMUswU3NWSkJaUGVJYTRjVDBMTXZYdUpHUVJyaXBhYWFnd3pSUTlMa0hRdEo4ZGlHOXBScWo0THZaVHRweFE?oc=5",
       "s": "The Bridge Chronicle",
       "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
-    },
-    {
-      "c": "Oracle",
-      "ind": "Technology",
-      "imp": "10,000–30,000",
-      "d": "Apr 2026",
-      "y": "2026",
-      "big": 1,
-      "col": "#ff3b30",
-      "txt": "Reallocating savings to AI data center investments. Stock down 25% YTD.",
-      "q": "Layoff email signed 'Oracle Leadership'. Expected to save up to $10B.",
-      "lk": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
-      "s": "CNBC",
-      "logo": "https://www.google.com/s2/favicons?domain=oracle.com&sz=128"
     }
   ],
   "india": [
+    {
+      "c": "AI Hiring Hubs",
+      "role": "CBRE (ANI)",
+      "txt": "A CBRE note says Bengaluru and Delhi-NCR together account for about <em>50%</em> of India’s AI job openings, highlighting where demand is clustering.",
+      "lk": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHVSU3pDTnE5azROeFFXbnlWNFg0bUgwMTNsSkFCdlZTeHpUTm1Sa1ktTjRsMVNhWkJGVGczR0M4VmdVWWthOVlhMnM3bXlBNm8zWE5ucUpWcU1iMG1NZE9ZY1o5LUpfRHFETkl6MWNtbm4wOVVmcF9mRWlNaGhZMFMtcG9tZTZfMHNwYWZRUEF2TmoxWkE5TzY4RDJaWUtMbjlaZUdpTnlJeHZaRGVNY0w0alIxR19ES3BERE0tTXBLY2J2TjlTbmpNZVNlZkFsTVhpWg?oc=5",
+      "s": "ANI News",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "India AI Hiring",
       "role": "Moneycontrol Data",
@@ -709,15 +718,6 @@
       "txt": "Google will allow AI tools in software engineering interviews, starting with Gemini-assisted coding rounds—an early signal that hiring processes are adapting to AI-native workflows.",
       "lk": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZE5Ldk51eUx0eC1hMlVXVWc0VDNiNGs1MUEwUGU1eWt6MEp4UllabHVGYTd4dnpJZVhHQlVvYk43dXNBc0w2U041Mjc3NDNsTkgxSWdKNFAxQnJqcWRvcFFfMmtkc0pHSG5VTWsxNzNyN1E0QmY0emR3OWtVVkFmWFpWZnNJZnBEajBZV0RYN2R1U3c2clhCVGFqU29JMFBCY2wySU81NElYRkhYOHdWV0lUTnV1Q2JfVkYwMDR4NWcwSlVVanFXOU1OV0N2ajRyUFRUUGlOc1ZuUGU2Y0xDdC1MT1lCekgtNEk1WVJmeWR6b2_SAfgBQVVfeXFMTnVKX1ZMRGZ5Q0RZS2RtOHluNVZHdHBsWWtBcFlUYkc4aHBFWUtFT2pjUkhTcV9hbDItcUhxc3RIVlZPUzlUcFlEZ05hY1VGd0FiS2RGeEVhU1pOUC1kU2FqZ0thRDJJLW5jcGpncWJrZktYR0RsbGZmUTZJTWRmZzF5SzNWdEZaX3FCVVVFQ1o4NGhBaGp2TUlfemtKS04wQ2lQZ1hpdUgzQTI4Y3JBVWtiazI1ajc2QVBYNUp1MXBOWmFJYlU1MVVZZk9taGJILVo1aGxXSjJUR1hLbms5SjJqb1laWVhkUDBaNXY2SWdZbW1mcGVGVnU?oc=5",
       "s": "The Hans India",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India Tech Jobs",
-      "role": "Storyboard18 Report",
-      "txt": "A new report pegs active tech job openings in India at <em>110,000</em>, alongside weakening demand in IT services and GCC hiring. The data point suggests a softer market even as AI skilling remains a priority.",
-      "lk": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnpLZG5WbWxoU1VaSEJiMWIxWVZHNlIyX21vNDNjZjJCZFBIU0p0WkxGZDhwVHBNQ2VoalZaWmJlTm0yWE9tQjhTcXY5ZG5tU1VvSmp4NEI4OGJVZzRwSFcyTWZOdmd4d3RfSjNpNmV6NnlLdlI2a3dOX2VTN0dwZG9peW9ZbjJ3OEx5NlM2Z29uXzhua2JRVk1ZeFJZNUk0REtpdVgzblZDX25ZMjNVYnEzZmhLWEpxMDZuNEJCRV96aFE5OWw3bHFzQUE4d9IB0wFBVV95cUxQRUFlWXI4Q3JURDN4Y0F2UmtRb2FqOUUtQ2RaQXgxWDdmWGFrZjJ6aUxsTmRjeE1qVlVTSGxZWXVHbThOVzVHTTVQRGhKYjRHOExzX280SFNhRkE5NGRjUl9waDRqaG1DSkEtUTJRaGU1Ulk3Ui1FMVh4T3kwX0NXUUVQel9WYnVITzdGdTJNN3lUZmoyWXhGOVJSX0M0bnp0QXNQLVlGS0ZTeVhiLTUtcVBZUEdkX0ZQSEhoZl8yNWhLMGVmT2JVZXB0eXhsZlB5QThF?oc=5",
-      "s": "Storyboard18",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
