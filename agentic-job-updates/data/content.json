@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA: 3.5 LAKH AI JOB OPENINGS (90 DAYS) · LAYOFFS: NO NEW VERIFIED COMPANY-SPECIFIC COUNTS IN CANDIDATES",
+  "ticker_text": "INTUIT TO CUT 3,000 JOBS (REUTERS REPORT)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: TechGig · Updated Jul 2026",
+  "footer_text": "Sources reviewed: TradingView · Updated Jul 2026",
   "layoffs": [
+    {
+      "c": "Intuit",
+      "ind": "Fintech",
+      "imp": "3,000",
+      "d": "May 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "A Reuters report cited by TradingView says Intuit plans to cut 3,000 jobs, with the news surfacing as the stock fell ahead of earnings.",
+      "q": "Intuit to cut 3,000 jobs, Reuters reports",
+      "lk": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON000US1odlN1aDNZZ2ktRmJvbXdYZkVfbkRlbkw0cEg5UEhWNEZkb0VXNUhlQ3dZMG9TV1JpdTBxNk8tSFFzSWdPWm1ldENFclBvTzNvY1lCcXBNOUp3c0czeGNjLTQ4eXEwQTdTUy01MEIyTGc2c2ZKSHFtQmpSdDNDa3FqdVNNa1VnOVZOd1NZc2IxRXZGRlNweHo3MWdWbUh1bG9CX3JRTWRrck9jT3NuWWRKRDlyQ3VoTmhmVzItcjZqWmIwNHlB?oc=5",
+      "s": "TradingView",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Oracle",
       "ind": "Technology",
@@ -299,20 +313,6 @@
       "q": "Intuit cut about 3,000 jobs, or 17% of its workforce.",
       "lk": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlFJc2dJZXJaUnpmc0VabUtjMlF4U3ZBcG1sVzczWjQtclhVMExKdDhRRWVjR00yTGlfSGhPNHgzeTVFODBpQVFCMWhPVTd1RXh5MnBRMXp6QU1PN1Fjb1d3eUtvQlZCZzJUTzZLb2JpMXNrUnpQazF0R3QyNjU4VzBJRXBseDE4WUlfMWUxdGpnNDFTM05TX0V4TFktY2RMUVlIQjJndjJDTk51dWhnddIBtgFBVV95cUxQS3IyQXVoM2NBWEZkRnBwbUltU2JkUTBQczVfMUNQMXNqV0N4YTB3dExiRFBXYnZkOW9jU0FEM0dKRUNIZW1RR3FRdkNGT1JnSFJVNTNtZWYtNmdXWUk5a1VPZF9ZaVZ3aVdSa3JWQTdTUG5lTXBEdGdrejNteVd5Z092bXNtS0NNeFRnQUlNOXFaajFZQmEwQUR4T3RxVFFRZVo4d2hlMjdLMFJWOGIyaXNQSGFhQQ?oc=5",
       "s": "CNBC",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "Intuit",
-      "ind": "Technology",
-      "imp": "3,000",
-      "d": "May 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#2CA01C",
-      "txt": "Intuit is set to cut 3,000 jobs as it expands AI across products, according to the report. The news surfaced ahead of earnings, with the stock moving lower in early trading.",
-      "q": "Intuit to cut 3,000 jobs, Reuters reports.",
-      "lk": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON000US1odlN1aDNZZ2ktRmJvbXdYZkVfbkRlbkw0cEg5UEhWNEZkb0VXNUhlQ3dZMG9TV1JpdTBxNk8tSFFzSWdPWm1ldENFclBvTzNvY1lCcXBNOUp3c0czeGNjLTQ4eXEwQTdTUy01MEIyTGc2c2ZKSHFtQmpSdDNDa3FqdVNNa1VnOVZOd1NZc2IxRXZGRlNweHo3MWdWbUh1bG9CX3JRTWRrck9jT3NuWWRKRDlyQ3VoTmhmVzItcjZqWmIwNHlB?oc=5",
-      "s": "TradingView",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
