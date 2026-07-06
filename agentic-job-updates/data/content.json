@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUL 2026 · NO NEW COMPANY-SPECIFIC LAYOFF ITEMS WITH VERIFIED COUNTS IN CANDIDATES · INDIA: NO NEW CLEAR DATA-POINT HIRING LINKS",
+  "ticker_text": "GCC HIRING +11% · AI/DATA SKILLS DRIVE 2 IN 3 NEW GCC ROLES",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: CNBC · Computerworld · India Today · livemint · Moneycontrol · TechGig · Updated Jul 2026",
+  "footer_text": "Sources reviewed: Swarajya · Updated Jul 2026",
   "layoffs": [
     {
       "c": "Intuit",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "GCC Hiring Up",
+      "role": "GCC Skills Shift",
+      "txt": "A report says India’s GCC hiring rose 11%, with <em>AI and data</em> skills driving two in three new GCC roles.",
+      "lk": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlVEV3N2YTJ6UDl5dkhLZUJ3YkhIYUpDaTNHQ3piUUFCaGRVelB0VkFrX041cnVINk1EQVg4UGItRFU1OFVWM2F3T3UxbnNwT3R0ckhlbHlMRUtxS0ZZWkVGMVExUUlqYkNmM3hSTXFpelU3azBONmdTMXA2Z1Zzb1dYN0prY1NBYUNpUXk2UUxMTVNuWThFUGsxWjRjVjl4ZTE3YjNSaXRlSzYyazctUXROT0VtUDk4dE5r0gHLAUFVX3lxTE5BbncwTVQ4V0dyVzkwVzJNbGxneWhGLW80Um95VXNuM2FPVTZPN1dBQktITFdHZURjZmd6SFV2TXdSNzd6dVA4QlBDSnlkNHdRbEpSSHNFRnZuWElUbFZtLVY3b18tTEYzU3hLZ05GNjVIVG9hcU1XR3hqdlJKY3NtNU5iaW9CcmFhT3p1RkNVaDItMXJhOG5qSEVXWklfNks1V1BIZGlwblhUaDVfYUZ1dHRUcTFQWDdKRzA0dEhYM0tnc1A4ZktYMlBz?oc=5",
+      "s": "Swarajya",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Hiring Surge",
       "role": "TechGig Report",
       "txt": "TechGig reports India logged <em>3.5 lakh AI job openings in 90 days</em>, pointing to strong demand alongside a talent shortage.",
@@ -710,15 +719,6 @@
       "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnpWQWptcFkyQ0pLOUNrMlNDX09mNkhCREZMdjVfZTVlMC1YSjhtZW9PTnNhU2FpTGFDTVhzWFlUS1EtUVF3c3pZVTRXa2xFa3c3YmVMWU1DR0hySG5YOWhvcDZKRUh1VC10TGpSekdCNFJfTENQNXZzV3lLdHk4cTBKRk1vbm52UGJxbEVTNEdLWmtRSkt6NmZEWnhfc0ZuaXp3c2Zvd1Z2S3lOUEY5Y19oOFJpd3EzMnNCaWVnM1lhcUJaS0dzYTc4aldaOUhi0gHWAUFVX3lxTE9zb0RTSy1WWWdTaGdwaVZwejFRelpCVHZOTGhFeVhKc1FMUHpLOUZDekNka1d2ODViSVNBQWhsaTF0RGF5N21YcGduV0NBajAyQ215UUdxT1ZhcmVJTE9kTmVsTG9CblVaX2dpT18zdzB6RXY0Tk1DYUdhaGZGRnU5OTBHNm0tSDVmeVhRS0FZejRoeng4anJGYUtSTzhfbUdRbG8tMVZZM0FSM1dEZzRpU1BoNW1qeFZiaVhWS3BWQTBUb2NsRUxzZjQybmZWWnE5Rm1YZlE?oc=5",
       "s": "News9live",
       "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Engineering Demand",
-      "role": "LinkedIn Report",
-      "txt": "A LinkedIn report cited <em>59.5%</em> growth in AI engineering jobs in India, outpacing the US and Europe—supporting continued hiring for ML/AI engineering skills.",
-      "lk": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHBFMGtrNlpGMXJIalMtQjRNX095U2tocmU2b2tFZGo5SFBlMzEwZDRFd25VWkczV0Npa3Z1VnNVY3JoMzIzV0ctYTYzNEJJT19qamdrWl91ZVEzNzk4aHRfUGtwb0tabktyUjVwdk5sMDVxQXFHT0RoUi02UXNKSjA3cG9raUlQSGd1bExPOFZIRlBjMDVMMFo5cUo1UG1aeUh4bjBxVF84YzRRUlE?oc=5",
-      "s": "Telangana Today",
-      "col": "#5b9cf6",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ]
