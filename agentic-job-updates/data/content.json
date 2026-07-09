@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "NO NEW QUALIFYING COMPANY LAYOFF ITEMS FOUND · NO NEW INDIA HIRING DATA POINTS FOUND",
+  "ticker_text": "INDIA TECH JOB OPENINGS -8% YOY (JUL) · AWS CEO: “TONS AND TONS” OF SOFTWARE DEVS STILL NEEDED",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -542,6 +542,24 @@
   ],
   "india": [
     {
+      "c": "India Tech Openings",
+      "role": "July 2026 Snapshot",
+      "txt": "Report says India tech job openings fell 8% YoY in July 2026, while AI and GCC hiring continued to drive momentum.",
+      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeDBmVmVsanljd2FpNVR1ZjhPTEo1dm10czBHQ0hUblZJaFRfNGxNNC0ybHdibko0R0JWdEJqOXZwOUhXVlB0bnMwdEJWVUJoT3RNdHJ2eHJ1SU9pZVNOX25mU2dMSm5mTk1oZlZ5UXMwS0ZpaWZCTTY4anc3X0liSGFKMVN4YV9FZmVKRUhjcERERDNrRnV6VlhMY2lFV0d0cVhvZEVISnpORGtmMjh5NV8wWWtIUWlrVXNBZDQxOWZwbFh2YmVFNjZXQTFjQVlC?oc=5",
+      "s": "Telugu Times",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "AWS Hiring Signal",
+      "role": "CEO Statement",
+      "txt": "Amazon Web Services CEO Matt Garman told engineers the company will still need <em>“tons and tons”</em> of software developers, despite AI tooling advances.",
+      "lk": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbU9KRFJmckJnbTAtdXY5cDhSeXlSM2FpNXBQVzcwVGNwcWVUUHRiWkpFNUhpOHFRa2UzdlpITlpBa0R4N0VJUkczamJPNTNXczd3SGRrb2xVQzR5QVh5LU0xNGVUT3ZfQmkxdlNIM0VFczRzNzFfYkdMQ2RGN1QzMmh0ZmtpaXJWY2E0ZGxpVTBsZm5udVoxNW1PYjZyWk1DS2I1c0JXU0pxWHFQNjJkMnpmcmlXZ1VkbzVyT0VqSmxSbm54aDhSbVVVWGoyTF9xZXo5VGxmaDlGWVJJamRSQ0g3SHRQdjhWWkxXU1ZURTdBdkEwZ3lfUHdrTGpjSE1qNXNBX1F4TDIyZ1E1Mm8wQ0VqS0ZyZ2dE0gGeAkFVX3lxTE5yM3Q0UUIxZHNhY3dMdy1rbjl4cHpIX25SNk9mS2hWakZBLVBWZksyckRYNWsxMUpUZTdqYmlfb25PTlk2ZzgxbUFxLTlUQmppZTBjUHl0TG1valdGWUhtQS1xSnpUeVY0bnQ1QnhKN0c0SGI0cGxGckZZWDB2dzNPRFUwS0loUTc3bld4bk9wNjczR0V0NEE1WUFzczZ3T2RlRVZyTk5kNE1kWlBldEI5Vi1MY1pPX3NESGhDOG9ZU2c0NlRLQ1k0V1dOTnhYY2N2NFRPbGFmX3NSTlVWSzlFS3o2eE42N1RZT3ZHNmRhbUFHcEYtbWZ3OWt2ZUZrcXIyR3JJa09heFRENDlzVFJzR2ZmSE5SWlY4UG5UZ1E?oc=5",
+      "s": "The Times of India",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "GCC Hiring Up",
       "role": "GCC Skills Shift",
       "txt": "A report says India’s GCC hiring rose 11%, with <em>AI and data</em> skills driving two in three new GCC roles.",
@@ -686,15 +704,6 @@
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
-      "c": "AWS Hiring Signal",
-      "role": "CEO comments",
-      "txt": "AWS CEO Matt Garman told engineers the company will still need “tons and tons” of software developers, even as AI coding tools spread. The comments signal continued demand for engineers alongside AI adoption.",
-      "lk": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbU9KRFJmckJnbTAtdXY5cDhSeXlSM2FpNXBQVzcwVGNwcWVUUHRiWkpFNUhpOHFRa2UzdlpITlpBa0R4N0VJUkczamJPNTNXczd3SGRrb2xVQzR5QVh5LU0xNGVUT3ZfQmkxdlNIM0VFczRzNzFfYkdMQ2RGN1QzMmh0ZmtpaXJWY2E0ZGxpVTBsZm5udVoxNW1PYjZyWk1DS2I1c0JXU0pxWHFQNjJkMnpmcmlXZ1VkbzVyT0VqSmxSbm54aDhSbVVVWGoyTF9xZXo5VGxmaDlGWVJJamRSQ0g3SHRQdjhWWkxXU1ZURTdBdkEwZ3lfUHdrTGpjSE1qNXNBX1F4TDIyZ1E1Mm8wQ0VqS0ZyZ2dE0gGeAkFVX3lxTE5yM3Q0UUIxZHNhY3dMdy1rbjl4cHpIX25SNk9mS2hWakZBLVBWZksyckRYNWsxMUpUZTdqYmlfb25PTlk2ZzgxbUFxLTlUQmppZTBjUHl0TG1valdGWUhtQS1xSnpUeVY0bnQ1QnhKN0c0SGI0cGxGckZZWDB2dzNPRFUwS0loUTc3bld4bk9wNjczR0V0NEE1WUFzczZ3T2RlRVZyTk5kNE1kWlBldEI5Vi1MY1pPX3NESGhDOG9ZU2c0NlRLQ1k0V1dOTnhYY2N2NFRPbGFmX3NSTlVWSzlFS3o2eE42N1RZT3ZHNmRhbUFHcEYtbWZ3OWt2ZUZrcXIyR3JJa09heFRENDlzVFJzR2ZmSE5SWlY4UG5UZ1E?oc=5",
-      "s": "The Times of India",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
       "c": "GenAI Talent Crunch",
       "role": "Teamlease Report",
       "txt": "A Teamlease report flagged a sharp GenAI skills gap in India, estimating <em>just 1 qualified engineer for every 10 open GenAI roles</em>. For candidates, this points to strong demand—but also higher bar on GenAI-ready skills.",
@@ -711,15 +720,6 @@
       "s": "Analytics India Magazine",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=zyoin.com&sz=128"
-    },
-    {
-      "c": "LinkedIn Report",
-      "role": "AI Engineering Hiring",
-      "txt": "A News9live report citing LinkedIn says India’s AI engineering hiring rose <em>59.5%</em>, signaling strong demand for AI-focused roles.",
-      "lk": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnpWQWptcFkyQ0pLOUNrMlNDX09mNkhCREZMdjVfZTVlMC1YSjhtZW9PTnNhU2FpTGFDTVhzWFlUS1EtUVF3c3pZVTRXa2xFa3c3YmVMWU1DR0hySG5YOWhvcDZKRUh1VC10TGpSekdCNFJfTENQNXZzV3lLdHk4cTBKRk1vbm52UGJxbEVTNEdLWmtRSkt6NmZEWnhfc0ZuaXp3c2Zvd1Z2S3lOUEY5Y19oOFJpd3EzMnNCaWVnM1lhcUJaS0dzYTc4aldaOUhi0gHWAUFVX3lxTE9zb0RTSy1WWWdTaGdwaVZwejFRelpCVHZOTGhFeVhKc1FMUHpLOUZDekNka1d2ODViSVNBQWhsaTF0RGF5N21YcGduV0NBajAyQ215UUdxT1ZhcmVJTE9kTmVsTG9CblVaX2dpT18zdzB6RXY0Tk1DYUdhaGZGRnU5OTBHNm0tSDVmeVhRS0FZejRoeng4anJGYUtSTzhfbUdRbG8tMVZZM0FSM1dEZzRpU1BoNW1qeFZiaVhWS3BWQTBUb2NsRUxzZjQybmZWWnE5Rm1YZlE?oc=5",
-      "s": "News9live",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ]
 }
