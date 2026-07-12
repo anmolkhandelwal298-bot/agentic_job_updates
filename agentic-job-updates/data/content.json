@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INTUIT: ~3,000 CUTS · INDIA AI HIRING: +59.5% (LINKEDIN) · OPENAI: BENGALURU DEPLOYMENT ROLE",
+  "ticker_text": "JUL 2026 · LAYOFFS: NO NEW VERIFIED SINGLE-COMPANY CUTS IN TODAY’S FEED · INDIA: 3.5 LAKH AI OPENINGS IN 90 DAYS (REPORT)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: ET HRSEA · The Indian Express · Analytics India Magazine · Updated Jul 2026",
+  "footer_text": "Sources reviewed: CNBC · Reuters · India Today · HR Katha · Updated Jul 2026",
   "layoffs": [
     {
       "c": "Intuit",
@@ -542,6 +542,33 @@
   ],
   "india": [
     {
+      "c": "AI Openings India",
+      "role": "HR Katha Report",
+      "txt": "A report flags <em>3.5 lakh AI job openings in 90 days</em> in India, suggesting demand is rising even amid disruption fears.",
+      "lk": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0FYcTZkVDgyODFiZ0U0YVdWUlB3NDRIX1BzUDNaWFNGMXljN2Nld1g1alY3MGdta2VJZ1V2cGhKejZ4WW1wZTZ5TTJ1alE3anhLOThGb1VXM0xrSnVUSzNiUWE1VHRBZWZqUnYwc1hDZHhkN1NIQkFhaGlJT1BwYzFHdVZJXzFaVC1r?oc=5",
+      "s": "HR Katha",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "AI Roles India",
+      "role": "India Today List",
+      "txt": "A roundup of <em>10 AI job titles</em> it says are driving hiring in India, spanning agentic AI development through GenAI architecture roles.",
+      "lk": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEVSaGJRYkNObEUyVWk0VGIxTUlnU3N0TUJROWZ6UE85cDFENXZzcGVDSXhhWXg2V2ZuU19jUVpNZWpSeWZIUmQ2eDVlNS1uXzFHVTAtXzYwalh0aXMxelhBcG1zb3RjNHgzQTZuM2V4WXJxN1RPWFZyNC1yVGZxT1pNRl95TlNmRlNRV1FRQUhkZjBrY2N0TGZyVTFHZjZMejNnMko4ZWhxLVRkRC1OWnExcUHSAboBQVVfeXFMTzA2V2JQdHdFSmpNS3U5azRsTU53WS0tUnd6cEhFdUdETlZSbm9VNTVFQ2J5YllvcllhM0ptaWFlV1QzelJJdkRoX1o3SmZVd19tV0F4aFlGTGlWT0JLOTNHRHI4VlRiZGNJVzlkS0RWWUZjYWJDUTAtWklicGFmV1hodXN5YnBIdnRPekJ6YjhMWW9vQXJIOFlpWl9iNmk1UzJKVUZ4LVlmM1ZZYlBqbEdnSzJESGtfZWJ3?oc=5",
+      "s": "India Today",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Forward-Deployed Engineers",
+      "role": "India Today Pay Trend",
+      "txt": "An explainer on why forward-deployed engineers are in demand, highlighting compensation that can reach <em>up to $1 million</em> for the role.",
+      "lk": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzRkenlXTEtNaFJUT05FUjJ4QUtDTHJMaGVGN2F2OEZySzdrMFN3OEdUc0QtbTBHajlsY1BaaU9GZ1dDR3VleXlkOWV6Y3FZeGFuYVdtOXYxOW12LUdTSUtUWEh1N0hvZmFCektKUTc2RTVOdkdGVTZiQ09XQTE5enJIc1VrM3ZsQzcxS2F0TjFuVTY3VjRGNUI4SERyZWJhUXRURHMzTlFqSVIyb3ZRTHJhd1daNTFGSzZZZVV4V3lHRDNxdUhBVEZQZW5hLXlzSGZiZWltc9IB3AFBVV95cUxNN2l5RHpoeV9UTFV4a3ZVcEpWWFZzU2trWlVSX3BWMVRxVm5oTHZuaHZVMk9QY21ZNkF2X3VLZTFad3F3T29IY1dIMVhUMXc4cXdlWi1rWmFDY2tFMURrUzNqVWt4VDBPU0ZvNV9zYnJvaUc4bmEzVzV4Y18xbzBDQnFJV19rQzVkNnp3ejdTNFhwcVI1YXNhNnpCbmJLVG1fUHpYSTdvaEM4UjczeC02VHFyZHdvYm5VQmNhREJfajNUTVJDSVhWV09udVZuTzUtT0ZrYVY2NXF5aU4y?oc=5",
+      "s": "India Today",
+      "col": "#22c55e",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "LinkedIn AI Hiring",
       "role": "Fastest growth (59.5%)",
       "txt": "A LinkedIn report cited by The Indian Express says India is seeing the fastest global growth in AI hiring at <em>59.5%</em>. The data point highlights continued demand for AI roles despite broader tech uncertainty.",
@@ -691,33 +718,6 @@
       "txt": "A report highlights a <em>27% surge</em> in high-paying AI roles, signaling continued demand for specialized AI skills despite broader tech cost-cutting.",
       "lk": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd19MZ2owS0NYUVdjR3R6cWNrWHRhQzZQdTdMVktfMkNtTkhDU1BweXQ1ajNkbGZsVDc5OXZ0Um1yRjRteldpZ2pNQTljS0dMRXdQY0FfNzZyV2lkSVJ4OVZiY3ozVlRhVTdrMVVVOVVlb1BwTmJkd2NXMHNmM2xvRldYdjFxSFJWTmg1RlVma0VXY2hzR1VDQlIxNEhTM2FrXzZCS0xNZjB3ckpycFh6bV9CZlM2c09pOGx6ekJiS0tKZXFZV0dsdVk2bnRJNURWb2pfemJlZTdLc3VqcTJCS3pLVTM?oc=5",
       "s": "MSN",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India IT Study",
-      "role": "New study",
-      "txt": "A new study reports India’s IT sector is adopting generative AI with roles being reshaped, <em>without mass job losses</em>. The focus is on adaptation and reskilling rather than large-scale displacement.",
-      "lk": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVhlcmJZamszZlQ4Vk9NV3dtekc4NmdzZmxLbndMTFZmX1NhMmRtRUJRVE54U0N5ZmtrMDBEN3FkR2g3SWt2ZW1DczBjbFdnOVJXZGVDc3FPWnF5c05qcTJTZUxtdWItVmRiT0gzbXN3UmozeGc3U2pIY2FCNWM5Q3otLUx6UElDdjBHT0JveW1ObzRKZS1BbTl4VGE0dklxVnZYTmp6QzVEam1SRG1iZUl5bGpSNlcyVEVPbjE3TUd3SEIyczdnbDZ2ZHctOVRDeWl6ekZoUmpuMVFEZFJVOXNB0gHoAUFVX3lxTFBacm52TkNvc3ZWMThaNlRxWFRMd19tVWZPQ1VGOFZZOTJtdmotY3lfeUdBMTE2YkNHS3BOMzd4Tlp4Nl9xQWo2RUR2b0pFNlMtQjRfZWZTN2M4NzBJNG90ODJWbFNqR1BUWHNGLUlGeER5alhtaGhDZC1VdEIzT0ZxbmpGVjllT2J0T01PbVdOTy0xeG5TcU41U0p2N0JQQlEta0xCeG1rajl0T3NXNWl5UVVPdDNPNnpqUl9zaVJIMTVnUFBZbGpXbTd2VXJXdWJRLXY3ZWtDLW9xMko0YUVYeUxZTFp3MFI?oc=5",
-      "s": "The Indian Express",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "OpenAI Hiring",
-      "role": "Workforce Doubling",
-      "txt": "OpenAI plans to <em>double its workforce</em>, pointing to growing demand for enterprise AI talent.",
-      "lk": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFgzdzVFb041MUJjb2p2eHcxbzZ3a1JYT2lEMkd4QVpGQjBGRmNRXy1rZEVwaTdQOFRFa2Y4bEVOU01XSmRIT2pXQnNZeTdKVWE3NVMxRjZkV1dEYlV3Q0ZzT1pjV1cxazAwRVhmZHh5bG51Z2hlVUQzMmZMcnJYdFRZUVozVF9wUzBNXzRXZ2g2R3RVNEwtcmhBcjVuZlJGanliQkdIX3J5NHIySEhhby0tMjhqMUs1NHhyaXotVEVtVC1PTkgw?oc=5",
-      "s": "Computerworld",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India AI Hiring",
-      "role": "LinkedIn Report",
-      "txt": "A LinkedIn report says India’s AI engineering hiring rose 59.5%, highlighting continued demand for AI talent.",
-      "lk": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeURRTjFQbkVwVUpXY1dYODZGY0NVYlZ5SlFaYXpycG1HNE04cnZGbXRtNGNNQ3YyMU9md1NUc1JjSmRxSFVOTE9rQnhYMmdTR0d6RkRaVTVxVnhUTENmUF9ENE1QdjhPMmtrTnNremhjcUQ4UlJjUEVMazlRaklHVkhmXzlVbUpMVlRhZEVYVDRxZkVIZEVUNXU5WVFVSVlIMzlFSTdZV2FYeWlvdGd6TzBDaE02QzlkUkFBZ0gwdzlWU0tFV0xxX0NpQ2UxMUM2X2lha0ktMTRHQnJKaVVfZHBKWllMbXljenJqUGFhVjJodU80Q1FHS3JRLVlCZG1I?oc=5",
-      "s": "Dailyhunt",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
