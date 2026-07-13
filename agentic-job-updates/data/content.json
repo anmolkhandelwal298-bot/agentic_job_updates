@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "JUL 2026 · LAYOFFS: NO NEW VERIFIED SINGLE-COMPANY CUTS IN TODAY’S FEED · INDIA: 3.5 LAKH AI OPENINGS IN 90 DAYS (REPORT)",
+  "ticker_text": "INDIA AI HIRING: 3.5 LAKH OPENINGS IN 90 DAYS · FDE ROLES GO UP TO $1M",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: CNBC · Reuters · India Today · HR Katha · Updated Jul 2026",
+  "footer_text": "Sources reviewed: Moneycontrol · India Today · Updated Jul 2026",
   "layoffs": [
     {
       "c": "Intuit",
@@ -542,6 +542,24 @@
   ],
   "india": [
     {
+      "c": "AI Hiring Pulse",
+      "role": "90-Day Openings",
+      "txt": "A report says India logged <em>3.5 lakh AI job openings in 90 days</em>, pointing to strong demand despite disruption concerns.",
+      "lk": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSWwwOFJITW9objJCUHk2TjRwQXpjVmN5b0hNUGNZWTZXU1ViX0syblNKYklrRXlYdnNSZVFjZHJqSVRJS25jVEhnX1JkOFZRUTlrNUxLRGkxdElxZlBKV0w2WkJUbnlldEZ0VmVQMFBPTDNjbHgtRENvLVgtb2I2c2VxRmEtVUhUQmVjeldiOE9XRC1MUnJuWEloNHp4dUhDMlpXNVRTMWRKNE9kYVNIMFBSQmp6dUVKdW11QjRORi0zVUtKeUR5Ul93X0Jta01Qc2JrR21ENm5uaEhISlJvcWM5cGpibFhlV2dWTTdwc1_SAfYBQVVfeXFMUEdZZmV1Sk5abjNmUkZlaVJSX1dOQ0gxM29sRThYeHhHdnVDZUt0Zng5Rk1TUDF3clNmejBaQnJzTkI3ZzE3VDFnQklMSmlDSVhoX3VhY2pfeTdGNjZ3VTRQcVZVVHI5S0t5T0k4SDdETEN2TmVOTFlGNThyZlp0d3RnbVc4aWpyMzM2OXowVUNDNG1xWHQ4V3Rjc1RHVlFlZzJtaS01c3ZnRWV1eDhmRkJFZTM0MndTYkF5VmphSVdVNThwNXBHYzBZWmtVTWpIMkNBVTA3UTdwcHNCNlZlUHdocURDdE1ZSGxsa0t4Q1NwMWpjZndn?oc=5",
+      "s": "Moneycontrol.com",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
+      "c": "Forward Deployed Engineers",
+      "role": "High-Pay AI Roles",
+      "txt": "Forward Deployed Engineer roles are being highlighted as a fast-rising AI job category, with pay cited as high as <em>$1 million</em> for some positions.",
+      "lk": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzRkenlXTEtNaFJUT05FUjJ4QUtDTHJMaGVGN2F2OEZySzdrMFN3OEdUc0QtbTBHajlsY1BaaU9GZ1dDR3VleXlkOWV6Y3FZeGFuYVdtOXYxOW12LUdTSUtUWEh1N0hvZmFCektKUTc2RTVOdkdGVTZiQ09XQTE5enJIc1VrM3ZsQzcxS2F0TjFuVTY3VjRGNUI4SERyZWJhUXRURHMzTlFqSVIyb3ZRTHJhd1daNTFGSzZZZVV4V3lHRDNxdUhBVEZQZW5hLXlzSGZiZWltc9IB3AFBVV95cUxNN2l5RHpoeV9UTFV4a3ZVcEpWWFZzU2trWlVSX3BWMVRxVm5oTHZuaHZVMk9QY21ZNkF2X3VLZTFad3F3T29IY1dIMVhUMXc4cXdlWi1rWmFDY2tFMURrUzNqVWt4VDBPU0ZvNV9zYnJvaUc4bmEzVzV4Y18xbzBDQnFJV19rQzVkNnp3ejdTNFhwcVI1YXNhNnpCbmJLVG1fUHpYSTdvaEM4UjczeC02VHFyZHdvYm5VQmNhREJfajNUTVJDSVhWV09udVZuTzUtT0ZrYVY2NXF5aU4y?oc=5",
+      "s": "India Today",
+      "col": "#5b9cf6",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "AI Openings India",
       "role": "HR Katha Report",
       "txt": "A report flags <em>3.5 lakh AI job openings in 90 days</em> in India, suggesting demand is rising even amid disruption fears.",
@@ -557,15 +575,6 @@
       "lk": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEVSaGJRYkNObEUyVWk0VGIxTUlnU3N0TUJROWZ6UE85cDFENXZzcGVDSXhhWXg2V2ZuU19jUVpNZWpSeWZIUmQ2eDVlNS1uXzFHVTAtXzYwalh0aXMxelhBcG1zb3RjNHgzQTZuM2V4WXJxN1RPWFZyNC1yVGZxT1pNRl95TlNmRlNRV1FRQUhkZjBrY2N0TGZyVTFHZjZMejNnMko4ZWhxLVRkRC1OWnExcUHSAboBQVVfeXFMTzA2V2JQdHdFSmpNS3U5azRsTU53WS0tUnd6cEhFdUdETlZSbm9VNTVFQ2J5YllvcllhM0ptaWFlV1QzelJJdkRoX1o3SmZVd19tV0F4aFlGTGlWT0JLOTNHRHI4VlRiZGNJVzlkS0RWWUZjYWJDUTAtWklicGFmV1hodXN5YnBIdnRPekJ6YjhMWW9vQXJIOFlpWl9iNmk1UzJKVUZ4LVlmM1ZZYlBqbEdnSzJESGtfZWJ3?oc=5",
       "s": "India Today",
       "col": "#5b9cf6",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "Forward-Deployed Engineers",
-      "role": "India Today Pay Trend",
-      "txt": "An explainer on why forward-deployed engineers are in demand, highlighting compensation that can reach <em>up to $1 million</em> for the role.",
-      "lk": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbzRkenlXTEtNaFJUT05FUjJ4QUtDTHJMaGVGN2F2OEZySzdrMFN3OEdUc0QtbTBHajlsY1BaaU9GZ1dDR3VleXlkOWV6Y3FZeGFuYVdtOXYxOW12LUdTSUtUWEh1N0hvZmFCektKUTc2RTVOdkdGVTZiQ09XQTE5enJIc1VrM3ZsQzcxS2F0TjFuVTY3VjRGNUI4SERyZWJhUXRURHMzTlFqSVIyb3ZRTHJhd1daNTFGSzZZZVV4V3lHRDNxdUhBVEZQZW5hLXlzSGZiZWltc9IB3AFBVV95cUxNN2l5RHpoeV9UTFV4a3ZVcEpWWFZzU2trWlVSX3BWMVRxVm5oTHZuaHZVMk9QY21ZNkF2X3VLZTFad3F3T29IY1dIMVhUMXc4cXdlWi1rWmFDY2tFMURrUzNqVWt4VDBPU0ZvNV9zYnJvaUc4bmEzVzV4Y18xbzBDQnFJV19rQzVkNnp3ejdTNFhwcVI1YXNhNnpCbmJLVG1fUHpYSTdvaEM4UjczeC02VHFyZHdvYm5VQmNhREJfajNUTVJDSVhWV09udVZuTzUtT0ZrYVY2NXF5aU4y?oc=5",
-      "s": "India Today",
-      "col": "#22c55e",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
     {
@@ -646,15 +655,6 @@
       "txt": "A CBRE note says Bengaluru and Delhi-NCR together account for about <em>50%</em> of India’s AI job openings, highlighting where demand is clustering.",
       "lk": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHVSU3pDTnE5azROeFFXbnlWNFg0bUgwMTNsSkFCdlZTeHpUTm1Sa1ktTjRsMVNhWkJGVGczR0M4VmdVWWthOVlhMnM3bXlBNm8zWE5ucUpWcU1iMG1NZE9ZY1o5LUpfRHFETkl6MWNtbm4wOVVmcF9mRWlNaGhZMFMtcG9tZTZfMHNwYWZRUEF2TmoxWkE5TzY4RDJaWUtMbjlaZUdpTnlJeHZaRGVNY0w0alIxR19ES3BERE0tTXBLY2J2TjlTbmpNZVNlZkFsTVhpWg?oc=5",
       "s": "ANI News",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "India AI Hiring",
-      "role": "Moneycontrol Data",
-      "txt": "Moneycontrol reports India logged <em>3.5 lakh AI job openings in 90 days</em>, highlighting sustained demand despite disruption concerns.",
-      "lk": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSWwwOFJITW9objJCUHk2TjRwQXpjVmN5b0hNUGNZWTZXU1ViX0syblNKYklrRXlYdnNSZVFjZHJqSVRJS25jVEhnX1JkOFZRUTlrNUxLRGkxdElxZlBKV0w2WkJUbnlldEZ0VmVQMFBPTDNjbHgtRENvLVgtb2I2c2VxRmEtVUhUQmVjeldiOE9XRC1MUnJuWEloNHp4dUhDMlpXNVRTMWRKNE9kYVNIMFBSQmp6dUVKdW11QjRORi0zVUtKeUR5Ul93X0Jta01Qc2JrR21ENm5uaEhISlJvcWM5cGpibFhlV2dWTTdwc1_SAfYBQVVfeXFMUEdZZmV1Sk5abjNmUkZlaVJSX1dOQ0gxM29sRThYeHhHdnVDZUt0Zng5Rk1TUDF3clNmejBaQnJzTkI3ZzE3VDFnQklMSmlDSVhoX3VhY2pfeTdGNjZ3VTRQcVZVVHI5S0t5T0k4SDdETEN2TmVOTFlGNThyZlp0d3RnbVc4aWpyMzM2OXowVUNDNG1xWHQ4V3Rjc1RHVlFlZzJtaS01c3ZnRWV1eDhmRkJFZTM0MndTYkF5VmphSVdVNThwNXBHYzBZWmtVTWpIMkNBVTA3UTdwcHNCNlZlUHdocURDdE1ZSGxsa0t4Q1NwMWpjZndn?oc=5",
-      "s": "Moneycontrol",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     },
