@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "MICROSOFT CUTS 4,800 (XBOX UNIT) · FRESHWORKS CUTS 500 (AI TRANSFORMATION) · INDIAN IT FIRMS ADD JUST 17 NET EMPLOYEES IN 9 MONTHS",
+  "ticker_text": "INDIA AI HIRING: 3.5 LAKH OPENINGS IN 90 DAYS (TECHGIG)",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,7 +117,7 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: CNBC · People Matters · Computerworld · Updated Jul 2026",
+  "footer_text": "Sources reviewed: CNBC · People Matters · TechGig · Updated Jul 2026",
   "layoffs": [
     {
       "c": "Intuit",
@@ -542,6 +542,15 @@
   ],
   "india": [
     {
+      "c": "AI Hiring Pulse",
+      "role": "TechGig Report",
+      "txt": "TechGig reports <em>3.5 lakh</em> AI job openings in India in the last 90 days, highlighting fast-growing demand amid a talent shortage.",
+      "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjRtX19rWGJxcGg1WUZ6b2ZUWGpRb1U2T2dKYlNBSXJPZXFVRlQyZ0V2aEU2RGcwVklrMjFLNVhyY1JHNHBaM3JHYWk5anE4QmpobTNOclFpbE4tSlV3Q3dqcThwTTZNN1M1UWM0R1ZLREVpMTZra0FEbU9FLUdKNkhweXZoUGN6S3J5Q2NaMmNrVWRNOVFrblhhS0ZYLS1aN0tjVnpnYVZzVnpBYXBQdF9kazFVd9IBuwFBVV95cUxQRUJhRVZ2MFhPeGxNdW1GOVY5MGZacGU0WnFKTzNDMWxTU2VFcjQtcUpuUWVQWXc4eW8wYXczcHQtWEs0MF9hT2t2bTAyRWh6SnZ2a3ZQWWFhLVZWV0tyaWJ3OXZEcFVMTEF3VnVOdkZibmJJSGg2QVNFd2g3NmFGc0F3VUlSNmd2ZEdpMnBDNGVLckJPcjl2N2g4Vms4YWVNR05aLW92OW5yNmdtTU53cVo2V2ZMUDVSVVlv?oc=5",
+      "s": "TechGig",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
+    {
       "c": "Indian IT Hiring",
       "role": "Headcount Update",
       "txt": "Computerworld reports Indian IT firms added <em>just 17 net employees</em> over nine months, highlighting a hiring slowdown even as AI adoption rises.",
@@ -648,15 +657,6 @@
       "s": "Swarajya",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Hiring Surge",
-      "role": "TechGig Report",
-      "txt": "TechGig reports India logged <em>3.5 lakh AI job openings in 90 days</em>, pointing to strong demand alongside a talent shortage.",
-      "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjRtX19rWGJxcGg1WUZ6b2ZUWGpRb1U2T2dKYlNBSXJPZXFVRlQyZ0V2aEU2RGcwVklrMjFLNVhyY1JHNHBaM3JHYWk5anE4QmpobTNOclFpbE4tSlV3Q3dqcThwTTZNN1M1UWM0R1ZLREVpMTZra0FEbU9FLUdKNkhweXZoUGN6S3J5Q2NaMmNrVWRNOVFrblhhS0ZYLS1aN0tjVnpnYVZzVnpBYXBQdF9kazFVd9IBuwFBVV95cUxQRUJhRVZ2MFhPeGxNdW1GOVY5MGZacGU0WnFKTzNDMWxTU2VFcjQtcUpuUWVQWXc4eW8wYXczcHQtWEs0MF9hT2t2bTAyRWh6SnZ2a3ZQWWFhLVZWV0tyaWJ3OXZEcFVMTEF3VnVOdkZibmJJSGg2QVNFd2g3NmFGc0F3VUlSNmd2ZEdpMnBDNGVLckJPcjl2N2g4Vms4YWVNR05aLW92OW5yNmdtTU53cVo2V2ZMUDVSVVlv?oc=5",
-      "s": "TechGig",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=foundit.in&sz=128"
     },
     {
       "c": "AI Hiring Hubs",
