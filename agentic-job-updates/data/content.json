@@ -1,7 +1,7 @@
 {
   "page_title": "AI & Jobs: The Layoff Wave vs India's Opportunity Surge — Evidence Tracker",
   "meta_description": "AI layoffs tracker with real news links + India's booming AI job market data. Updated April 2026.",
-  "ticker_text": "INDIA AI HIRING: 3.5 LAKH OPENINGS IN 90 DAYS (TECHGIG)",
+  "ticker_text": "META: AI-LAYOFF BIAS LAWSUIT · INDIA GCC HIRING: AI SKILLS NEARLY 2/3 OF NEW ROLES",
   "hero": {
     "badge": "EVIDENCE TRACKER — JUL 2026",
     "title": "The <em>AI Layoff Wave</em> Is Real. So Is India's <em>Opportunity Surge</em>.",
@@ -117,8 +117,22 @@
     "link": "https://www.newtonschool.co/agentic-ai-course",
     "button": "Enroll Now →"
   },
-  "footer_text": "Sources reviewed: CNBC · People Matters · TechGig · Updated Jul 2026",
+  "footer_text": "Sources: The Economic Times · The Tech Buzz · Updated Jul 2026",
   "layoffs": [
+    {
+      "c": "Meta",
+      "ind": "Technology",
+      "imp": "Major cuts",
+      "d": "Jul 2026",
+      "y": "2026",
+      "big": 0,
+      "col": "#ff3b30",
+      "txt": "A lawsuit alleges Meta’s AI-driven layoff process led to discriminatory outcomes, keeping focus on how automated decisioning is used in restructuring.",
+      "q": "Lawsuit alleges discriminatory outcomes from AI-driven layoffs at Meta.",
+      "lk": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjJ5d3BkbEI1eTZUeENaRER2RzdFYzUza2N2VGhqNVZGM2Jidm00X0ZGaUZzaVdUVHAzM2taR1RQeUNZcWlpcFZrZm1laHU5MFV5aC1QUHFqS2NXVjVkODc1anVjZ1JUM2hWM0pUUGc0MEN0aUs3TDk1MkhINUE0c1AxR0llbF9lUHJDUjVWMmtJX2s?oc=5",
+      "s": "The Tech Buzz",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "Intuit",
       "ind": "Fintech",
@@ -524,23 +538,18 @@
       "lk": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbllHdzFHVWVjbXh3Z2laUlJGMm9QUzNSM2JjbE5ueTlVcDVfYjViOVBJT1U0ODFndm53RDVPbjlZS1hKMXJBMVFKX2F3UW1KTVh5ekdCWmc3eW9jTnRXaFZSeEdaU3l4TV9wbndneGQ0OFFYSEFZekNWRXdXNS1wR0hMTjBndFgwN1FHbURaLS1US1ROQV9VdWxuZDZaOURiOC1IODFzbk1Ec05uUktMbUtPeFVFZw?oc=5",
       "s": "BW People",
       "logo": "https://www.google.com/s2/favicons?domain=amazon.com&sz=128"
-    },
-    {
-      "c": "Cognizant",
-      "ind": "IT Services",
-      "imp": "4,000",
-      "d": "Apr 2026",
-      "y": "2026",
-      "big": 0,
-      "col": "#ff9500",
-      "txt": "Cognizant is set to cut 4,000 jobs as its \"Project Leap\" ramps up AI and automation and reshapes global work allocation.",
-      "q": "Cognizant to cut 4,000 jobs under Project Leap.",
-      "lk": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmdqdnUyRDFQanlCNDFJM21qbzVJNGFJb1B2R0xSU2hmcndlNTk0eERHc25MVHVCaWFkODlEbUs5X1VsWklpclNJdk9LUXRqY2YxelRwSzEySzBQVU5LT3ZEMzNSQVl0ckxRMGtldWxRamFFdFIwZS0wR2NJakI0ZXl6Skw2djNHc0U4SnZydThza2pUNVctZ0pWcTF4LTEwc19pV3hpUjdBNzNBc29NSTUwdDBJcmct0gG-AUFVX3lxTE5IQzVxTFptMlNXaUJQZ2t6VXFpbmNHcjJPZk8xR3ZPSk9vTUdMQ0w5QTAweVh4WUl6TEJkRE9fSHRyVUhDTkpNMXFoOW9tODhqX3EyS1YzclFsQkpmTUtwZlU3UFg2Mnkza2lISGpnT2toazd4ZGxVZWhHRm56ZmtOSko0RFNxWDRDR3VpOGt3ZlI4X2RqWUFrNnFoeDJCUWZkV0kxT3hPTF80SHNnRlZXSXlOUWIwRl9RZTc3amc?oc=5",
-      "s": "CNBC TV18",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
   ],
   "india": [
+    {
+      "c": "GCC Hiring",
+      "role": "AI Skills Share",
+      "txt": "A report says AI skills are powering <em>nearly two-thirds</em> of new GCC hiring in India, signaling strong demand for AI-skilled engineers in enterprise captive centers.",
+      "lk": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYUQyRUR4UzNZSDV0NEY5Z0NscldvcXlWSnBlRFFyUjh5eURZNW9xTGNhemdKLXZMR1B3bWc1RVlzT1pzWVBfRUtkbnhKVV9YYVluenJjQkhmOGtUazVfbVNmQUd5bjlQOW1zcG5NVHpvOWtudHFWYmp1eHNNekNGbjhNMHFaWUZvNEtYX01xQk1ZclF2NVgzQkNKdW5kTVJtdFQ2Q1VWc0I1Zy1kejNEYTR2bkZ1bnJEQkdCdWNMSWFoOXY5TDlBaXlpTkdvRlBJQVJIRNIB2gFBVV95cUxNV1czQWlFVzYzMllRdEJmeF9XbTV4WDZnSjd0MlJtXzNuNjBnc1E0aHM1SFBEWTR5ZWxQZlA1N0VPektOR1F1d0swakxLaXBic0hySVRUN2w4bWxsT1RUeW1OeDBBcjVyTVhYTWVDVnI4RzNOakZKZlItRnpTZll5VklHNnV5bGJ1Y29jcmRLSDZFWG9fbU1DLU5neXRpdnN4M09aTUR0dmdoUlJrU3NWNF9Gd1NqUHlvRWZIb2FfcXhsQ0x1elEzczdLZlJDV0R3T244YWVNSjZOQQ?oc=5",
+      "s": "The Economic Times",
+      "col": "#2dd4a0",
+      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
+    },
     {
       "c": "AI Hiring Pulse",
       "role": "TechGig Report",
@@ -709,15 +718,6 @@
       "txt": "OpenAI is deepening its India presence with <em>Bengaluru hiring</em> focused on startup AI deployment and support. The move signals continued demand for applied AI and developer-facing roles in India.",
       "lk": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnRZeTkyTWdOcXJtQ0RQUm1mN0d3NEE1N0VnZjd0VWFCZXdOSTM5VHlvaEZKLVZCUUtmRkpMWi00dF84TVBNZjBzM0NNWG4tQTFDUjlld2dmeVQ2SnVWZlM2XzVxMzdnNTlSdUs3dEpRWm9UR1Y3d3B6MkFzeDdVdER6eTd0TGNYU3VpWjVfMGrSAZABQVVfeXFMTmZ0WXk5Mk1nTnFybUNEUFJtZjdHdzRBNTdFZ2Y3dFVhQmV3TkkzOVR5b2hGSi1WQlFLZkZKTFotNHRfOE1QTWYwczNDTVhuLUExQ1I5ZXdnZnlUNkp1VmZTNl81cTM3ZzU5UnVLN3RKUVpvVEdWN3dwejJBc3g3VXREenk3dExjWFN1aVo1XzBq?oc=5",
       "s": "CIOL",
-      "col": "#2dd4a0",
-      "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
-    },
-    {
-      "c": "AI Hiring Pulse (India)",
-      "role": "High-paying roles",
-      "txt": "A report highlights a <em>27% surge</em> in high-paying AI roles, signaling continued demand for specialized AI skills despite broader tech cost-cutting.",
-      "lk": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd19MZ2owS0NYUVdjR3R6cWNrWHRhQzZQdTdMVktfMkNtTkhDU1BweXQ1ajNkbGZsVDc5OXZ0Um1yRjRteldpZ2pNQTljS0dMRXdQY0FfNzZyV2lkSVJ4OVZiY3ozVlRhVTdrMVVVOVVlb1BwTmJkd2NXMHNmM2xvRldYdjFxSFJWTmg1RlVma0VXY2hzR1VDQlIxNEhTM2FrXzZCS0xNZjB3ckpycFh6bV9CZlM2c09pOGx6ekJiS0tKZXFZV0dsdVk2bnRJNURWb2pfemJlZTdLc3VqcTJCS3pLVTM?oc=5",
-      "s": "MSN",
       "col": "#2dd4a0",
       "logo": "https://www.google.com/s2/favicons?domain=news.google.com&sz=128"
     }
